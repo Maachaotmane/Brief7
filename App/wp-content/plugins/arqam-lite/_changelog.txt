@@ -1,0 +1,28 @@
+*** Arqam Lite Changelog ***
+-------------------------------------------------------------------------
+
+Version 1.0.7 - 08-07-2019
+- Updated: New field to set the number of Instagram followers, as Instagram has updated their API and removed the number of followers https://developers.facebook.com/docs/instagram-basic-display-api/reference/user#edges
+
+Version 1.0.6 - 29-09-2019
+- Fixed: Instagram Counter issue, you need to set the Access token in the plugin settings page.
+
+Version 1.0.5 - 17-09-2019
+- Fixed: Instagram Counter issue.
+
+Version 1.0.4 - 11-05-2019
+- Fixed: Facebook Counter issue.
+
+Version 1.0.3 - 08-05-2019
+- Fixed: Facebook Counter issue.
+- Updated: Instagram Counter API.
+- Removed: Google+ counter.
+
+Version 1.0.2 - 10-09-2018
+- Fixed: Facebook Counter issue.
+
+Version 1.0.1 - 15-04-2018
+- Updated: Dribbble API.
+
+Version 1.0.0
+- First release

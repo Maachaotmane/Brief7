@@ -1,0 +1,6441 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Jannah\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-05-08 14:06+0300\n"
+"PO-Revision-Date: 2019-05-08 14:07+0300\n"
+"Last-Translator: Fouad Badawy <support@tielabs.com>\n"
+"Language-Team: Tielabs <info@tielabs.com>\n"
+"Language: ar\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: gettext;gettext_noop;_e;__;esc_attr__;esc_html__;"
+"esc_html_e;_n:1,2;_n_noop:1,2;_nx_noop:1,2;_nx:1,2;_x\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 && "
+"n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5;\n"
+"X-Generator: Poedit 2.2.1\n"
+"X-Poedit-SearchPath-0: languages\n"
+"X-Poedit-SearchPath-1: .\n"
+"X-Poedit-SearchPathExcluded-0: framework/admin/inc/tgm\n"
+"X-Poedit-SearchPathExcluded-1: framework/admin/assets\n"
+"X-Poedit-SearchPathExcluded-2: js\n"
+"X-Poedit-SearchPathExcluded-3: framework/admin/inc/one-click-demo-import\n"
+
+#: arqam-lite-admin.php:51
+msgid "Arqam Lite - Social Counters"
+msgstr "أرقام لايت - عداد الشبكات الإجتماعية"
+
+#: arqam-lite-admin.php:52
+msgid "Arqam Lite"
+msgstr "أرقام لايت"
+
+#: arqam-lite-admin.php:196 arqam-lite-admin.php:203
+msgid "Dribbble App info"
+msgstr "معلومات Dribbble App"
+
+#: arqam-lite-admin.php:208
+msgid "App ID"
+msgstr "App ID"
+
+#: arqam-lite-admin.php:212
+msgid "App Secret"
+msgstr "App Secret"
+
+#: arqam-lite-admin.php:218 arqam-lite-admin.php:265 arqam-lite-admin.php:331
+#: arqam-lite-admin.php:358 arqam-lite-admin.php:394 arqam-lite-admin.php:414
+#: arqam-lite-admin.php:442 arqam-lite-admin.php:466 arqam-lite-admin.php:490
+#: arqam-lite-admin.php:510 arqam-lite-admin.php:530 arqam-lite-admin.php:589
+msgid "Need Help?"
+msgstr "تحتاج لمساعده؟"
+
+#: arqam-lite-admin.php:218
+#, php-format
+msgid ""
+"Enter Your App ID and App Secret, <a href=\"%s\" target=\"_blank\">Click "
+"Here</a> For More Details."
+msgstr ""
+"أدخل App ID و App Secret لجلب بيانات API اللازمه <a href=\"%s\" target="
+"\"_blank\">إضغط هنا</a> لمزيد من المعلومات ."
+
+#: arqam-lite-admin.php:226 arqam-lite-admin.php:274
+msgid "Submit"
+msgstr "حفظ"
+
+#: arqam-lite-admin.php:243 arqam-lite-admin.php:250
+msgid "Twitter App info"
+msgstr "معلومات Twitter App"
+
+#: arqam-lite-admin.php:255
+msgid "Consumer key:"
+msgstr "Consumer key:"
+
+#: arqam-lite-admin.php:259
+msgid "Consumer secret:"
+msgstr "Consumer secret:"
+
+#: arqam-lite-admin.php:265
+#, php-format
+msgid ""
+"Enter your APP Consumer key and Consumer secret, <a href=\"%s\" target="
+"\"_blank\">Click Here</a> For More Details."
+msgstr ""
+"أدخل Consumer key و Consumer secret, <a href=\"%s\" target=\"_blank\">إضغط "
+"هنا</a> لمزيد من المعلومات ."
+
+#: arqam-lite-admin.php:291
+msgid "Settings saved."
+msgstr "تم حفظ الاعدادات"
+
+#: arqam-lite-admin.php:295
+msgid "Arqam Lite Settings"
+msgstr "اعدادات Arqam Lite"
+
+#: arqam-lite-admin.php:295 arqam-lite-admin.php:601
+msgid "Need More?"
+msgstr "تبحث عن المزيد؟"
+
+#: arqam-lite-admin.php:303
+msgid ""
+"This Theme doesn't support Arqam Lite, Please Install one of TieLabs's Themes"
+msgstr ""
+
+#: arqam-lite-admin.php:317
+msgid "Facebook"
+msgstr "Facebook"
+
+#: arqam-lite-admin.php:322
+msgid "Page ID/Name"
+msgstr "الاسم/الرقم التعريفي للصفحه"
+
+#: arqam-lite-admin.php:326 arqam-lite-admin.php:346 arqam-lite-admin.php:373
+#: arqam-lite-admin.php:409 arqam-lite-admin.php:430 arqam-lite-admin.php:457
+#: arqam-lite-admin.php:481 arqam-lite-admin.php:505 arqam-lite-admin.php:525
+#: arqam-lite-admin.php:564
+msgid "Text Below The Number"
+msgstr "النص أسفل الرقم"
+
+#: arqam-lite-admin.php:331
+msgid "Enter Your Facebook Page Name."
+msgstr "‫أدخل معرف صفحة فيسبوك."
+
+#: arqam-lite-admin.php:337
+msgid "Twitter"
+msgstr "Twitter"
+
+#: arqam-lite-admin.php:342 arqam-lite-admin.php:426 arqam-lite-admin.php:453
+#: arqam-lite-admin.php:477 arqam-lite-admin.php:501 arqam-lite-admin.php:521
+msgid "Username"
+msgstr "إسم المستخدم"
+
+#: arqam-lite-admin.php:350 arqam-lite-admin.php:434
+msgid "Access Token Key"
+msgstr "Access Token Key"
+
+#: arqam-lite-admin.php:353 arqam-lite-admin.php:437
+msgid "Get Access Token"
+msgstr "Get Access Token"
+
+#: arqam-lite-admin.php:358
+#, php-format
+msgid ""
+"Enter Your Twitter Account Username, your APP Consumer key and Consumer "
+"secret, <a href=\"%s\" target=\"_blank\">Click Here</a> For More Details."
+msgstr ""
+
+#: arqam-lite-admin.php:364
+msgid "YouTube"
+msgstr "YouTube"
+
+#: arqam-lite-admin.php:369
+msgid "Username or Channel ID"
+msgstr "اسم مستخدم أو الرقم التعريفي للقناة"
+
+#: arqam-lite-admin.php:377 arqam-lite-admin.php:461 arqam-lite-admin.php:485
+msgid "API Key"
+msgstr "مفتاح API"
+
+#: arqam-lite-admin.php:381 arqam-lite-admin.php:568
+msgid "Type"
+msgstr "النوع"
+
+#: arqam-lite-admin.php:394
+#, php-format
+msgid ""
+"Enter Your YouTube username or Channel ID, API Key and choose User or Channel "
+"from Type menu, <a href=\"%s\" target=\"_blank\">Click Here</a> For More "
+"Details."
+msgstr ""
+"أدخل إسم مستخدم آو قناه Youtube الخاصه بك و API Key  <a href=\"%s\" target="
+"\"_blank\">إضغط هنا</a> لمزيد من المعلومات ."
+
+#: arqam-lite-admin.php:400
+msgid "Vimeo"
+msgstr "Vimeo"
+
+#: arqam-lite-admin.php:405
+msgid "Channel Name"
+msgstr "اسم القناة"
+
+#: arqam-lite-admin.php:414
+msgid "Enter Your Vimeo Channel Name."
+msgstr "ادخل اسم قناة Vimeo ،"
+
+#: arqam-lite-admin.php:421
+msgid "Dribbble"
+msgstr "Dribbble"
+
+#: arqam-lite-admin.php:442
+#, php-format
+msgid ""
+"Enter Your Dribbble Account Username and the Access Token Key, <a href=\"%s\" "
+"target=\"_blank\">Click Here</a> For More Details."
+msgstr ""
+"أدخل معرف Dribbble و Access Token Key  <a href=\"%s\" target=\"_blank\">إضغط "
+"هنا</a> لمزيد من المعلومات ."
+
+#: arqam-lite-admin.php:448
+msgid "SoundCloud"
+msgstr "SoundCloud"
+
+#: arqam-lite-admin.php:466
+#, php-format
+msgid ""
+"Enter Your SoundCloud Account Username and the API Key, <a href=\"%s\" target="
+"\"_blank\">Click Here</a> For More Details."
+msgstr ""
+"أدخل إسم مستخدم SoundCloud و API Key  <a href=\"%s\" target=\"_blank\">إضغط "
+"هنا</a> لمزيد من المعلومات ."
+
+#: arqam-lite-admin.php:472
+msgid "Behance"
+msgstr "Behance"
+
+#: arqam-lite-admin.php:490
+#, php-format
+msgid ""
+"Enter Your Behance Account Username and the API Key, <a href=\"%s\" target="
+"\"_blank\">Click Here</a> For More Details."
+msgstr ""
+"أدخل إسم مستخدم Behance و API Key  <a href=\"%s\" target=\"_blank\">إضغط هنا</"
+"a> لمزيد من المعلومات ."
+
+#: arqam-lite-admin.php:496
+msgid "GitHub"
+msgstr "‏GitHub"
+
+#: arqam-lite-admin.php:510
+msgid "Enter Your Github Account Username."
+msgstr "أدخل إسم مستخدم Github الخاص بك."
+
+#: arqam-lite-admin.php:516
+msgid "Instagram"
+msgstr "Instagram"
+
+#: arqam-lite-admin.php:530
+msgid "Enter Your Instagram Username."
+msgstr "أدخل معرف إنستجرام الخاص بك."
+
+#: arqam-lite-admin.php:536
+msgid "RSS"
+msgstr "RSS"
+
+#: arqam-lite-admin.php:560
+msgid "Feed URL"
+msgstr "رابط الFeed"
+
+#: arqam-lite-admin.php:580
+msgid "Feedpress Json file URL"
+msgstr "رابط ملف الFeedpress Json"
+
+#: arqam-lite-admin.php:584
+msgid "Number of Subscribers"
+msgstr "عدد المتابعون"
+
+#: arqam-lite-admin.php:589
+#, php-format
+msgid ""
+"Enter Your Feed URl and the Feedpress Json file URL or Number of Subscribers "
+"manually <a href=\"%s\" target=\"_blank\">Click Here</a> For More Details."
+msgstr ""
+"أدخل رابط خلاصات و ملف Json ل Feedpress أو أدخل رقم المتابعون يدوياً <a href="
+"\"%s\" target=\"_blank\">إضغط هنا</a> لمزيد من المعلومات ."
+
+#: arqam-lite-admin.php:603
+msgid "Purchase the full version of Arqam plugin to get all following features"
+msgstr "إحصل على النسخة الكاملة من إضافة أرقام لتتمتع بكل هذه المميزات:"
+
+#: arqam-lite-admin.php:605
+msgid "Drag an Drop feature to sort icons as you wish !"
+msgstr "ميزة السحب و الإفلات لترتيب الشبكات الإجتماعية."
+
+#: arqam-lite-admin.php:606
+msgid "Option To set the Cache time to reduce load time and API calls."
+msgstr "خيار لتعيين مده حفظ الكاش لتقليل وقت التحميل و عدد الإستعلامات."
+
+#: arqam-lite-admin.php:607
+msgid "More Layout options."
+msgstr "المزيد من خيارات التصميم."
+
+#: arqam-lite-admin.php:608
+msgid "More Social Networks"
+msgstr "المزيد من الشبكات الإجتماعية"
+
+#: arqam-lite-admin.php:612
+msgid "Goodreads"
+msgstr "Goodreads"
+
+#: arqam-lite-admin.php:613
+msgid "Mixcloud"
+msgstr "‏Mixcloud"
+
+#: arqam-lite-admin.php:614
+msgid "Twitch"
+msgstr "‏Twitch"
+
+#: arqam-lite-admin.php:615
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: arqam-lite-admin.php:616
+msgid "LinkedIn"
+msgstr "LinkedIn"
+
+#: arqam-lite-admin.php:617
+msgid "Tumblr"
+msgstr "‏Tumblr"
+
+#: arqam-lite-admin.php:618
+msgid "Flickr"
+msgstr "صور من فليكر"
+
+#: arqam-lite-admin.php:619
+msgid "Foursquare"
+msgstr "‏Foursquare"
+
+#: arqam-lite-admin.php:620
+msgid "500px"
+msgstr "‏500px"
+
+#: arqam-lite-admin.php:621
+msgid "Vk"
+msgstr "Vk"
+
+#: arqam-lite-admin.php:622
+msgid "Envato"
+msgstr "Envato"
+
+#: arqam-lite-admin.php:623
+msgid "MailChimp List"
+msgstr "قائمة MailChimp"
+
+#: arqam-lite-admin.php:624
+msgid "Vine"
+msgstr "‏Vine"
+
+#: arqam-lite-admin.php:625
+msgid "Steam"
+msgstr "Steam"
+
+#: arqam-lite-admin.php:626
+msgid "myMail plugin list"
+msgstr "قائمة إضافة myMail"
+
+#: arqam-lite-admin.php:627
+msgid "Mailpoet plugin List"
+msgstr "قائمة إضافة myMail"
+
+#: arqam-lite-admin.php:628
+msgid "Members"
+msgstr "عدد الأعضاء"
+
+#: arqam-lite-admin.php:629
+msgid "Posts Number"
+msgstr "عدد المقالات"
+
+#: arqam-lite-admin.php:630
+msgid "Comments Number"
+msgstr "عدد التعليقات"
+
+#: arqam-lite-admin.php:631
+msgid "bbPress topics, replies and forums counters"
+msgstr "عدد مواضيع، ردود، منتديات bbPress."
+
+#: arqam-lite-admin.php:632
+msgid "BuddyPress groups counter"
+msgstr "عدد مجموعات BuddyPress"
+
+#: arqam-lite-admin.php:643 arqam-lite-admin.php:649
+msgid "Save Changes"
+msgstr "حفظ التغييرات"
+
+#: arqam-lite-counters.php:145 arqam-lite.php:51
+msgid "Fans"
+msgstr "متابعون"
+
+#: arqam-lite-counters.php:157 arqam-lite-counters.php:199
+#: arqam-lite-counters.php:211 arqam-lite-counters.php:223
+#: arqam-lite-counters.php:235 arqam-lite-counters.php:247 arqam-lite.php:52
+#: arqam-lite.php:53 arqam-lite.php:54 arqam-lite.php:55 arqam-lite.php:56
+#: arqam-lite.php:57 arqam-lite.php:58
+msgid "Followers"
+msgstr "متابعون"
+
+#: arqam-lite-counters.php:170 arqam-lite-counters.php:187
+#: arqam-lite-counters.php:259 arqam-lite.php:59 arqam-lite.php:60
+#: arqam-lite.php:61
+msgid "Subscribers"
+msgstr "متابعون"
+
+#~ msgid "Facebook App info"
+#~ msgstr "‏Facebook App معلومات"
+
+#~ msgid "Instagram App info"
+#~ msgstr "معلومات Instagram App"
+
+#~ msgid "Consumer ID:"
+#~ msgstr "Consumer ID:"
+
+#~ msgid "Consumer Secret:"
+#~ msgstr "Consumer Secret:"
+
+#~ msgid ""
+#~ "Enter Your App Client ID and App Client Secret, <a href=\"%s\" target="
+#~ "\"_blank\">Click Here</a> For More Details."
+#~ msgstr ""
+#~ "أدخل App ID و App Secret لجلب بيانات API اللازمه <a href=\"%s\" target="
+#~ "\"_blank\">إضغط هنا</a> لمزيد من المعلومات ."
+
+#~ msgid ""
+#~ "Enter Your Facebook Page Name or ID and click on Get Access Token to get "
+#~ "your App Access Token, <a href=\"%s\" target=\"_blank\">Click Here</a> For "
+#~ "More Details."
+#~ msgstr ""
+#~ "أدخل إسم أو ID صفحه FaceBook الخاصه بك ثم إضغط على زر Get Access Token "
+#~ "لجلب بيانات API اللازمه <a href=\"%s\" target=\"_blank\">إضغط هنا</a> "
+#~ "لمزيد من المعلومات ."
+
+#~ msgid "Google+"
+#~ msgstr "Google+"
+
+#~ msgid "Google+ ID"
+#~ msgstr "الرقم التعريفي Google‪+‬"
+
+#~ msgid ""
+#~ "Enter Your Google+ page or profile ID and Google API Key, <a href=\"%s\" "
+#~ "target=\"_blank\">Click Here</a> For More Details."
+#~ msgstr ""
+#~ "أدخل إسم أو ID صفحه Google ‪+‬ الخاصه بك و Google API Key  <a href=\"%s\" "
+#~ "target=\"_blank\">إضغط هنا</a> لمزيد من المعلومات ."
+
+#~ msgid ""
+#~ "Enter Your Instagram Username and click on Get Access Token to get your "
+#~ "App Access Token, <a href=\"%s\" target=\"_blank\">Click Here</a> For More "
+#~ "Details."
+#~ msgstr ""
+#~ "أدخل إسم مستخدم Instagram الخاص بك ثم إضغط على زر Get Access Token لجلب "
+#~ "بيانات API اللازمه <a href=\"%s\" target=\"_blank\">إضغط هنا</a> لمزيد من "
+#~ "المعلومات ."
+
+#~ msgid "Spotify"
+#~ msgstr "‏Spotify"
+
+#~ msgid "One thought on &ldquo;%s&rdquo;"
+#~ msgstr "رأي واحد على &ldquo;%s&rdquo;"
+
+#~ msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+#~ msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+#~ msgstr[0] "لا رأي على &ldquo;%2$s&rdquo;"
+#~ msgstr[1] "رأي واحد على &ldquo;%2$s&rdquo;"
+#~ msgstr[2] "رأيان على &ldquo;%2$s&rdquo;"
+#~ msgstr[3] "%1$s آراء على &ldquo;%2$s&rdquo;"
+#~ msgstr[4] "%1$s رأي على &ldquo;%2$s&rdquo;"
+#~ msgstr[5] "%1$s رأي على &ldquo;%2$s&rdquo;"
+
+#~ msgid "Category Layout"
+#~ msgstr "نظام عرض التصنيفات"
+
+#~ msgid "Posts Layout"
+#~ msgstr "مخطط المقال"
+
+#~ msgid "Slider"
+#~ msgstr "سلايدر"
+
+#~ msgid "Logo"
+#~ msgstr "لوجو الموقع"
+
+#~ msgid "Sidebar"
+#~ msgstr "إضافة عمود جانبي"
+
+#~ msgid "Styling"
+#~ msgstr "إعدادات المظهر"
+
+#~ msgid "Main Menu"
+#~ msgstr "القائمة الرئيسية"
+
+#~ msgid "Category Options"
+#~ msgstr "خيارات التصنيفات"
+
+#~ msgid "Default"
+#~ msgstr "الإفتراضي"
+
+#~ msgid "Classic"
+#~ msgstr "كلاسيك"
+
+#~ msgid "Large Thumbnail"
+#~ msgstr "صورة كبيرة"
+
+#~ msgid "Content"
+#~ msgstr "المحتوى"
+
+#~ msgid "Timeline"
+#~ msgstr "مخطط زمني"
+
+#~ msgid "Masonry"
+#~ msgstr "الأعمدة المتداخلة"
+
+#~ msgid "Excerpt Length"
+#~ msgstr "طول المقتطف"
+
+#~ msgid "Pagination"
+#~ msgstr "ترقيم الصفحات"
+
+#~ msgid "Next and Previous"
+#~ msgstr "السابق والتالي"
+
+#~ msgid "Numeric"
+#~ msgstr "أرقام"
+
+#~ msgid "Load More"
+#~ msgstr "تحميل المزيد"
+
+#~ msgid "Infinite Scroll"
+#~ msgstr "التمرير اللا نهائي"
+
+#~ msgid "Media Icon Overlay"
+#~ msgstr "تمييز مقالات الميديا"
+
+#~ msgid "Page Layout"
+#~ msgstr "نمط الصفحة"
+
+#~ msgid "Full-Width"
+#~ msgstr "العرض الكامل"
+
+#~ msgid "Boxed"
+#~ msgstr "مخطط المربع"
+
+#~ msgid "Framed"
+#~ msgstr "مخطط المحدد"
+
+#~ msgid "Bordered"
+#~ msgstr "مخطط البرواز"
+
+#~ msgid "Post Layout"
+#~ msgstr "نمط صفحة المقال (سنجل)"
+
+#~ msgid "Layout"
+#~ msgstr "المخطط"
+
+#~ msgid "Featured area background"
+#~ msgstr "خلفية المساحة المميزة"
+
+#~ msgid "Use the featured image"
+#~ msgstr "استخدام الصورة البارزة للمقال"
+
+#~ msgid "Yes"
+#~ msgstr "نعم"
+
+#~ msgid "No"
+#~ msgstr "لا"
+
+#~ msgid "Upload Custom Image"
+#~ msgstr "رفع صورة مخصصة"
+
+#~ msgid "- OR -"
+#~ msgstr "- أو -"
+
+#~ msgid "Background Color"
+#~ msgstr "لون الخلفية"
+
+#~ msgid "Post Format Settings"
+#~ msgstr "آعدادات نوع التدوينة"
+
+#~ msgid "Standard Post Format:"
+#~ msgstr "نمط المقال الإفتراضي"
+
+#~ msgid "Show the featured image"
+#~ msgstr "إظهار الصورة البارزة"
+
+#~ msgid "Image Post Format:"
+#~ msgstr "نمط المقال صورة"
+
+#~ msgid "Uncropped featured image"
+#~ msgstr "عدم قص الصورة البارزة"
+
+#~ msgid "Featured image lightbox"
+#~ msgstr "صورة بارزة + Lightbox"
+
+#~ msgid "Custom Logo"
+#~ msgstr "لوجو خاص"
+
+#~ msgid "Logo Settings"
+#~ msgstr "إعدادات اللوجو"
+
+#~ msgid "Image"
+#~ msgstr "صورة"
+
+#~ msgid "Site Title"
+#~ msgstr "عنوان الموقع"
+
+#~ msgid "Logo Text"
+#~ msgstr "نص اللوجو"
+
+#~ msgid "Logo Image"
+#~ msgstr "صورة اللوجو"
+
+#~ msgid "Logo Image (Retina Version @2x)"
+#~ msgstr "صوره اللوجو (نسخة الريتنا @2x)"
+
+#~ msgid ""
+#~ "Please choose an image file for the retina version of the logo. It should "
+#~ "be 2x the size of main logo."
+#~ msgstr ""
+#~ "من فضلك اختر ملف صورة اللوجو نسخة الريتنا، يجب أن تكون ضعف حجم الصورة "
+#~ "الأصلية."
+
+#~ msgid "Standard Logo Width for Retina Logo"
+#~ msgstr "العرض الطبيعي لصورة اللوجو"
+
+#~ msgid ""
+#~ "If retina logo is uploaded, please enter the standard logo (1x) version "
+#~ "width, do not enter the retina logo width."
+#~ msgstr ""
+#~ "إذا تم رفع لوجو نسخة ريتنا، من فضلك ادخل عرض اللوجو الطبيعي (1x)، لا تدخل "
+#~ "عرض اللوجو نسخة الريتنا."
+
+#~ msgid "Standard Logo Height for Retina Logo"
+#~ msgstr "الإرتفاع الطبيعي لصورة اللوجو"
+
+#~ msgid ""
+#~ "If retina logo is uploaded, please enter the standard logo (1x) version "
+#~ "height, do not enter the retina logo height."
+#~ msgstr ""
+#~ "إذا تم رفع لوجو نسخة ريتنا، من فضلك ادخل إرتفاع اللوجو الطبيعي (1x)، لا "
+#~ "تدخل إرتفاع اللوجو نسخة الريتنا."
+
+#~ msgid "Logo Margin Top"
+#~ msgstr "هامش اللوجو العلوي"
+
+#~ msgid "Leave it empty to use the default value."
+#~ msgstr "اتركه فارغاً إذا كنت تريد استخدام القيمة الإفتراضية"
+
+#~ msgid "Logo Margin Bottom"
+#~ msgstr "الهامش السفلي للوجو"
+
+#~ msgid "TieLabs Slider"
+#~ msgstr "سلايدر TieLabs"
+
+#~ msgid "Enable"
+#~ msgstr "تفعيل"
+
+#~ msgid "Videos Playlist"
+#~ msgstr "قائمة تشغيل الفيديوهات"
+
+#~ msgid "Number of posts to show"
+#~ msgstr "عدد المقالات المراد إظهارها"
+
+#~ msgid "Query Type"
+#~ msgstr "نوع الاستعلام"
+
+#~ msgid "Recent Posts"
+#~ msgstr "أخر المقالات"
+
+#~ msgid "Random Posts"
+#~ msgstr "مقالات عشوائية"
+
+#~ msgid "Custom Slider"
+#~ msgstr "سلايدر خاص"
+
+#~ msgid "Colored Mask"
+#~ msgstr "خلفية شفافة ملونة أعلى الصورة"
+
+#~ msgid "Animate Automatically"
+#~ msgstr "تحريك تلقائي"
+
+#~ msgid "Title Length"
+#~ msgstr "طول العنوان"
+
+#~ msgid "Post Excerpt"
+#~ msgstr "مقتطف المقال"
+
+#~ msgid "Post Primary Category"
+#~ msgstr "التصنيف الرئيسي للتدوينة"
+
+#~ msgid "Post Puplished date"
+#~ msgstr "تاريخ نشر التدوينة"
+
+#~ msgid "Playlist title"
+#~ msgstr "عنوان قائمة التشغيل"
+
+#~ msgid "Videos List"
+#~ msgstr "قائمة تشغيل الفيديوهات"
+
+#~ msgid "Enter each video url in a seprated line."
+#~ msgstr "ضع كل رابط فيديو في سطر منفصل."
+
+#~ msgid "Supports: YouTube and Vimeo videos only."
+#~ msgstr "يدعم: YouTube و Vimeo فقط."
+
+#~ msgid "Background Image"
+#~ msgstr "صوره الخلفية"
+
+#~ msgid "Background Video"
+#~ msgstr "خلفية فيديو"
+
+#~ msgid "Parallax"
+#~ msgstr "تأثير بارالكس"
+
+#~ msgid "Parallax Effect"
+#~ msgstr "نوع تأثير بارالكس"
+
+#~ msgid "Scroll"
+#~ msgstr "تمرير"
+
+#~ msgid "Scale"
+#~ msgstr "تكبير"
+
+#~ msgid "Opacity"
+#~ msgstr "تلاشي"
+
+#~ msgid "Scroll + Opacity"
+#~ msgstr "تمرير + تلاشي"
+
+#~ msgid "Scale + Opacity"
+#~ msgstr "تكبير + تلاشي"
+
+#~ msgid "Revolution Slider"
+#~ msgstr "سليدر Revolution"
+
+#~ msgid "Disable"
+#~ msgstr "تعطيل"
+
+#~ msgid "Unnamed"
+#~ msgstr "غير مُسمى"
+
+#~ msgid "Will override the sliders above."
+#~ msgstr "سيقوم بتخطي السليدرات بالأعلى"
+
+#~ msgid "Choose Slider"
+#~ msgstr "اختر سليدر"
+
+#~ msgid "No sliders found, Please create a slider."
+#~ msgstr "عفواً، لا توجد سليدرات، من فضلك قم بإنشاء سليدر."
+
+#~ msgid "LayerSlider"
+#~ msgstr "سليدر LayerSlider"
+
+#~ msgid "Custom Menu"
+#~ msgstr "قائمة خاصة"
+
+#~ msgid "Category Sidebar"
+#~ msgstr "عمود جانبي القسم"
+
+#~ msgid "Sidebar Right"
+#~ msgstr "العمود الجانبي يمين"
+
+#~ msgid "Sidebar Left"
+#~ msgstr "العمود الجانبي يسار"
+
+#~ msgid "Without Sidebar"
+#~ msgstr "بدون عمود جانبي"
+
+#~ msgid "One Column"
+#~ msgstr "عمود واحد"
+
+#~ msgid "Sticky Sidebar"
+#~ msgstr "عمود جانبي ثابت"
+
+#~ msgid "Custom Sidebar"
+#~ msgstr "عمود جانبي خاص"
+
+#~ msgid "Category Style"
+#~ msgstr "شكل التصنيف"
+
+#~ msgid "Primary Color"
+#~ msgstr "اللون الرئيسي"
+
+#~ msgid "Background"
+#~ msgstr "الخلفية"
+
+#~ msgid "Background Image type"
+#~ msgstr "نوع الخلفية"
+
+#~ msgid "None"
+#~ msgstr "لا شيء"
+
+#~ msgid "Pattern"
+#~ msgstr "نمط"
+
+#~ msgid "Background Pattern"
+#~ msgstr "نمط الخلفية"
+
+#~ msgid "Background Settings"
+#~ msgstr "إعدادات الخلفية"
+
+#~ msgid "Dots overlay layer"
+#~ msgstr "طبقة "
+
+#~ msgid "Background dimmer"
+#~ msgstr "خلفية باهتة"
+
+#~ msgid ""
+#~ "Value between 0 and 100 to dim background image. 0 - no dim, 100 - maximum "
+#~ "dim."
+#~ msgstr "قيمة بين 0 و ١٠٠."
+
+#~ msgid "Background dimmer color"
+#~ msgstr "لون الخلفية الباهتة"
+
+#~ msgid "Black"
+#~ msgstr "أسود"
+
+#~ msgid "White"
+#~ msgstr "أبيض"
+
+#~ msgid "Custom CSS"
+#~ msgstr "أكواد CSS خاصة"
+
+#~ msgid ""
+#~ "Paste your CSS code, do not include any tags or HTML in the field. Any "
+#~ "custom CSS entered here will override the theme CSS. In some cases, the !"
+#~ "important tag may be needed."
+#~ msgstr "أضف أكواد CSS هنا، لا تقم بوضع أي أكواد HTML هنا."
+
+#~ msgid "Main Demo"
+#~ msgstr "الديمو الرئيسي"
+
+#~ msgid "Choose the demo which you want to import"
+#~ msgstr "إختر الديمو المراد إستيراده"
+
+#~ msgid "First Footer"
+#~ msgstr "مساحة المربعات الجانبية الأولى في الفوتر"
+
+#~ msgid "Secound Footer"
+#~ msgstr "مساحة المربعات الجانبية الثانية في الفوتر"
+
+#~ msgid "1st Column"
+#~ msgstr "العمود الأول"
+
+#~ msgid "2d Column"
+#~ msgstr "العمود الثاني"
+
+#~ msgid "3rd Column"
+#~ msgstr "العمود الثالث"
+
+#~ msgid "4th Column"
+#~ msgstr "العمود الرابع"
+
+#~ msgid "Settings import file could not be found."
+#~ msgstr "ملف الإعدادات غير موجود."
+
+#~ msgid "Home"
+#~ msgstr "الرئيسية"
+
+#~ msgid "More"
+#~ msgstr "المزيد"
+
+#~ msgid "Menu Title"
+#~ msgstr "عنصر قائمة"
+
+#~ msgid "Sub Menu"
+#~ msgstr "قائمة فرعية"
+
+#~ msgid "Buy now!"
+#~ msgstr "شراء القالب"
+
+#~ msgid "About"
+#~ msgstr "عن"
+
+#~ msgid "World"
+#~ msgstr "أخبار العالم"
+
+#~ msgid "Travel"
+#~ msgstr "سياحة و سفر"
+
+#~ msgid "Games"
+#~ msgstr "ألعاب"
+
+#~ msgid "Foods"
+#~ msgstr "صحة و جمال"
+
+#~ msgid "Business"
+#~ msgstr "مال و أعمال"
+
+#~ msgid "Tech"
+#~ msgstr "تقنية"
+
+#~ msgid "Life Style"
+#~ msgstr "منوعات"
+
+#~ msgid "Update"
+#~ msgstr "تحديث"
+
+#~ msgid "Search"
+#~ msgstr "بحث"
+
+#~ msgid "Custom Author widget"
+#~ msgstr "محتوى خاص للكاتب"
+
+#~ msgid "Custom Author widget content"
+#~ msgstr "نص المحتوى الخاص للكاتب"
+
+#~ msgid "Supports: Text, HTML and Shortcodes."
+#~ msgstr "يدعم: النصوص، أكواد HTML، الأكواد المختصرة"
+
+#~ msgid "Social Networks"
+#~ msgstr "الشبكات الإجتماعية"
+
+#~ msgid "- Select a slider -"
+#~ msgstr "-اختر سليدر-"
+
+#~ msgid "- Select a category -"
+#~ msgstr "- اختر التصنيف -"
+
+#~ msgid "- Select a menu -"
+#~ msgstr "- إختر قائمة -"
+
+#~ msgid "Like %s?"
+#~ msgstr "هل أعجبك %s؟"
+
+#~ msgid "If you like the theme, please don&rsquo;t forget to rate it :)"
+#~ msgstr "إذا أعجبك القالب لا تنس تقييمه :)"
+
+#~ msgid "Happy New Year!"
+#~ msgstr "عام سعيد!"
+
+#~ msgid ""
+#~ "To our client who have made our progress possible, All of us at TieLabs "
+#~ "join in wishing you a Happy New Year with the best of everything in your "
+#~ "life for you and your family and we look forward to serving you in the new "
+#~ "year :)"
+#~ msgstr ""
+#~ "إلى عميلنا العزيز الذي كان دائماً شريكاً رئيسياً في نجاحنا و تقدمنا. فريق عمل "
+#~ "TieLabs يتمنى كل التوفيق و النجاح لك و لعائلتك في العام الجديد. و كما كنا "
+#~ "دائماً ستجدنا بالقرب إذا إحتجت أي مساعدة :)"
+
+#~ msgid ""
+#~ "Follow us on <a href=\"%1$s\" target=\"_blank\">Twitter</a> or <a href="
+#~ "\"%2$s\" target=\"_blank\">Facebook</a>."
+#~ msgstr ""
+#~ "تابعنا على <a href=\"%1$s\" target=\"_blank\">تويتر</a> أو <a href=\"%2$s"
+#~ "\" target=\"_blank\">فيسبوك</a>."
+
+#~ msgid "%d year"
+#~ msgid_plural "%d years"
+#~ msgstr[0] "عام"
+#~ msgstr[1] "عام"
+#~ msgstr[2] "عامين"
+#~ msgstr[3] "%d أعوام"
+#~ msgstr[4] "%d أعوام"
+#~ msgstr[5] "%d أعوام"
+
+#~ msgid "Happy Anniversary with TieLabs!"
+#~ msgstr "ذكرى سعيدة!"
+
+#~ msgid ""
+#~ "Woohoo! We are so happy You have been with us for %s We are looking "
+#~ "forward to providing an awesome WordPress theme and plugins for you for "
+#~ "many more. Thanks for being an awesome customer!"
+#~ msgstr ""
+#~ "مرحى! نحن سعداء للغاية، أنت عميل لدينا منذ %s نحن نطمح لتقديم المزيد من "
+#~ "قوالب و إضافات ووردبريس الرائعة لك لسنوات عديدة قادمة، شكراً لكونك عميل "
+#~ "رائع!"
+
+#~ msgid "Your friends at TieLabs"
+#~ msgstr "أصدقاؤك"
+
+#~ msgid "Howdy"
+#~ msgstr "مرحبا!"
+
+#~ msgid "Upload"
+#~ msgstr "رفع"
+
+#~ msgid "Font Size in Pixels"
+#~ msgstr "حجم الخط بالبيكسل"
+
+#~ msgid "Line Height"
+#~ msgstr "ارتفاع الخط"
+
+#~ msgid "Font Weight"
+#~ msgstr "حجم الخط"
+
+#~ msgid "Thin 100"
+#~ msgstr "رفيع 100"
+
+#~ msgid "Extra 200 Light"
+#~ msgstr "خفيف جداً 200"
+
+#~ msgid "Light 300"
+#~ msgstr "خفيف 300"
+
+#~ msgid "Regular 400"
+#~ msgstr "عادي 400"
+
+#~ msgid "Medium 500"
+#~ msgstr "متوسط 500"
+
+#~ msgid "Semi 600 Bold"
+#~ msgstr "شبه داكن 600"
+
+#~ msgid "Bold 700"
+#~ msgstr "داكن 700"
+
+#~ msgid "Extra 800 Bold"
+#~ msgstr "داكن جداً 800"
+
+#~ msgid "Black 900"
+#~ msgstr "كثيف 900"
+
+#~ msgid "Capitalization"
+#~ msgstr "أول حرف كبير"
+
+#~ msgid "UPPERCASE"
+#~ msgstr "UPPERCASE"
+
+#~ msgid "Capitalize"
+#~ msgstr "Capitalize"
+
+#~ msgid "lowercase"
+#~ msgstr "lowercase"
+
+#~ msgid "no-repeat"
+#~ msgstr "بدون-تكرار"
+
+#~ msgid "Tile"
+#~ msgstr "تمدد"
+
+#~ msgid "Tile Horizontally"
+#~ msgstr "تمدد افقي"
+
+#~ msgid "Tile Vertically"
+#~ msgstr "تمدد عمودي"
+
+#~ msgid "Fixed"
+#~ msgstr "ثابت"
+
+#~ msgid "Cover"
+#~ msgstr "Cover"
+
+#~ msgid "Left"
+#~ msgstr "يسار"
+
+#~ msgid "Right"
+#~ msgstr "يمين"
+
+#~ msgid "Center"
+#~ msgstr "وسط"
+
+#~ msgid "Top"
+#~ msgstr "أعلى"
+
+#~ msgid "Bottom"
+#~ msgstr "أسفل"
+
+#~ msgid "Remove"
+#~ msgstr "حذف"
+
+#~ msgid "Congratulations"
+#~ msgstr "تهانينا!"
+
+#~ msgid ""
+#~ "Your site is now validated!, Demo import, recommended plugins and "
+#~ "Automatic Updates are now unlocked."
+#~ msgstr ""
+#~ "تم تفعيل موقعك بنجاح! إستيراد محتويات الديمو، تنصيب إضافات القالب، و "
+#~ "التحديث التلقائي أصبحوا متاحين الآن."
+
+#~ msgid "You're almost finished!"
+#~ msgstr "على وشك الإنتهاء"
+
+#~ msgid ""
+#~ "Your license is not validated. Click on the link below to unlock demo "
+#~ "import, recommended plugins, access to support, and automatic updates."
+#~ msgstr ""
+#~ "لم يتم تفعيل موقعك بعد! قم بالضغط على الزر بالأسفل حتى يتم تفعيل إستيراد "
+#~ "محتويات الديمو، تنصيب إضافات القالب، و التحديث التلقائي."
+
+#~ msgid "Verify Now!"
+#~ msgstr "تفعيل"
+
+#~ msgid "Buy a License"
+#~ msgstr "شراء رخصة أخرى"
+
+#~ msgid "ERROR"
+#~ msgstr "خطأ"
+
+#~ msgid "Authorization Failed"
+#~ msgstr "فشلت عملية التفعيل"
+
+#~ msgid "Try again"
+#~ msgstr "حاول مرة أخرى"
+
+#~ msgid "Welcome"
+#~ msgstr "أهلا بك"
+
+#~ msgid "An error has occured. Please reload the page and try again."
+#~ msgstr "حدث خطأ ما، برجاء إعادة تحميل الصفحة و المحاولة من جديد."
+
+#~ msgid "TieLabs Page Builder widgets areas"
+#~ msgstr "مناطق الودجات في مُبنى صفحات TieLabs"
+
+#~ msgid "Manage Widgets"
+#~ msgstr "إدارة الودجات"
+
+#~ msgid "Done"
+#~ msgstr "تم"
+
+#~ msgid "Available Widgets"
+#~ msgstr "ودجات متوفرة"
+
+#~ msgid "Deactivate"
+#~ msgstr "تعطيل"
+
+#~ msgid ""
+#~ "Drag widgets from here to a sidebar on the right to activate them. Drag "
+#~ "widgets back here to deactivate them and delete their settings."
+#~ msgstr ""
+#~ "لتفعيل ودجت ما قم بسحبه إلى أحد الأماكن المتاحة. لتعطيل ودجت ما وحذف "
+#~ "إعداداته، قم بسحبه مرة أخرى خارج مكانه."
+
+#~ msgid "Section Widgets Area"
+#~ msgstr "منطقة الودجات للسيكشن"
+
+#~ msgid "Cancel"
+#~ msgstr "الغاء"
+
+#~ msgid "Add Widget"
+#~ msgstr "أضف ودجت"
+
+#~ msgid "Section"
+#~ msgstr "سيكشن"
+
+#~ msgid "Edit Section"
+#~ msgstr "تحرير السيكشن"
+
+#~ msgid "General"
+#~ msgstr "الإعدادات العامة"
+
+#~ msgid "Design"
+#~ msgstr "المظهر"
+
+#~ msgid "Sidebar Position"
+#~ msgstr "المكان الإفتراضي للعمود الجانبي"
+
+#~ msgid "100% Interior Content Width"
+#~ msgstr "عرض ١٠٠٪ للمحتوى"
+
+#~ msgid ""
+#~ "Select if the interior content is contained to site width or 100% width."
+#~ msgstr "قم بتفعيل هذا الخيار لجعل عرض السيكشن ١٠٠٪ لعرض الموقع."
+
+#~ msgid "Dark Skin"
+#~ msgstr "الشكل الداكن"
+
+#~ msgid "Custom Classes"
+#~ msgstr "CSS Classes خاصة"
+
+#~ msgid "Margin Top"
+#~ msgstr "المسافة العلوية"
+
+#~ msgid "Margin Bottom"
+#~ msgstr "المسافة السفلية"
+
+#~ msgid "Add Block"
+#~ msgstr "إضافة بلوك"
+
+#~ msgid "Predefined Sidebar"
+#~ msgstr "إختيار عمود جانبي"
+
+#~ msgid "Choose Sidebar"
+#~ msgstr "اختر العمود الجانبي"
+
+#~ msgid "Block Title"
+#~ msgstr "عنوان البلوك"
+
+#~ msgid "Ad"
+#~ msgstr "إعلان"
+
+#~ msgid "Tabs block"
+#~ msgstr "بلوك تابات للأقسام"
+
+#~ msgid "Edit Block"
+#~ msgstr "تحرير البلوك"
+
+#~ msgid "Advanced Settings"
+#~ msgstr "اعدادات متقدمة"
+
+#~ msgid "Categories"
+#~ msgstr "التصنيفات"
+
+#~ msgid "Custom Title"
+#~ msgstr "عنوان"
+
+#~ msgid "(optional)"
+#~ msgstr "(اختياري)"
+
+#~ msgid "Title URL"
+#~ msgstr "رابط العنوان"
+
+#~ msgid "Last Modified Posts"
+#~ msgstr "أحدث المقالات التي تم تحديثها"
+
+#~ msgid "Most Commented posts"
+#~ msgstr "أكثر المقالات تعليقاً"
+
+#~ msgid "Most Viewed posts"
+#~ msgstr "أكثر المقالات مشاهدةً"
+
+#~ msgid "Best Reviews"
+#~ msgstr "أفضل التقييمات :"
+
+#~ msgid "Products Categories"
+#~ msgstr "تصنيفات المنتجات"
+
+#~ msgid "Tags"
+#~ msgstr "الوسوم"
+
+#~ msgid "Will overide the Categories option."
+#~ msgstr "سيقوم بتخطي خيارا التصنيفات"
+
+#~ msgid "Sort Order"
+#~ msgstr "ترتيب حسب"
+
+#~ msgid "Offset - number of posts to pass over"
+#~ msgstr "تخطي - عدد المقالات المراد تخطيها"
+
+#~ msgid "Next and Previous Arrows"
+#~ msgstr "أسهم السابق و التالي"
+
+#~ msgid "Show More"
+#~ msgstr "اظهر المزيد"
+
+#~ msgid "Banner Image"
+#~ msgstr "صورة البانر"
+
+#~ msgid "Banner URL"
+#~ msgstr "رابط البانر"
+
+#~ msgid "Alternative Text For The image"
+#~ msgstr "نص بديل للصورة"
+
+#~ msgid "Open The Link In a new Tab"
+#~ msgstr "فتح الرابط في تبويب جديد"
+
+#~ msgid "Nofollow?"
+#~ msgstr "بدون تتبع Nofollow؟"
+
+#~ msgid "Custom Ad Code"
+#~ msgstr "كود إعلان خاص"
+
+#~ msgid "Slider Revolution"
+#~ msgstr "سليدر Revolution"
+
+#~ msgid "No sliders found, add a slider first!"
+#~ msgstr "عفواً، لا توجد سليدرات، من فضلك قم بإنشاء سليدر"
+
+#~ msgid "Show the content only?"
+#~ msgstr "عرض المحتوى فقط"
+
+#~ msgid "Without background, padding nor borders."
+#~ msgstr "بدون خلفية أو هوامش أو حدود"
+
+#~ msgid "Ajax Filters"
+#~ msgstr "فلترات اجاكس"
+
+#~ msgid "Will not appear if the numeric pagination is active."
+#~ msgstr "لن تظهر في حالة تفعيل نظام ترقيم الصفحات: أرقام"
+
+#~ msgid "More Button"
+#~ msgstr "زر المزيد"
+
+#~ msgid "Will not appear if the Block URL is empty."
+#~ msgstr "لن تظهر في حالة ترك رابط البلوك فارغاً‪.‬"
+
+#~ msgid "Color"
+#~ msgstr "اللون"
+
+#~ msgid "Posts Title Length"
+#~ msgstr "طول العنوان"
+
+#~ msgid "Excerpt"
+#~ msgstr "مقتطف المقال"
+
+#~ msgid "Posts Excerpt Length"
+#~ msgstr "طول المقتطف"
+
+#~ msgid "Read More Button"
+#~ msgstr "زر أكمل القراءة"
+
+#~ msgid "Hide thumbnail for the First post"
+#~ msgstr "إخفاء صورة أول خبر"
+
+#~ msgid "Hide small thumbnails"
+#~ msgstr "اخفاء الصورة البارزة للمقالات المصغرة"
+
+#~ msgid "Hide thumbnails"
+#~ msgstr "اخفاء الصورة البارزة"
+
+#~ msgid "Post Meta"
+#~ msgstr "معلومات التدوينة"
+
+#~ msgid "Animation Effect"
+#~ msgstr "نوع تأثير الحركة"
+
+#~ msgid "Typing"
+#~ msgstr "كتابة"
+
+#~ msgid "Fading"
+#~ msgstr "تلاشي"
+
+#~ msgid "Sliding Left"
+#~ msgstr "مرور من اليسار"
+
+#~ msgid "Sliding Right"
+#~ msgstr "مرور من اليمين"
+
+#~ msgid "Sliding Up"
+#~ msgstr "مرور لأعلى"
+
+#~ msgid "Sliding Down"
+#~ msgstr "مرور لأسفل"
+
+#~ msgid "Show the scrolling arrows?"
+#~ msgstr "عرض أسهم التبديل؟"
+
+#~ msgid "Block"
+#~ msgstr "بلوك"
+
+#~ msgid "Scrolling Block"
+#~ msgstr "مربع متحرك"
+
+#~ msgid "Ad Block"
+#~ msgstr "بلوك إعلان"
+
+#~ msgid "Custom Content"
+#~ msgstr "محتوى خاص"
+
+#~ msgid "WooCommerce"
+#~ msgstr "WooCommerce"
+
+#~ msgid "Add Section"
+#~ msgstr "أضف سيكشن"
+
+#~ msgid "Post Components"
+#~ msgstr "عناصر المقال"
+
+#~ msgid "Hide"
+#~ msgstr "إخفاء"
+
+#~ msgid "Show"
+#~ msgstr "عرض"
+
+#~ msgid "Post Author box"
+#~ msgstr "مربع كاتب المقال"
+
+#~ msgid "Next/Prev posts"
+#~ msgstr "المقال السابق/التالي"
+
+#~ msgid "Newsletter"
+#~ msgstr "القائمة البريدية"
+
+#~ msgid "Related Posts"
+#~ msgstr "المقالات ذات الصلة"
+
+#~ msgid "Fly Check Also Box"
+#~ msgstr "صندوق \"شاهد أيضًا\""
+
+#~ msgid "Above Post share Buttons"
+#~ msgstr "أزرار نشر التدوينة العلوية"
+
+#~ msgid "Below Post Share Buttons"
+#~ msgstr "أزرار نشر التدوينة السفلية"
+
+#~ msgid "Hide Above Banner"
+#~ msgstr "إخفاء البانر العلوي"
+
+#~ msgid "Custom Above Banner"
+#~ msgstr "بانر علوي خاص"
+
+#~ msgid "Hide Below Banner"
+#~ msgstr "إخفاء البانر السفلي"
+
+#~ msgid "Custom Below Banner"
+#~ msgstr "بانر سفلي خاص"
+
+#~ msgid "Masonry Page"
+#~ msgstr "الأعمدة المتداخلة"
+
+#~ msgid "Categories Meta"
+#~ msgstr "معلومات التصنيفات"
+
+#~ msgid "User Roles"
+#~ msgstr "أدوار المستخدمين"
+
+#~ msgid "Header and Footer Settings"
+#~ msgstr "إعدادات الهيدر والفوتر"
+
+#~ msgid "Hide the Header"
+#~ msgstr "إخفاء الهيدر"
+
+#~ msgid "Hide the Footer"
+#~ msgstr "إخفاء الفوتر"
+
+#~ msgid "Hide the page title"
+#~ msgstr "إخفاء عنوان الصفحة"
+
+#~ msgid "Primary Category"
+#~ msgstr "التصنيف الرئيسي"
+
+#~ msgid ""
+#~ "If the posts has multiple categories, the one selected here will be used "
+#~ "for settings and it appears in the category labels."
+#~ msgstr ""
+#~ "إذا تم تعيين أكثر من تصنيف للمقال سيتم إستخدام هذا التصنيف في جلب اعدادات "
+#~ "المقال مثل العمود الجانبي و الألوان وسيظهر اسم التصنيف في البلوكات و "
+#~ "السلايدرات."
+
+#~ msgid "Post format"
+#~ msgstr "نمط المقال"
+
+#~ msgid "Standard"
+#~ msgstr "الإفتراضي"
+
+#~ msgid "Video"
+#~ msgstr "فيديو"
+
+#~ msgid "Audio"
+#~ msgstr "ملف صوتي"
+
+#~ msgid "Map"
+#~ msgstr "خريطة"
+
+#~ msgid "Embed Code"
+#~ msgstr "كود مدمج"
+
+#~ msgid "Self Hosted Video"
+#~ msgstr "فيديو مستضاف على موقعك"
+
+#~ msgid "Video URL"
+#~ msgstr "رابط الفيديو"
+
+#~ msgid ""
+#~ "supports : YouTube, Vimeo, Viddler, Qik, Hulu, FunnyOrDie, DailyMotion, "
+#~ "WordPress.tv and blip.tv"
+#~ msgstr ""
+#~ "يدعم الصيغ التالية: YouTube, Vimeo, Viddler, Qik, Hulu, FunnyOrDie, "
+#~ "DailyMotion, WordPress.tv و blip.tv"
+
+#~ msgid "MP3 file URL"
+#~ msgstr "رابط ملف MP3"
+
+#~ msgid "M4A file URL"
+#~ msgstr "رابط ملف M4A"
+
+#~ msgid "OGA file URL"
+#~ msgstr "رابط ملف OGA"
+
+#~ msgid "SoundCloud URL"
+#~ msgstr "رابط SoundCloud"
+
+#~ msgid "Google Maps URL"
+#~ msgstr "رابط الخريطة Google Maps"
+
+#~ msgid "Add Image"
+#~ msgstr "إضافة صورة"
+
+#~ msgid "Select"
+#~ msgstr "إختر"
+
+#~ msgid "Story Highlights"
+#~ msgstr "اقرأ في هذا المقال"
+
+#~ msgid "Add Custom Text"
+#~ msgstr "إضافة نص مخصص"
+
+#~ msgid "Custom Text"
+#~ msgstr "نص خاص"
+
+#~ msgid "Add"
+#~ msgstr "أضف"
+
+#~ msgid "Text is required."
+#~ msgstr "مطلوب إدخال النص"
+
+#~ msgid ""
+#~ "Control WooCommerce sidebar settings from the theme options page &gt; <a "
+#~ "href=\"%s\">WooCommerce settings</a>."
+#~ msgstr ""
+#~ "يمكنك تغيير خيارات العمود الجانبي من صفحة إعدادات القالب ثم <a href=\"%s"
+#~ "\">W إعدادات WooCommerce</a>."
+
+#~ msgid "Header Background"
+#~ msgstr "خلفية الهيدر"
+
+#~ msgid "Settings"
+#~ msgstr "اعدادات"
+
+#~ msgid "Enter sub title here"
+#~ msgstr "ادخل عنوان ثانوي هنا"
+
+#~ msgid "Styles"
+#~ msgstr "الأنماط"
+
+#~ msgid "Advertisement"
+#~ msgstr "الإعلانات"
+
+#~ msgid "Components"
+#~ msgstr "العناصر"
+
+#~ msgid "Install Plugins"
+#~ msgstr "تنصيب الإضافات"
+
+#~ msgid "Theme Options"
+#~ msgstr "إعدادات القالب"
+
+#~ msgid "Header"
+#~ msgstr "الهيدر"
+
+#~ msgid "Footer"
+#~ msgstr "الفوتر"
+
+#~ msgid "Archives"
+#~ msgstr "أرشيف"
+
+#~ msgid "Single Post Page"
+#~ msgstr "إعدادات صفحة المقال"
+
+#~ msgid "Share Buttons"
+#~ msgstr "أزرار المشاركة"
+
+#~ msgid "Sidebars"
+#~ msgstr "العمود الجانبي - سايدبار"
+
+#~ msgid "LightBox"
+#~ msgstr "Lightbox"
+
+#~ msgid "Typography"
+#~ msgstr "الخطوط"
+
+#~ msgid "Translations"
+#~ msgstr "ترجمة النصوص"
+
+#~ msgid "Mobile"
+#~ msgstr "الجوال"
+
+#~ msgid "AMP"
+#~ msgstr "AMP"
+
+#~ msgid "Web Notifications"
+#~ msgstr "Web Notifications"
+
+#~ msgid "Advanced"
+#~ msgstr "إعدادات متقدمة"
+
+#~ msgid "bbPress"
+#~ msgstr "bbPress"
+
+#~ msgid "TieLabs"
+#~ msgstr "‏TieLabs"
+
+#~ msgid "Rate"
+#~ msgstr "تقييم"
+
+#~ msgid "More Themes"
+#~ msgstr "المزيد من القوالب"
+
+#~ msgid "StumbleUpon"
+#~ msgstr "‏StumbleUpon"
+
+#~ msgid "Reddit"
+#~ msgstr "‏Reddit"
+
+#~ msgid "VKontakte"
+#~ msgstr "‏VKontakte"
+
+#~ msgid "Odnoklassniki"
+#~ msgstr "Odnoklassniki"
+
+#~ msgid "Pocket"
+#~ msgstr "Pocket"
+
+#~ msgid "WhatsApp"
+#~ msgstr "WhatsApp"
+
+#~ msgid "For Mobiles Only"
+#~ msgstr "متاح للجوالات فقط"
+
+#~ msgid "Telegram"
+#~ msgstr "Telegram"
+
+#~ msgid "Viber"
+#~ msgstr "Viber"
+
+#~ msgid "Email"
+#~ msgstr "إرسال لصديق"
+
+#~ msgid "Print"
+#~ msgstr "طباعة"
+
+#~ msgid "Post views settings"
+#~ msgstr "إعدادات عداد زوار المقالات"
+
+#~ msgid "Theme's module"
+#~ msgstr "خاصية عداد الزوار الخاصة بالقالب"
+
+#~ msgid "Third party post views plugin"
+#~ msgstr "إضافة عداد زوار لووردبريس"
+
+#~ msgid "Disable Arqam Lite"
+#~ msgstr "تعطيل إضافة Arqam Lite"
+
+#~ msgid "Cache"
+#~ msgstr "تفعيل الكاش"
+
+#~ msgid ""
+#~ "If enabled, some static parts like widgets, main menu and breaking news "
+#~ "will be cached to reduce MySQL queries. Saving the theme settings, adding/"
+#~ "editing/removing posts, adding comments, updating menus, activating/"
+#~ "deactivating plugins, adding/editing/removing terms or updating WordPress, "
+#~ "will flush the cache."
+#~ msgstr ""
+#~ "عند تفعيل هذا الخيار سيتم تخزين بعض المحتويات مثل الودجات و القائمة "
+#~ "الرئيسية و الأخبار العاجلة بشكل مؤقت لتقليل إستعلامات MySQL. سيتم تحديث "
+#~ "هذه المحتويات تلقائياً عند تحديث اعدادات القالب أو اضافة / تعديل / حذف "
+#~ "مقالات أو إضافة تعليقات أو تحديث القوائم أو تفعيل / تعطيل الاضافات أو "
+#~ "اضافة/تعديل/حذف اقسام او وسوم أو تحديث ووردبريس."
+
+#~ msgid "Minified CSS and JS files"
+#~ msgstr "إستخدام ملفات CSS و JS المضغوطة"
+
+#~ msgid "Notify on theme updates"
+#~ msgstr "التنبيه عند صدور إصدار جديد للقالب"
+
+#~ msgid "Add a link to the theme options page to the Toolbar"
+#~ msgstr "إظهار رابط صفحة إعدادات القالب في شريط الأدوات."
+
+#~ msgid "Disable GIF Featured Images"
+#~ msgstr "تعطيل خاصية صور GIF المتحركة"
+
+#~ msgid "WordPress Login page Logo"
+#~ msgstr "اللوجو الخاص بصفحة دخول الووردبريس"
+
+#~ msgid "WordPress Login page Logo URL"
+#~ msgstr "رابط اللوجو الخاص بصفحة دخول الووردبريس"
+
+#~ msgid "Reset All Settings"
+#~ msgstr "إعادة تعيين الإعدادات"
+
+#~ msgid "Accelerated Mobile Pages "
+#~ msgstr "Accelerated Mobile Pages "
+
+#~ msgid "You may need to enable pretty permalinks if it isn't working."
+#~ msgstr "ربما تحتاج لتفعيل الروابط الدائمة إذا لم تعمل."
+
+#~ msgid ""
+#~ "To access the AMP version go to any blog post and add %s to the end of the "
+#~ "URL."
+#~ msgstr "للوصول لنسخة AMP للمقالات أضف %s بعد رابط المقال."
+
+#~ msgid "Post Settings"
+#~ msgstr "اعدادات التدوينة"
+
+#~ msgid "Facebook APP ID"
+#~ msgstr "معلومات Facebook App"
+
+#~ msgid "(Required)"
+#~ msgstr "(إلزامي)"
+
+#~ msgid "Footer Settings"
+#~ msgstr "إعدادات الفوتر"
+
+#~ msgid "Back to top button"
+#~ msgstr "زر الذهاب إلى الأعلى"
+
+#~ msgid "Footer Logo Image"
+#~ msgstr "صورة لوجو الفوتر"
+
+#~ msgid "Footer Menu"
+#~ msgstr "قائمة الفوتر"
+
+#~ msgid "Variables"
+#~ msgstr "متغيرات"
+
+#~ msgid ""
+#~ "These tags can be included in the textarea above and will be replaced when "
+#~ "a page is displayed."
+#~ msgstr ""
+#~ "هذه الوسوم يمكن استخدامها في منطقة الكتابة بالاعلى وسوف تبدل عند زيارة "
+#~ "موقعك."
+
+#~ msgid "Replaced with the current year."
+#~ msgstr "تبدل بالسنة الحالية."
+
+#~ msgid "Replaced with The site's name."
+#~ msgstr "تبدل باسم الموقع."
+
+#~ msgid "Replaced with The site's URL."
+#~ msgstr "تبدل برابط للموقع."
+
+#~ msgid "Copyright Text"
+#~ msgstr "نص حقوق الملكية"
+
+#~ msgid "Above Content"
+#~ msgstr "فوق المحتوى"
+
+#~ msgid "Below Content"
+#~ msgstr "أسفل المحتوى"
+
+#~ msgid "Header Background Color"
+#~ msgstr "لون خلفية الهيدر"
+
+#~ msgid "Title Color"
+#~ msgstr "لون العنوان"
+
+#~ msgid "Post meta Color"
+#~ msgstr "لون معلومات التدوينة"
+
+#~ msgid "Links color"
+#~ msgstr "لون الروابط"
+
+#~ msgid "Footer color"
+#~ msgstr "لون الفوتر"
+
+#~ msgid "Underline text links on hover"
+#~ msgstr "إضهار خط تحت الروابط عند مرور الفأرة"
+
+#~ msgid ""
+#~ "You need to install the <a href=\"%s\">Automattic AMP plugin</a> first."
+#~ msgstr "أنت بحاجة إلى تركيب إضافة <a href=\"%s\">Automattic AMP</a>"
+
+#~ msgid "Archives Settings"
+#~ msgstr "إعدادات صفحات الأرشيف"
+
+#~ msgid "Default layout settings"
+#~ msgstr "النمط  الإفتراضي"
+
+#~ msgid "Category Page Settings"
+#~ msgstr "اعدادات صفحة التصنيفات"
+
+#~ msgid "Category Description"
+#~ msgstr "وصف التصنيفات"
+
+#~ msgid "Tag Page Settings"
+#~ msgstr "اعدادات صفحة الوسوم"
+
+#~ msgid "Tag Description"
+#~ msgstr "وصف الوسوم"
+
+#~ msgid "Author Page Settings"
+#~ msgstr "اعدادات صفحة الكاتب"
+
+#~ msgid "Author Bio"
+#~ msgstr "نبذة عن الكاتب"
+
+#~ msgid "Search Page Settings"
+#~ msgstr "اعدادات صفحة البحث"
+
+#~ msgid "Search in Category IDs"
+#~ msgstr "البحث في الأرقام التعريفية للتصنيفات"
+
+#~ msgid ""
+#~ "Use minus sign (-) to exclude categories. Example: (1,4,-7) = search only "
+#~ "in Category 1 & 4, and exclude Category 7."
+#~ msgstr ""
+#~ "استخدم علامة (-) لاستبعاد التصنيفات. مثال: (1,4,-7) = البحث فقط في تصنيف 1 "
+#~ "و 4 و استبعاد 7."
+
+#~ msgid "Exclude post types from search"
+#~ msgstr "إستبعاد أنواع محتوى من البحث."
+
+#~ msgid "Background (in case Boxed / Framed / Bordered layout is enabled)"
+#~ msgstr "الخلفية ( في حالة إستخدام مخطط المربع / المحدد / البرواز )"
+
+#~ msgid "bbPress Sidebar"
+#~ msgstr "العمود الجانبي لbbPress"
+
+#~ msgid "Advertisement Settings"
+#~ msgstr "إعدادات الإعلانات"
+
+#~ msgid ""
+#~ "It is recommended to avoid using words like ad, ads, adv, advert, "
+#~ "advertisement, banner, banners, sponsor, 300x250, 728x90, etc. in the "
+#~ "image names or image path to avoid AdBlocks from blocking your Ad."
+#~ msgstr ""
+#~ "يٌنصح بعدم إستخدام الكلمات التالية في اسم او مسار الصورة لتجنب تعطيلها من "
+#~ "قبل اضافات AdBlocks :  ad, ads, adv, advert, advertisement, banner, "
+#~ "banners, sponsor, 300x250, 728x90,"
+
+#~ msgid "Background Image Ad"
+#~ msgstr "إعلان الخلفية"
+
+#~ msgid "Link"
+#~ msgstr "رابط"
+
+#~ msgid "Site margin top"
+#~ msgstr "الهامش العلوي للموقع"
+
+#~ msgid "Header Ad"
+#~ msgstr "إعلان الهيدر"
+
+#~ msgid "Above Footer Ad"
+#~ msgstr "اعلان فوق الفوتر"
+
+#~ msgid "Below the Header Ad"
+#~ msgstr "اعلان اسفل الهيدر"
+
+#~ msgid "Above Article Ad"
+#~ msgstr "اعلان فوق المقال"
+
+#~ msgid "Below Article Ad"
+#~ msgstr "اعلان اسفل المقال"
+
+#~ msgid "Banner Link"
+#~ msgstr "رابط البانر"
+
+#~ msgid "AdRotate"
+#~ msgstr "AdRotate"
+
+#~ msgid "Advert - Use Advert ID"
+#~ msgstr "Advert - Use Advert ID"
+
+#~ msgid "Group - Use group ID"
+#~ msgstr "Group - Use group ID"
+
+#~ msgid "ID"
+#~ msgstr "الرقم التعريفي"
+
+#~ msgid "Shortcodes Ads"
+#~ msgstr "إعلانات الأكواد المختصرة"
+
+#~ msgid "Ad Shortcode"
+#~ msgstr "كود مختصر للإعلانات"
+
+#~ msgid "Instagram Footer Area"
+#~ msgstr "منطقة إنستجرام فوق الفوتر"
+
+#~ msgid "Media Source"
+#~ msgstr "مصدر الصور"
+
+#~ msgid "User Account"
+#~ msgstr "حساب ستخدم"
+
+#~ msgid "Hash Tag"
+#~ msgstr "‎وسم (هاشتاج)"
+
+#~ msgid "Enter the Username or the Hash Tag"
+#~ msgstr "أدخل اسم المستخدم أو الوسم (هاشتاج)"
+
+#~ msgid "Number of Rows"
+#~ msgstr "عدد الصفوف"
+
+#~ msgid "One Row"
+#~ msgstr "صف واحد"
+
+#~ msgid "Two Rows"
+#~ msgstr "صفين"
+
+#~ msgid "Link Media to"
+#~ msgstr "الرابط:"
+
+#~ msgid "Media File"
+#~ msgstr "ملف الصورة"
+
+#~ msgid "Media Page on Instagram"
+#~ msgstr "صفحة الصورة على إنستجرام"
+
+#~ msgid "Follow Us Button"
+#~ msgstr "زر تابعنا"
+
+#~ msgid "Follow Us Button Text"
+#~ msgstr "نص الزر"
+
+#~ msgid "Follow Us Button URL"
+#~ msgstr "رابط الزر"
+
+#~ msgid "You need to install the <a href=\"%s\">InstaNOW plugin</a> first."
+#~ msgstr "أنت بحاجة إلى تركيب إضافة <a href=\"%s\">InstaNOW</a>"
+
+#~ msgid "Footer Widgets layout"
+#~ msgstr "نظام عرض المربعات الجانبية للفوتر"
+
+#~ msgid "First Footer Widgets Area"
+#~ msgstr "مساحة المربعات الجانبية الأولى في الفوتر"
+
+#~ msgid "Add border around the widgets area"
+#~ msgstr "أضف إطار حول الودجات"
+
+#~ msgid "Second Footer Widgets Area"
+#~ msgstr "مساحة المربعات الجانبية الثانية في الفوتر"
+
+#~ msgid "Copyright Area"
+#~ msgstr "منطقة نص الحقوق"
+
+#~ msgid "Centered Layout"
+#~ msgstr "محازاة العناصر بالمنتصف"
+
+#~ msgid "Social Icons"
+#~ msgstr "الشبكات الإجتماعية"
+
+#~ msgid "Footer Text One"
+#~ msgstr "نص الفوتر 1"
+
+#~ msgid "Footer Text Two"
+#~ msgstr "نص الفوتر 2"
+
+#~ msgid "General Settings"
+#~ msgstr "الإعدادات العامة"
+
+#~ msgid "Time format"
+#~ msgstr "نمط التاريخ"
+
+#~ msgid "Time format for blog posts"
+#~ msgstr "نمط الوقت للتدوينات"
+
+#~ msgid "Traditional"
+#~ msgstr "عادي"
+
+#~ msgid "Time Ago Format"
+#~ msgstr "منذ / مضت"
+
+#~ msgid "Disable all"
+#~ msgstr "تعطيل"
+
+#~ msgid "Breadcrumbs Settings"
+#~ msgstr "إعدادت شريط التصفح"
+
+#~ msgid "Breadcrumbs"
+#~ msgstr "تفعيل شريط التصفح"
+
+#~ msgid "Breadcrumbs Delimiter"
+#~ msgstr "الفاصل"
+
+#~ msgid "Trim Text Settings"
+#~ msgstr "قص النص المقتطف"
+
+#~ msgid "Trim text by"
+#~ msgstr "قص النص المقتطف بواسطة"
+
+#~ msgid "Words"
+#~ msgstr "كلمات"
+
+#~ msgid "Characters"
+#~ msgstr "حروف"
+
+#~ msgid "Custom Codes"
+#~ msgstr "أكواد خاصة"
+
+#~ msgid "Header Code"
+#~ msgstr "كود الهيدر"
+
+#~ msgid ""
+#~ "Will add to the &lt;head&gt; tag. Useful if you need to add additional "
+#~ "codes such as CSS or JS."
+#~ msgstr ""
+#~ "الكود التالي سيتم إضافته لوسم &lt;head&gt; . يصلح لإضافة أي أكواد CSS او "
+#~ "JS إضافية."
+
+#~ msgid "Footer Code"
+#~ msgstr "كود الفوتر"
+
+#~ msgid ""
+#~ "Will add to the footer before the closing  &lt;/body&gt; tag. Useful if "
+#~ "you need to add Javascript."
+#~ msgstr ""
+#~ "سيتم إضافة الكود في نهاية الفوتر قبل اغلاق &lt;/body&gt;. مفيد إذا كنت "
+#~ "تحتاج لإستخدام أكواد جافا سكريبت."
+
+#~ msgid "Header Settings"
+#~ msgstr "إعدادات الهيدر"
+
+#~ msgid "Header Layout"
+#~ msgstr "مخطط الهيدر"
+
+#~ msgid "Main Nav Settings"
+#~ msgstr "اعدادات القائمة الرئيسية"
+
+#~ msgid "Secondry Nav Settings"
+#~ msgstr "إعدادات الشريط العلوي"
+
+#~ msgid "Boxed Layout"
+#~ msgstr "مخطط المربع"
+
+#~ msgid "Below The Header"
+#~ msgstr "أسفل الهيدر"
+
+#~ msgid "Today's date"
+#~ msgstr "تاريخ اليوم"
+
+#~ msgid "Today's date format"
+#~ msgstr "صيغة تاريخ اليوم"
+
+#~ msgid "Documentation on date and time formatting"
+#~ msgstr "مساعده حول كيفية تنسيق الوقت والتاريخ"
+
+#~ msgid "Left Area"
+#~ msgstr "المساحة اليمين"
+
+#~ msgid "Menu"
+#~ msgstr "القائمة"
+
+#~ msgid "Breaking News"
+#~ msgstr "أخبار عاجلة"
+
+#~ msgid "Right Area"
+#~ msgstr "المساحة اليسار"
+
+#~ msgid "Secondry Nav Components"
+#~ msgstr "عناصر الشريط العلوي"
+
+#~ msgid "Title"
+#~ msgstr "العنوان"
+
+#~ msgid "Trending"
+#~ msgstr "مختارات"
+
+#~ msgid "Enter a tag name, or names separated by comma."
+#~ msgstr "ادخل اسم وسم أو اسماء متعدده بينهم فاصله (,)"
+
+#~ msgid "Text and Link are required."
+#~ msgstr "مطلوب إدخال النص والرابط"
+
+#~ msgid "Above The Header"
+#~ msgstr "أعلى الهيدر"
+
+#~ msgid "Main Nav Components"
+#~ msgstr "عناصر القائمة الرئيسية"
+
+#~ msgid "Sticky Menu"
+#~ msgstr "تثبيت القائمة"
+
+#~ msgid "Sticky Menu behavior"
+#~ msgstr "نوع القائمة المثبتة"
+
+#~ msgid "When scrolling upwards"
+#~ msgstr "ظهور القائمة في حالة العودة للأعلى"
+
+#~ msgid "Live Search"
+#~ msgstr "بحث أجاكس"
+
+#~ msgid "Search Layout"
+#~ msgstr "نمط البحث"
+
+#~ msgid "Compact"
+#~ msgstr "مُصغر"
+
+#~ msgid "Type To Search"
+#~ msgstr "فتح مربع البحث عند الضغط على اي زر في الكيبورد"
+
+#~ msgid "Slide Sidebar"
+#~ msgstr "السيدبار المخفي"
+
+#~ msgid "Log In"
+#~ msgstr "تسجيل الدخول"
+
+#~ msgid "Random Article Button"
+#~ msgstr "تفعيل أيقونة مقال عشوائي"
+
+#~ msgid "Shopping Cart"
+#~ msgstr "عربة التسوق"
+
+#~ msgid "BuddyPress Notifications"
+#~ msgstr "تنبيهات BuddyPress"
+
+#~ msgid "Social icons layout"
+#~ msgstr "الشبكات الإجتماعية"
+
+#~ msgid "Menu with names"
+#~ msgstr "القائمة بالأسماء"
+
+#~ msgid "Grid Menu"
+#~ msgstr "قائمة بمخطط شبكي"
+
+#~ msgid "Site Width"
+#~ msgstr "عرض الموقع"
+
+#~ msgid "Controls the overall site width. In px or %, ex: 100% or 1170px."
+#~ msgstr "تحديد عرض الموقع. مثال: 100% أو 1170px."
+
+#~ msgid "Theme Layout"
+#~ msgstr "نظام القالب"
+
+#~ msgid "Loader Icon"
+#~ msgstr "أيقونة التحميل"
+
+#~ msgid "Lightbox Settings"
+#~ msgstr "إعدادات Lightbox"
+
+#~ msgid "Enable Lightbox Automatically"
+#~ msgstr "تفعيل Lightbox تلقائيًا"
+
+#~ msgid ""
+#~ "Enable Lightbox automatically for all images linked to an image file in "
+#~ "the post content area"
+#~ msgstr ""
+#~ "تفعيل Lightbox تلقائيًا لكل الصور المرتبطه بملف صورة في منطقة محتوى التدوينة"
+
+#~ msgid "Lightbox for Galleries"
+#~ msgstr "‏Lightbox للمعارض الصور المضافة داخل المحتوى"
+
+#~ msgid ""
+#~ "Enable Lightbox automatically for all images added via [gallery] shortcode "
+#~ "in the content area"
+#~ msgstr ""
+#~ "تفعيل الLightbox تلقائيًا لكل الصور المضافة عن طريق الكود المختصر [gallery] "
+#~ "في منطقة محتوى التدوينة"
+
+#~ msgid "Lightbox Skin"
+#~ msgstr "نمط Lightbox"
+
+#~ msgid "Lightbox Thumbnail Position"
+#~ msgstr "موضع المصغرات"
+
+#~ msgid "Vertical"
+#~ msgstr "عمودي"
+
+#~ msgid "Horizontal"
+#~ msgstr "أفقي"
+
+#~ msgid "Show Lightbox Arrows"
+#~ msgstr "عرض أسهم الإنتقال"
+
+#~ msgid "Mobile Settings"
+#~ msgstr "إعدادات الجوال"
+
+#~ msgid "Disable the Responsiveness"
+#~ msgstr "تعطيل خصائص القالب التجاوبية"
+
+#~ msgid "This option works only on Tablets and Phones."
+#~ msgstr "هذا الخيار يعمل فقط على الجوالات و الأجهزة اللوحية."
+
+#~ msgid "Mobile Menu"
+#~ msgstr "قائمة الجوال"
+
+#~ msgid "Parent items as links"
+#~ msgstr "تفعيل العناصر الرئيسية كروابط"
+
+#~ msgid "If disabled, parent menu items will only toggle child items."
+#~ msgstr ""
+#~ "في حالة تعطيلها، عند الضغط على العناصر الرئيسية ستقوم بإظهار العناصر "
+#~ "الفرعية"
+
+#~ msgid "Include the Top Menu items"
+#~ msgstr "إظاهر عناصر القائمة العلوية"
+
+#~ msgid "Show the icons"
+#~ msgstr "تفعيل الأيقونات في قائمة الجوال"
+
+#~ msgid "Compact the post content and show more button"
+#~ msgstr "إختصار محتوى المقال و إظهار زر اظهر المزيد"
+
+#~ msgid "Mobile Elements"
+#~ msgstr "العناصر على الجوال"
+
+#~ msgid "Hide header Ad"
+#~ msgstr "إخفاء إعلان الهيدر"
+
+#~ msgid "Hide Below the header Ad"
+#~ msgstr "إخفاء الاعلان اسفل الهيدر"
+
+#~ msgid "Hide above the footer Ad"
+#~ msgstr "إخفاء الاعلان فوق الفوتر"
+
+#~ msgid "Hide Header Breaking News"
+#~ msgstr "إخفاء الأخبار العاجلة في الهيدر"
+
+#~ msgid "Hide all sidebars"
+#~ msgstr "إخفاء كل الأعمدة الجانبية"
+
+#~ msgid "Hide Instagram Media Above Footer"
+#~ msgstr "إخفاء انستجرام فوق الفوتر"
+
+#~ msgid "Hide Footer"
+#~ msgstr "إخفاء الفوتر"
+
+#~ msgid "Hide copyright area"
+#~ msgstr "إخفاء منطقة نص الحقوق"
+
+#~ msgid "Hide Breadcrumbs"
+#~ msgstr "إخفاء شريط التصفح"
+
+#~ msgid "Hide Above Post share Buttons"
+#~ msgstr "إخفاء أزرار المشاركة فوق نص المقال"
+
+#~ msgid "Hide Below Post share Buttons"
+#~ msgstr "إخفاء أزرار المشاركة أسفل نص المقال"
+
+#~ msgid "Hide Below Post Newsletter"
+#~ msgstr "إخفاء القائمة البريدية أسفل نص المقال"
+
+#~ msgid "Hide Below Post Related posts"
+#~ msgstr "إخفاء المقالات ذات الصلة"
+
+#~ msgid "Hide Below Post Author Box"
+#~ msgstr "اخفاء مربع كاتب المقال"
+
+#~ msgid "Hide Below Post Next/Prev posts"
+#~ msgstr "إخفاء المقال السابق و التالي"
+
+#~ msgid "Hide Back to top button"
+#~ msgstr "إخفاء زر الذهاب إلى الأعلى"
+
+#~ msgid "Sticky Mobile Share Buttons"
+#~ msgstr "تفعيل أزرار المشاركة الثابتة على الجوال"
+
+#~ msgid "Single Post Page Settings"
+#~ msgstr "إعدادات صفحة المقال"
+
+#~ msgid "Default Posts Layout"
+#~ msgstr "النمط الإفتراضي للمقالات"
+
+#~ msgid "Structure Data"
+#~ msgstr "Structure Data"
+
+#~ msgid "Default Schema type"
+#~ msgstr "نوع Schema"
+
+#~ msgid "NewsArticle"
+#~ msgstr "NewsArticle"
+
+#~ msgid "Article"
+#~ msgstr "Article"
+
+#~ msgid "BlogPosting"
+#~ msgstr "BlogPosting"
+
+#~ msgid "Open Graph meta"
+#~ msgstr "أكواد Open Graph"
+
+#~ msgid "Reading Position Indicator"
+#~ msgstr "مؤشر التقدم في القراءة"
+
+#~ msgid "Post Author Box"
+#~ msgstr "تفعيل عن الكاتب"
+
+#~ msgid "Post info Settings"
+#~ msgstr "اعدادات معلومات المقالات"
+
+#~ msgid "Post meta area"
+#~ msgstr "مساحة معلومات المقال"
+
+#~ msgid "Author"
+#~ msgstr "الكاتب"
+
+#~ msgid "Author's Avatar"
+#~ msgstr "صورة للكاتب"
+
+#~ msgid "Twitter Icon"
+#~ msgstr "أيقونة تويتر"
+
+#~ msgid "Email Icon"
+#~ msgstr "أيقونة البريد الالكتروني"
+
+#~ msgid "Date"
+#~ msgstr "التاريخ"
+
+#~ msgid "Comments"
+#~ msgstr "تعليقات"
+
+#~ msgid "Views"
+#~ msgstr "زيارة"
+
+#~ msgid "Estimated reading time"
+#~ msgstr "الوقت المٌقدر للقراءة"
+
+#~ msgid "Text above the Email input field"
+#~ msgstr "النص فوق خانة ادخال البريد الالكتروني"
+
+#~ msgid "Feedburner ID"
+#~ msgstr "الرقم التعريفي لـFeedburner"
+
+#~ msgid "Number of posts to show in Full width pages"
+#~ msgstr "عدد المقالات المراد إظهارها في الصفحات ذات العرض الكامل"
+
+#~ msgid "Posts in the same Categories"
+#~ msgstr "مقالات في نفس التصنيفات"
+
+#~ msgid "Posts in the same Tags"
+#~ msgstr "مقالات بنفس الوسوم"
+
+#~ msgid "Posts by the same Author"
+#~ msgstr "مقالات لنفس الكاتب"
+
+#~ msgid "Check Also"
+#~ msgstr "شاهد أيضاً"
+
+#~ msgid "Check Also Box Position"
+#~ msgstr "مكان صندوق \"شاهد أيضًا\""
+
+#~ msgid "Share Settings"
+#~ msgstr "خيارات المشاركة"
+
+#~ msgid "Share Buttons for Pages"
+#~ msgstr "تفعيل أزرار المشاركة للصفحات"
+
+#~ msgid "Use the post's Short Link"
+#~ msgstr "استخدم الرابط المختصر للتدوينة"
+
+#~ msgid "Twitter Username"
+#~ msgstr "إسم مستخم حساب تويتر"
+
+#~ msgid "Center the buttons"
+#~ msgstr "توسيط الأزرار"
+
+#~ msgid "Show the share title"
+#~ msgstr "أظهر عنوان مساحة المشاركة"
+
+#~ msgid "You can change the \"%s\" text from the Translation tab."
+#~ msgstr "يمكنك تغير \"%s\" من إعدادات الترجمة"
+
+#~ msgid "Share Buttons Style"
+#~ msgstr "نمط أزرار المشاركة"
+
+#~ msgid "Select and Share"
+#~ msgstr "اظهار ايقونات المشاركة عند تحديد نص"
+
+#~ msgid ""
+#~ "When you double-click a word or highlight a few words, a small share icons "
+#~ "are displayed. When you click an icon, a share modal will automatically "
+#~ "launch, containing the text you selected along with a link to the post."
+#~ msgstr ""
+#~ "عندما تقوم بتحديد نص في محتوى المقال ستظهر أيقونات مشاركة هذا النص على "
+#~ "الشبكات الإجتماعية مع رابط للمقال."
+
+#~ msgid "Sidebars Settings"
+#~ msgstr "إعدادات القائمة الجانبية"
+
+#~ msgid "Widgets icon"
+#~ msgstr "أيقونات المربعات الجانبية"
+
+#~ msgid "Default Sidebar Position"
+#~ msgstr "المكان الإفتراضي للعمود الجانبي"
+
+#~ msgid "Add Custom Sidebar"
+#~ msgstr "عمود جانبي مخصص"
+
+#~ msgid "Sidebar Name"
+#~ msgstr "اسم العمود الجانبي"
+
+#~ msgid "Please add a name for the sidebar."
+#~ msgstr "من فضلك أضف عدد للقائمة الجانبية"
+
+#~ msgid "Custom Sidebars"
+#~ msgstr "أعمدة جانبية خاصة"
+
+#~ msgid "Home Sidebar"
+#~ msgstr "العمود الجانبي للصفحة الرئيسية"
+
+#~ msgid "Single Page Sidebar"
+#~ msgstr "العمود الجانبيى لصفحة منفردة"
+
+#~ msgid "Single Article Sidebar"
+#~ msgstr "العمود الجانبي لتدوينة منفردة"
+
+#~ msgid "Archives Sidebar"
+#~ msgstr "العمود الجانبي للأرشيف"
+
+#~ msgid "Custom Social Network"
+#~ msgstr "أضف شبكات إجتماعية خاصة"
+
+#~ msgid "Icon"
+#~ msgstr "أيقونة"
+
+#~ msgid "Use the full Font Awesome icon name"
+#~ msgstr "إستخدم الإسم الكامل لأيقونة Font Awesome"
+
+#~ msgid "URL"
+#~ msgstr "الرابط"
+
+#~ msgid "Styling Settings"
+#~ msgstr "إعدادات المظهر"
+
+#~ msgid "Lazy Load For Images"
+#~ msgstr "خاصية LazyLoad لتحميل الصور"
+
+#~ msgid "Apply custom styling by inline code"
+#~ msgstr "أضف أكواد المظهر في مصدر الصفحات مباشرة"
+
+#~ msgid "Custom Body Classes"
+#~ msgstr "CSS Classes لمنطقة Body"
+
+#~ msgid "Predefined skins"
+#~ msgstr "أنماط"
+
+#~ msgid "Choose a Skin"
+#~ msgstr "إختر نمط ألوان"
+
+#~ msgid "Blue"
+#~ msgstr "أزرق"
+
+#~ msgid "Yellow"
+#~ msgstr "أصفر"
+
+#~ msgid "Alizarin"
+#~ msgstr "الأليزارين"
+
+#~ msgid "Sand"
+#~ msgstr "رمال"
+
+#~ msgid "Royal"
+#~ msgstr "ملكي"
+
+#~ msgid "Mint"
+#~ msgstr "نعناع"
+
+#~ msgid "Stylish Red"
+#~ msgstr "أحمر أنيق"
+
+#~ msgid "Twilight"
+#~ msgstr "الشفق"
+
+#~ msgid "Coffee"
+#~ msgstr "قهوة"
+
+#~ msgid "Ocean"
+#~ msgstr "محيط"
+
+#~ msgid "Cyan"
+#~ msgstr "سماوي"
+
+#~ msgid "Sahifa"
+#~ msgstr "صحيفة"
+
+#~ msgid "Mist"
+#~ msgstr "ضباب"
+
+#~ msgid "Serene"
+#~ msgstr "هادئ"
+
+#~ msgid "Fall"
+#~ msgstr "خريف"
+
+#~ msgid "Custom Primary Color"
+#~ msgstr "لون رئيسي خاص"
+
+#~ msgid "Body"
+#~ msgstr "عنصر الـBody"
+
+#~ msgid "Disable Boxed/Framed Layout Shadows"
+#~ msgstr "تعطيل ظلال الصفحة في مخطط المربع / المحدد"
+
+#~ msgid "Highlighted Text Color"
+#~ msgstr "لون النص عند اختياره بالفأرة"
+
+#~ msgid "Links Text Color"
+#~ msgstr "لون الروابط"
+
+#~ msgid "Links text HOVER color"
+#~ msgstr "لون الروابط عند المرور بمؤشر الفأرة"
+
+#~ msgid "Secondary Nav"
+#~ msgstr "القائمة الثانوية"
+
+#~ msgid "Text Color"
+#~ msgstr "لون النص"
+
+#~ msgid "Links Color"
+#~ msgstr "لون الروابط"
+
+#~ msgid "Links Color on mouse over"
+#~ msgstr "لون الروابط عند المرور بمؤشر الفأرة"
+
+#~ msgid "Breaking news label background"
+#~ msgstr "خلفية عنوان الأخبار العاجلة"
+
+#~ msgid "Disable Header Shadows"
+#~ msgstr "تعطيل ظل الهيدر"
+
+#~ msgid "Main Navigation Styling"
+#~ msgstr "شكل القائمة الرئيسية"
+
+#~ msgid "Main Content Styling"
+#~ msgstr "مظهر المحتوى الرئيسي"
+
+#~ msgid "In Post Links Color"
+#~ msgstr "لون الروابط في المقال"
+
+#~ msgid "In Post Links Color on mouse over"
+#~ msgstr "لون الروابط في المقال عند المرور بمؤشر الفأرة"
+
+#~ msgid "Mobile Menu Icon"
+#~ msgstr "أيقونة قائمة الجوال"
+
+#~ msgid "Mobile Menu Background"
+#~ msgstr "خلفية قائمة الجوال"
+
+#~ msgid "Gradient"
+#~ msgstr "تدريج"
+
+#~ msgid "Background Gradient Color 1"
+#~ msgstr "لون الخلفية الأول"
+
+#~ msgid "Background Gradient Color 2"
+#~ msgstr "لون الخلفية الثاني"
+
+#~ msgid "Tablets"
+#~ msgstr "الأجهزة اللوحية"
+
+#~ msgid "768px - 1024px"
+#~ msgstr "768px - 1024px"
+
+#~ msgid "Phones"
+#~ msgstr "الجوالات"
+
+#~ msgid "0 - 768px"
+#~ msgstr "0 - 768px"
+
+#~ msgid "Translations Settings"
+#~ msgstr "إعدادات الترجمة"
+
+#~ msgid "Typography Settings"
+#~ msgstr "خصائص الخطوط"
+
+#~ msgid "Body Font Family"
+#~ msgstr "شكل خط الـBody"
+
+#~ msgid "Headings Font Family"
+#~ msgstr "شكل خط العناوين"
+
+#~ msgid "Primary menu Font Family"
+#~ msgstr "شكل خط القائمة الرئيسية"
+
+#~ msgid "Blockquote Font Family"
+#~ msgstr "شكل خط الإقتباسات"
+
+#~ msgid "Source"
+#~ msgstr "المصدر"
+
+#~ msgid "Theme Defaults"
+#~ msgstr "إعدادات القالب الإفتراضية"
+
+#~ msgid "Standard Fonts"
+#~ msgstr "الخطوط الإفتراضية"
+
+#~ msgid "Google Fonts"
+#~ msgstr "خطوط Google"
+
+#~ msgid "Font Family"
+#~ msgstr "شكل الخط"
+
+#~ msgid "Tip:"
+#~ msgstr "نصيحه:"
+
+#~ msgid "Choosing a lot of Variants may make your pages slow to load."
+#~ msgstr ""
+#~ "يرجى ملاحظة انه في حالة اختيار الكثير من الأنواع سيؤدي إلى بطئ في تحميل "
+#~ "الصفحة."
+
+#~ msgid "Please, make sure that chosen font supports chosen weight."
+#~ msgstr ""
+#~ "من فضلك تأكد من أن الخط الذي قمت بإختيارة يدعم الحجم “font‪-‬weight” الذي "
+#~ "اختارته."
+
+#~ msgid "Thin 100 Italic"
+#~ msgstr "رفيع 100 مائل"
+
+#~ msgid "Extra 200 Light Italic"
+#~ msgstr "خفيف جداً 200 مائل"
+
+#~ msgid "Light 300 Italic"
+#~ msgstr "خفيف 300 مائل"
+
+#~ msgid "Regular 400 Italic"
+#~ msgstr "عادي 400 مائل"
+
+#~ msgid "Medium 500 Italic"
+#~ msgstr "متوسط 500 مائل"
+
+#~ msgid "Semi 600 Bold Italic"
+#~ msgstr "شبه داكن 600 مائل"
+
+#~ msgid "Bold 700 Italic"
+#~ msgstr "داكن 700 مائل"
+
+#~ msgid "Extra 800 Bold Italic"
+#~ msgstr "داكن جداً 800 مائل"
+
+#~ msgid "Black 900 Italic"
+#~ msgstr "كثيف 900 مائل"
+
+#~ msgid "Embed code for the &lt;head&gt; section"
+#~ msgstr "كود مدمج لجزء الـ ‪<‬head‪>‬"
+
+#~ msgid ""
+#~ "Enter the value for 'font-family' attribute, also you can specify the "
+#~ "stack of the fonts."
+#~ msgstr "قم بتعيين إسم الخط 'font-family' يجب أن يكون بالانجليزية."
+
+#~ msgid "Google Web Font Character sets"
+#~ msgstr "إختر ترميز خطوط Google"
+
+#~ msgid "Choosing a lot of Character sets may make your pages slow to load."
+#~ msgstr ""
+#~ "يرجى ملاحظة انه في حالة اختيار الكثير من الأنواع سيؤدي إلى بطئ في تحميل "
+#~ "الصفحة."
+
+#~ msgid "Font Sizes, Weights and Line Heights"
+#~ msgstr "حجم ووزن وإرتفاع الخطوط"
+
+#~ msgid "Font Weight Tips:"
+#~ msgstr "نصائح لحجم الخط:"
+
+#~ msgid ""
+#~ "- Browser standard fonts in general support only 'Normal (400)' and 'Bold "
+#~ "(700)' font weights."
+#~ msgstr "- الخطوط الإفتراضية تدعم بشكل عام الأوزان عادي ٤٠٠ و داكن ٧٠٠."
+
+#~ msgid "Header Site name"
+#~ msgstr "اسم الموقع في الهيدر"
+
+#~ msgid "Secondary Menu"
+#~ msgstr "القائمة الثانوية"
+
+#~ msgid "Secondary sub menus"
+#~ msgstr "القوائم الفرعية في القائمة الثانوية"
+
+#~ msgid "Main Navigation"
+#~ msgstr "القائمة الرئيسية"
+
+#~ msgid "Main Navigation sub menus"
+#~ msgstr "القوائم الفرعية في القائمة الرئيسية"
+
+#~ msgid "Breaking News Label"
+#~ msgstr "عنوان أخبار عاجلة"
+
+#~ msgid "Breaking News post titles"
+#~ msgstr "عناوين المقالات في الأخبار العاجلة"
+
+#~ msgid "Buttons"
+#~ msgstr "الأزرار"
+
+#~ msgid "Post Categories Label"
+#~ msgstr "وسم الأقسام الملون"
+
+#~ msgid "Single Post Title"
+#~ msgstr "العنوان في صفحة عرض المقال"
+
+#~ msgid "Post Titles in Homepage Blocks"
+#~ msgstr "عناوين المقالات في بلوكات الصفحة الرئيسية"
+
+#~ msgid "Small Post Titles in Homepage Blocks"
+#~ msgstr "عناوين المقالات الصغيرة في بلوكات الصفحة الرئيسية"
+
+#~ msgid "Single Post Page Contet"
+#~ msgstr "محتوى صفحة المقال"
+
+#~ msgid "Blockquotes"
+#~ msgstr "الاقتباسات"
+
+#~ msgid "Blocks Titles"
+#~ msgstr "عناوين المربعات"
+
+#~ msgid "Widgets Titles"
+#~ msgstr "عناوين المربعات الجانبية"
+
+#~ msgid "Footer Widgets Titles"
+#~ msgstr "عناوين المربعات الجانبية لمنطقة الفوتر"
+
+#~ msgid "Post Heading:"
+#~ msgstr "الترويسات:"
+
+#~ msgid "Sign up for FREE"
+#~ msgstr "قم بتجربته الآن مجاناً!"
+
+#~ msgid "FoxPush Setup"
+#~ msgstr "إعداد FoxPush"
+
+#~ msgid "One more step!"
+#~ msgstr "خطوة واحدة!"
+
+#~ msgid "How to get your API Key?"
+#~ msgstr "طريقة الحصول على API Key"
+
+#~ msgid "Make sure you are logged into FoxPush."
+#~ msgstr "قم بتسجيل الدخول إلى حسابك في FoxPush"
+
+#~ msgid "Click on Generate New Key."
+#~ msgstr "إضغط على زر Generate New Key."
+
+#~ msgid "Choose your Domain Name. then click the Generate button."
+#~ msgstr "إختر اسم النطاق ثم إضغط على زر Generate."
+
+#~ msgid "Copy the Domain and the key and add them in the fields below."
+#~ msgstr "قم بنسخ اسم النطاق و ال Key وقم بإضافتهم في الحقول بالأسفل."
+
+#~ msgid "Click on the Connect button below."
+#~ msgstr "إضغط على زر إتصال في الأسفل."
+
+#~ msgid "FoxPush Domain"
+#~ msgstr "اسم نطاق حساب FoxPush"
+
+#~ msgid "Connecting"
+#~ msgstr "جار الإتصال"
+
+#~ msgid "Connect"
+#~ msgstr "إتصال"
+
+#~ msgid "Your account is connected"
+#~ msgstr "مُتصل بحساب FoxPush"
+
+#~ msgid "Disconnect"
+#~ msgstr "إلغاء الإتصال"
+
+#~ msgid "Statistics (Updated Hourly)"
+#~ msgstr "إحصائيات (تُحدث كل ساعة)"
+
+#~ msgid "Campaigns"
+#~ msgstr "الحملات"
+
+#~ msgid "Total Views"
+#~ msgstr "عدد المشاهدات"
+
+#~ msgid "Total Clicks"
+#~ msgstr "عدد الضغطات"
+
+#~ msgid "WooCommerce Settings"
+#~ msgstr "إعدادات WooCommerce"
+
+#~ msgid "Number of products per page"
+#~ msgstr "عدد المنتجات في الصفحة"
+
+#~ msgid "Number of the related products"
+#~ msgstr "عدد المنتجات ذات الصلة"
+
+#~ msgid "WooCommerce Sidebar Position"
+#~ msgstr "مكان العمود الجانبي لووكوميرس"
+
+#~ msgid "WooCommerce Product Page Sidebar Position"
+#~ msgstr "مكان العمود الجانبي في صفحة المنتج لووكوميرس"
+
+#~ msgid "Theme Updates"
+#~ msgstr "تحديثات القالب"
+
+#~ msgid "Theme Update"
+#~ msgstr "تحديث"
+
+#~ msgid "New"
+#~ msgstr "جديد"
+
+#~ msgid "New Theme Update"
+#~ msgstr "تحديث جديد للقالب"
+
+#~ msgid "There is a new version of the %s theme available."
+#~ msgstr "هناك إصدار جديد من قالب %s"
+
+#~ msgid "You have version %1$s installed. Update to version %2$s ."
+#~ msgstr "الإصدار الموجود على موقعك %1s . قم بالترقية إلى الإصدار %2s ."
+
+#~ msgid "View the ChangeLog Details"
+#~ msgstr "عرض التغيرات و التحديثات"
+
+#~ msgid "How Do I Update My Theme?"
+#~ msgstr "كيف أقوم بتحديث القالب؟"
+
+#~ msgid "Primary Sidebar"
+#~ msgstr "القائمة الجانبية الرئيسية"
+
+#~ msgid "Social Counters"
+#~ msgstr "عداد الشبكات الإجتماعية"
+
+#~ msgid ""
+#~ "Enter Your Twitter Account Username , your APP Consumer key and Consumer "
+#~ "secret, <a href=\"%s\" target=\"_blank\">Click Here</a> For More Details."
+#~ msgstr ""
+#~ "أدخل معرف Twitter الخاص بك و Consumer key و Consumer secret, <a href=\"%s"
+#~ "\" target=\"_blank\">إضغط هنا</a> لمزيد من المعلومات ."
+
+#~ msgid "Review Overview"
+#~ msgstr "عناصر المراجعه : "
+
+#~ msgid "No new notifications"
+#~ msgstr "لا يوجد تنبيهات"
+
+#~ msgid "The Domain and API Key fields are required."
+#~ msgstr "حقول اسم نطاق و API key مطلوبة."
+
+#~ msgid "Jannah Custom Settings:"
+#~ msgstr "إعدادات Jannah الخاصة:"
+
+#~ msgid "(Only for Main Nav)"
+#~ msgstr "(متاح للقائمة الرئيسية فقط)"
+
+#~ msgid "Label Text"
+#~ msgstr "نص الوسم"
+
+#~ msgid "Label Background"
+#~ msgstr "خلفية الوسم"
+
+#~ msgid "Menu Icon"
+#~ msgstr "الأيقونة"
+
+#~ msgid "Show the icon only?"
+#~ msgstr "عرض الأيقونة فقط؟"
+
+#~ msgid "Enable The Mega Menu?"
+#~ msgstr "تفعيل ميجا منيو؟"
+
+#~ msgid "Posts - Vertical Sub-Categories Filter"
+#~ msgstr "مقالات - فلتر رأسي للأقسام الفرعية"
+
+#~ msgid "Posts - Horizontal Sub-Categories Filter"
+#~ msgstr "مقالات - فلتر أفقي للأقسام الفرعية"
+
+#~ msgid "Posts - 1st Post Highlighted"
+#~ msgstr "مقالات - إبراز أول تدوينة"
+
+#~ msgid "Mega Menu Columns"
+#~ msgstr "أعمدة ميجا منيو"
+
+#~ msgid "Number of Mega Menu Columns"
+#~ msgstr "عدد الأعمدة"
+
+#~ msgid "Hide Mega Menu headings?"
+#~ msgstr "إخفاء عناوين الميجا منيو الرئيسية"
+
+#~ msgid "Mega Menu Background Image"
+#~ msgstr "صوره خلفية للـMega Menu"
+
+#~ msgid "repeat"
+#~ msgstr "تكرار"
+
+#~ msgid "repeat-x"
+#~ msgstr "تكرار-أفقي"
+
+#~ msgid "repeat-y"
+#~ msgstr "تكرار-رأسي"
+
+#~ msgid "Padding Right"
+#~ msgstr "ازاحه لليمين"
+
+#~ msgid "Padding left"
+#~ msgstr "ازاحه لليسار"
+
+#~ msgid "Min Height"
+#~ msgstr "أقل ارتفاع"
+
+#~ msgid "%s (Invalid)"
+#~ msgstr "%s (غير صالح)"
+
+#~ msgid "%s (Pending)"
+#~ msgstr "%s (قيد الانتظار)"
+
+#~ msgid "sub item"
+#~ msgstr "عنصر الفرعي"
+
+#~ msgid "Move up"
+#~ msgstr "تحريك لأعلى"
+
+#~ msgid "Move down"
+#~ msgstr "تحريك لأسفل"
+
+#~ msgid "Edit Menu Item"
+#~ msgstr "تحرير عنصر القائمة"
+
+#~ msgid "Navigation Label"
+#~ msgstr "اسم العنصر في القائمة"
+
+#~ msgid "Title Attribute"
+#~ msgstr "سمة العنوان"
+
+#~ msgid "Open link in a new window/tab"
+#~ msgstr "فتح الرابط في تبويب/نافذة جديدة"
+
+#~ msgid "CSS Classes (optional)"
+#~ msgstr "CSS Classes (اختياري)"
+
+#~ msgid "Link Relationship (XFN)"
+#~ msgstr "علاقة الرابط (XFN)"
+
+#~ msgid "Description"
+#~ msgstr "الوصف"
+
+#~ msgid ""
+#~ "The description will be displayed in the menu if the current theme "
+#~ "supports it."
+#~ msgstr "سوف يظهر الوصف في القائمة إذا كان القالب يدعم ذلك."
+
+#~ msgid "Move"
+#~ msgstr "حرك"
+
+#~ msgid "Up one"
+#~ msgstr "إلى الأعلى مرة"
+
+#~ msgid "Down one"
+#~ msgstr "إلى الأسفل مرة"
+
+#~ msgid "To the top"
+#~ msgstr "إلى الأعلى"
+
+#~ msgid "Original: %s"
+#~ msgstr "أصلي: %s"
+
+#~ msgid "Previous page"
+#~ msgstr "الصفحة السابقة"
+
+#~ msgid "Next page"
+#~ msgstr "الصفحة التالية"
+
+#~ msgid "&raquo;"
+#~ msgstr "&raquo;"
+
+#~ msgid "&laquo;"
+#~ msgstr "&laquo;"
+
+#~ msgid "Secondry Nav Menu"
+#~ msgstr "القائمة الثانوية أعلى الموقع"
+
+#~ msgid "Main Nav Menu"
+#~ msgstr "القائمة الرئيسية"
+
+#~ msgid "404 Page menu"
+#~ msgstr "قائمة صفحة 404"
+
+#~ msgid "Footer Navigation"
+#~ msgstr "القائمة أسفل الموقع"
+
+#~ msgid "Rss"
+#~ msgstr "الخلاصات"
+
+#~ msgid "Digg"
+#~ msgstr "‏Digg"
+
+#~ msgid "WordPress"
+#~ msgstr "ووردبريس"
+
+#~ msgid "Yelp"
+#~ msgstr "‏Yelp"
+
+#~ msgid "Last.FM"
+#~ msgstr "‏Last.FM"
+
+#~ msgid "Dropbox"
+#~ msgstr "‏Dropbox"
+
+#~ msgid "Xing"
+#~ msgstr "‏Xing"
+
+#~ msgid "DeviantArt"
+#~ msgstr "‏DeviantArt"
+
+#~ msgid "Apple"
+#~ msgstr "‏Apple"
+
+#~ msgid "Paypal"
+#~ msgstr "‏Paypal"
+
+#~ msgid "Google Play"
+#~ msgstr "‏Google Play"
+
+#~ msgid "vk.com"
+#~ msgstr "‏vk.com"
+
+#~ msgid "Bitbucket"
+#~ msgstr "‏Bitbucket"
+
+#~ msgid "Medium"
+#~ msgstr "وسط"
+
+#~ msgid "Viadeo"
+#~ msgstr "Viadeo"
+
+#~ msgid "Snapchat"
+#~ msgstr "Snapchat"
+
+#~ msgid "Website"
+#~ msgstr "موقع الويب"
+
+#~ msgid "Close"
+#~ msgstr "إغلاق"
+
+#~ msgid "Share"
+#~ msgstr "شاركها"
+
+#~ msgid "No More Posts"
+#~ msgstr "لا يوجد مزيد من المقالات!"
+
+#~ msgid "View all results"
+#~ msgstr "عرض كل النتائج"
+
+#~ msgid "Type and hit Enter"
+#~ msgstr "إكتب كلمة البحث ثم إضغط زر الإدخال"
+
+#~ msgid "page"
+#~ msgstr "صفحه"
+
+#~ msgid "All"
+#~ msgstr "الكل"
+
+#~ msgid "First"
+#~ msgstr "&laquo; الأولى"
+
+#~ msgid "Last"
+#~ msgstr "الأخيرة &raquo;"
+
+#~ msgid "%s ago"
+#~ msgstr "منذ %s"
+
+#~ msgid "Pages"
+#~ msgstr "الصفحات"
+
+#~ msgid "Read More &raquo;"
+#~ msgstr "أكمل القراءة &raquo;"
+
+#~ msgid "Share via Email"
+#~ msgstr "مشاركة عبر البريد"
+
+#~ msgid "About %s"
+#~ msgstr "عن %s "
+
+#~ msgid "By %s"
+#~ msgstr "بواسطة %s"
+
+#~ msgid "Popular"
+#~ msgstr "الأشهر"
+
+#~ msgid "Recent"
+#~ msgstr "الأخيرة"
+
+#~ msgid "Search Results for: %s"
+#~ msgstr "نتائج البحث عن :  %s"
+
+#~ msgid "404 :("
+#~ msgstr "404 :("
+
+#~ msgid "No products found"
+#~ msgstr "لم يتم العثور على أي منتجات"
+
+#~ msgid "Nothing Found"
+#~ msgstr "لم يتم العثور على نتائج"
+
+#~ msgid "Dashboard"
+#~ msgstr "لوحة التحكم"
+
+#~ msgid "Your Profile"
+#~ msgstr "الملف الشخصي"
+
+#~ msgid "Log Out"
+#~ msgstr "تسجيل الخروج"
+
+#~ msgid "Password"
+#~ msgstr "كلمة المرور"
+
+#~ msgid "Forget?"
+#~ msgstr "نسيت كلمة المرور؟"
+
+#~ msgid "Remember me"
+#~ msgstr "تذكرني"
+
+#~ msgid "Log in"
+#~ msgstr "تسجيل الدخول"
+
+#~ msgid "Search for"
+#~ msgstr "بحث عن"
+
+#~ msgid "Price:"
+#~ msgstr "السعر:"
+
+#~ msgid "Quantity:"
+#~ msgstr "الكمية:"
+
+#~ msgid "Cart Subtotal:"
+#~ msgstr "المجموع:"
+
+#~ msgid "Veiw Cart"
+#~ msgstr "مشاهدة عربة التسوق"
+
+#~ msgid "Process To Checkout"
+#~ msgstr "اتمام الشراء"
+
+#~ msgid "Go to the shop"
+#~ msgstr "الذهاب للمتجر"
+
+#~ msgid "Random Article"
+#~ msgstr "مقال عشوائي"
+
+#~ msgid "Follow"
+#~ msgstr "تابعنا"
+
+#~ msgid "Subscribe"
+#~ msgstr "إشترك"
+
+#~ msgid "Related Articles"
+#~ msgstr "مقالات ذات صلة"
+
+#~ msgid "Videos"
+#~ msgstr "فيديوهات"
+
+#~ msgid "Follow us on Flickr"
+#~ msgstr "إتبعنا على فليكر"
+
+#~ msgid "Follow Us"
+#~ msgstr "إتبعنا"
+
+#~ msgid "Follow us on Twitter"
+#~ msgstr "إتبعنا على تويتر"
+
+#~ msgid "Less than a minute"
+#~ msgstr "أقل من دقيقة"
+
+#~ msgid "%s hours read"
+#~ msgstr "%s ساعات"
+
+#~ msgid "1 minute read"
+#~ msgstr "دقيقة واحدة"
+
+#~ msgid "%s minutes read"
+#~ msgstr "%s دقائق"
+
+#~ msgid "Notifications"
+#~ msgstr "التنبيهات"
+
+#~ msgid "Show Less"
+#~ msgstr "عرض أقل"
+
+#~ msgid "km/h"
+#~ msgstr "كيلومتر/ساعة"
+
+#~ msgid "mph"
+#~ msgstr "ميل/ساعة"
+
+#~ msgid "View your shopping cart"
+#~ msgstr "إستعراض سلة التسوق"
+
+#~ msgid "Enter your Email address"
+#~ msgstr "أدخل بريدك الإلكتروني"
+
+#~ msgid "Don't have an account?"
+#~ msgstr "ليس لديك حساب؟"
+
+#~ msgid "Your cart is currently empty."
+#~ msgstr "عربة التسوق فارغة الآن."
+
+#~ msgid "Oops! That page can&rsquo;t be found."
+#~ msgstr "المعذرة، هذه الصفحة غير موجودة."
+
+#~ msgid "Type your search words then press enter"
+#~ msgstr "اكتب كلمة البحث ثم اضغط على زر Enter"
+
+#~ msgid ""
+#~ "It seems we can't find what you're looking for. Perhaps searching can help."
+#~ msgstr "يبدوا أن المحتوى المطلوب غير موجود، حاول إستخدام البحث."
+
+#~ msgid ""
+#~ "Sorry, but nothing matched your search terms. Please try again with some "
+#~ "different keywords."
+#~ msgstr ""
+#~ "المعذرة, ولكن لم يتم العثور على نتائج تطابق كلمة البحث، حاول البحث "
+#~ "بإستخدام كلمات مختلفة ."
+
+#~ msgid "Random Post"
+#~ msgstr "مقال عشوائي"
+
+#~ msgid "Primary Navigation"
+#~ msgstr "القائمة الرئيسية"
+
+#~ msgid "Secondary Navigation"
+#~ msgstr "الشريط العلوي"
+
+#~ msgid ""
+#~ "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+#~ msgstr "هل أنت مُستعد لنشر أول مقال؟ <a href=\"%1$s\">إبدأ من هنا</a>."
+
+#~ msgid "Primary Widget Area"
+#~ msgstr "المربع الجانبي الرئيسي"
+
+#~ msgid "Slide Widget Area"
+#~ msgstr "مساحة الودجات للقائمة الجانبية “المخفية”"
+
+#~ msgid "Shop - For WooCommerce Pages"
+#~ msgstr "المتجر - لصفحات ووكوميرس"
+
+#~ msgid "This widget area uses in the WooCommerce pages."
+#~ msgstr "هذه القائمة الجانبية تستتخدم في صفحات ووكوميرس."
+
+#~ msgid "Image URL"
+#~ msgstr "رابط الصورة"
+
+#~ msgid "Image Margin Top"
+#~ msgstr "هامش الصورة العلوي"
+
+#~ msgid "Image Margin Bottom"
+#~ msgstr "هامش الصورة السفلي"
+
+#~ msgid "Circle Shape?"
+#~ msgstr "الشكل الدائري؟"
+
+#~ msgid "Text"
+#~ msgstr "نص"
+
+#~ msgid "Center the content?"
+#~ msgstr "توسيط المحتوى؟"
+
+#~ msgid "Show Social Icons?"
+#~ msgstr "إظهار الشبكات الإجتماعية"
+
+#~ msgid "Ads 125 x 125"
+#~ msgstr "اعلان 125*125"
+
+#~ msgid "Show the ads only?"
+#~ msgstr "اظهر الإعلان فقط"
+
+#~ msgid "Open links in a new window?"
+#~ msgstr "فتح الروابط في نافذة جديدة"
+
+#~ msgid "Ad #%s"
+#~ msgstr "إعلان #%s"
+
+#~ msgid "Image path:"
+#~ msgstr "مسار الصورة:"
+
+#~ msgid "The Ad URL:"
+#~ msgstr "رابط الإعلان"
+
+#~ msgid "Code:"
+#~ msgstr "كود:"
+
+#~ msgid "About the post&rsquo;s author"
+#~ msgstr "عن كاتب المقال"
+
+#~ msgid "This Widget appears in the single post page only."
+#~ msgstr "هذا الودجت يظهر فقط في صفحة المقال."
+
+#~ msgid "Posts By Post's Author"
+#~ msgstr "مقالات بواسطة كاتب التدوينة الحالية"
+
+#~ msgid "Display (All) link:"
+#~ msgstr "عرض رابط (الكل)"
+
+#~ msgid "Custom Author Content"
+#~ msgstr "محتوى خاص للكاتب"
+
+#~ msgid "Title:"
+#~ msgstr "العنوان:"
+
+#~ msgid "Center content:"
+#~ msgstr "توسيط المحتوى:"
+
+#~ msgid "Show child categories?"
+#~ msgstr "عرض التصنيفات الفرعية؟"
+
+#~ msgid "Recent Comments with avatar"
+#~ msgstr "آحدث التعليقات مع صورة شخصية"
+
+#~ msgid "Recent Comments"
+#~ msgstr "أخر التعليقات"
+
+#~ msgid "Number of comments to show:"
+#~ msgstr "عدد التعليقات المراد إظهارها:"
+
+#~ msgid "Find us on Facebook"
+#~ msgstr "تابعنا على فيسبوك"
+
+#~ msgid "Page URL:"
+#~ msgstr "رابط الصفحة :"
+
+#~ msgid "Hide cover Photo?"
+#~ msgstr "أخفاء كوفر الصفحة؟"
+
+#~ msgid "Show Faces?"
+#~ msgstr "إظهار وجوه الأصدقاء؟"
+
+#~ msgid "Show Stream?"
+#~ msgstr "إظهار المحتوى؟"
+
+#~ msgid "Flickr ID:"
+#~ msgstr "الرقم التعريفي لـFlickr :"
+
+#~ msgid "Find your ID at idGettr"
+#~ msgstr "ابحث عن رقمك التعريفي على idGettr"
+
+#~ msgid "Photos Order:"
+#~ msgstr "ترتيب الصور:"
+
+#~ msgid "Most recent"
+#~ msgstr "الأحدث نشرًا"
+
+#~ msgid "Random"
+#~ msgstr "عشوائي"
+
+#~ msgid "Number of photos to show:"
+#~ msgstr "عدد الصور المراد عرضها :"
+
+#~ msgid "Google+ page"
+#~ msgstr "صفحة Google‪+‬"
+
+#~ msgid "Follow us on Google+"
+#~ msgstr "إتبعنا على Google+"
+
+#~ msgid "Number of Media Items"
+#~ msgstr "عدد الصور"
+
+#~ msgid "Show the icon?"
+#~ msgstr "عرض الأيقونة؟"
+
+#~ msgid "Posts list"
+#~ msgstr "قائمة المقالات"
+
+#~ msgid "Posts order:"
+#~ msgstr "ترتيب المقالات:"
+
+#~ msgid "Style:"
+#~ msgstr "النمط:"
+
+#~ msgid "Featured Posts"
+#~ msgstr "المقالات المميزة"
+
+#~ msgid "Show the Slider only?"
+#~ msgstr "عرض السلايدر فقط؟"
+
+#~ msgid "Show the social icons only?"
+#~ msgstr "إظهار أزرارالشبكات الإجتماعية فقط؟"
+
+#~ msgid "Autoplay?"
+#~ msgstr "تشغيل تلقائي؟"
+
+#~ msgid "Tabs"
+#~ msgstr "التبويبات"
+
+#~ msgid "Order of tabs:"
+#~ msgstr "ترتيب التبويبات:"
+
+#~ msgid "Click Save button to be able to change the order of tabs."
+#~ msgstr "اضغط على زر حفظ لتستطيع تغيير ترتيب التبويبات ."
+
+#~ msgid "Popular order"
+#~ msgstr "الأشهر على حسب"
+
+#~ msgid "Most Commented"
+#~ msgstr "الأكثر تعليقًا"
+
+#~ msgid "Most Viewed"
+#~ msgstr "الأكثر مشاهدةً"
+
+#~ msgid "Number of items to show:"
+#~ msgstr "عدد العناصر المراد إظهارها:"
+
+#~ msgid "Text or HTML"
+#~ msgstr "نص او HTML"
+
+#~ msgid "Text, Shortcodes or HTML code"
+#~ msgstr "نص، كود مختصر او كود HTML"
+
+#~ msgid "Error Can not Get Tweets, Incorrect account info."
+#~ msgstr "خطأ، لا يمكن الحصول على تغريدات، معلومات الحساب غير صحيحة."
+
+#~ msgid "Number of Tweets to show:"
+#~ msgstr "عدد التغريدات المراد إظهارها:"
+
+#~ msgid "Slider Layout?"
+#~ msgstr "تفعيل السلايدر؟"
+
+#~ msgid "Featured Video"
+#~ msgstr "فيديو مميز"
+
+#~ msgid "Featured Videos"
+#~ msgstr "فيديوهات مميزة"
+
+#~ msgid "Videos List:"
+#~ msgstr "قائمة الفيديوهات:"
+
+#~ msgid "Enter each video URL in a seprated line."
+#~ msgstr "أضف رابط كل فيديو في سطر جديد"
+
+#~ msgid "Weather"
+#~ msgstr "الطقس"
+
+#~ msgid "Location:"
+#~ msgstr "الموقع الجغرافي:"
+
+#~ msgid "Find Your Location"
+#~ msgstr "تحديد مدينتك:"
+
+#~ msgid "(i.e: London,UK or New York City,NY)"
+#~ msgstr "(مثال: Alexandria, EG أو Riyadh, SA)"
+
+#~ msgid "API key"
+#~ msgstr "مفتاح API"
+
+#~ msgid "Units:"
+#~ msgstr "الوحدة:"
+
+#~ msgid "F"
+#~ msgstr "ف"
+
+#~ msgid "C"
+#~ msgstr "س"
+
+#~ msgid "Forecast:"
+#~ msgstr "التنبؤ بالطقس"
+
+#~ msgid "%d day"
+#~ msgid_plural "%d days"
+#~ msgstr[0] "يوم"
+#~ msgstr[1] "يوم"
+#~ msgstr[2] "يومين"
+#~ msgstr[3] "%d أيام"
+#~ msgstr[4] "%d أيام"
+#~ msgstr[5] "%d أيام"
+
+#~ msgid "Custom City Name:"
+#~ msgstr "اسم خاص للمدينة:"
+
+#~ msgid "humidity:"
+#~ msgstr "الرطوبة:"
+
+#~ msgid "wind:"
+#~ msgstr "الرياح:"
+
+#~ msgid "No weather information available"
+#~ msgstr "لم يتم العثور على أي معلومات"
+
+#~ msgid "Subscribe to our channel"
+#~ msgstr "إنضم لقناتنا"
+
+#~ msgid "Channel Name or ID:"
+#~ msgstr "اسم للقناة أو الرقم التعريفي للمستخدم:"
+
+#~ msgid "Get it from your account advanced page."
+#~ msgstr "يمكنك الحصور عليه من صفحة حسابك - إعدادات متقدمة."
+
+#~ msgid "Secondary Sidebar"
+#~ msgstr "القائمة الجانبية الثانوية"
+
+#~ msgid "Demo Import"
+#~ msgstr "استيراد بيانات الdemo"
+
+#~ msgid "Do not dulicate posts"
+#~ msgstr "عدم تكرار المقالات"
+
+#~ msgid "Footer Widget Title color"
+#~ msgstr "لون عنوان المربع الجانبي في الفوتر"
+
+#~ msgid "Mobile Menu links color"
+#~ msgstr "لون الروابط في قائمة الجوال"
+
+#~ msgid "Mobile Menu Social Icons color"
+#~ msgstr "لون أيقونات الشبكات الإجتماعية في قائمة الجوال"
+
+#~ msgid "Mobile Menu Search Button color"
+#~ msgstr "لون زر البحث في قائمة الجوال"
+
+#~ msgid "Any external fonts (e.g. Typekit, fontface.me)"
+#~ msgstr "أي خط خارجي (مثل: Typekit, fontface.me )"
+
+#~ msgid "Google Font Family"
+#~ msgstr "إختر خط GoogLe"
+
+#~ msgid "Google Font Variants"
+#~ msgstr "أوزان خط Google"
+
+#~ msgid "Use TieLabs Builder"
+#~ msgstr "مُبني صفحات TieLabs"
+
+#~ msgid "Use Default Editor"
+#~ msgstr "المحرر الإفتراضي"
+
+#~ msgid "All settings will be rest, are you sure?"
+#~ msgstr "سيتم إعادة تعيين كافة الإعدادات، هل أنت متأكد؟"
+
+#~ msgid "Magazine Style"
+#~ msgstr "نمط المجلة"
+
+#~ msgid "You may need to enable pretty permalinks if it isn’t working."
+#~ msgstr "ربما تحتاج لتفعيل الروابط الدائمة إذا لم تعمل."
+
+#~ msgid "Media overlay"
+#~ msgstr "تمييز مقالات الميديا"
+
+#~ msgid "Show the Ad only"
+#~ msgstr "اظهر الإعلان فقط"
+
+#~ msgid "TieLabs Page Builder"
+#~ msgstr "مُبنى صفحات TieLabs"
+
+#~ msgid "Post Options"
+#~ msgstr "خيارات التدوينة"
+
+#~ msgid "Page Options"
+#~ msgstr "خيارات الصفحة"
+
+#~ msgid "Sticky Sidebars"
+#~ msgstr "أعمدة جانبية ثابتة"
+
+#~ msgid "Disable on the homepage"
+#~ msgstr "تعطيل في الصفحة الرئيسية"
+
+#~ msgid "Disable on category pages"
+#~ msgstr "تعطيل في صفحات التصنيفات"
+
+#~ msgid "Disable on tag pages"
+#~ msgstr "تعطيل في صفحات الوسوم"
+
+#~ msgid "Disable on pages"
+#~ msgstr "تعطيل في الصفحات"
+
+#~ msgid "Disable on posts"
+#~ msgstr "تعطيل في المقالات"
+
+#~ msgid "Embed Code:"
+#~ msgstr "كود مدمج:"
+
+#~ msgid "Magazine #1"
+#~ msgstr "نمط المجلة #١"
+
+#~ msgid "Magazine #2"
+#~ msgstr "نمط المجلة #٢"
+
+#~ msgid "Magazine #3"
+#~ msgstr "نمط المجلة #٣"
+
+#~ msgid "[ads1] Shortcode Banner"
+#~ msgstr "كود مختصر للإعلانات  [ads1]"
+
+#~ msgid "[ads2] Shortcode Banner"
+#~ msgstr "كود مختصر للإعلانات  [ads2]"
+
+#~ msgid "[ads3] Shortcode Banner"
+#~ msgstr "كود مختصر للإعلانات  [ads3]"
+
+#~ msgid "[ads4] Shortcode Banner"
+#~ msgstr "كود مختصر للإعلانات  [ads4]"
+
+#~ msgid "[ads5] Shortcode Banner"
+#~ msgstr "كود مختصر للإعلانات  [ads5]"
+
+#~ msgid "Masonry #1"
+#~ msgstr "نمط الأعمدة المتداخلة #١"
+
+#~ msgid "Masonry #2"
+#~ msgstr "نمط الأعمدة المتداخلة #٢"
+
+#~ msgid "Masonry #3"
+#~ msgstr "نمط الأعمدة المتداخلة #٣"
+
+#~ msgid "Post Heading H1"
+#~ msgstr "العنوان H1"
+
+#~ msgid "Post Heading H2"
+#~ msgstr "العنوان H2"
+
+#~ msgid "Post Heading H3"
+#~ msgstr "العنوان H3"
+
+#~ msgid "Post Heading H4"
+#~ msgstr "العنوان H4"
+
+#~ msgid "Post Heading H5"
+#~ msgstr "العنوان H5"
+
+#~ msgid "Post Heading H6"
+#~ msgstr "العنوان H6"
+
+#~ msgid "Layout #1"
+#~ msgstr "نمط #١"
+
+#~ msgid "Layout #2"
+#~ msgstr "نمط #٢"
+
+#~ msgid "Layout #3"
+#~ msgstr "نمط #٣"
+
+#~ msgid "Layout #4"
+#~ msgstr "نمط #٤"
+
+#~ msgid "Layout #5"
+#~ msgstr "نمط #٥"
+
+#~ msgid "Layout #6"
+#~ msgstr "نمط #٦"
+
+#~ msgid "Layout #7"
+#~ msgstr "نمط #٧"
+
+#~ msgid "Layout #8"
+#~ msgstr "نمط #٨"
+
+#~ msgid "%s year"
+#~ msgid_plural "%s years"
+#~ msgstr[0] "عام"
+#~ msgstr[1] "%s أعوام"
+#~ msgstr[2] ""
+
+#~ msgid "5 Days"
+#~ msgstr "5 أيام"
+
+#~ msgid "4 Days"
+#~ msgstr "4 أيام"
+
+#~ msgid "3 Days"
+#~ msgstr "3 أيام"
+
+#~ msgid "2 Days"
+#~ msgstr "يومان"
+
+#~ msgid "1 Day"
+#~ msgstr "يوم واحد"
+
+#~ msgid "Media overlay icons"
+#~ msgstr "تمييز مقالات الميديا فقط"
+
+#~ msgid "Post views for posts"
+#~ msgstr "عداد "
+
+#~ msgid "Background (in case Boxed / Framed layout is enabled)"
+#~ msgstr "الخلفية ( في حالة إستخدام مخطط المربع / المحدد / البرواز )"
+
+#~ msgid "Dark Skin?"
+#~ msgstr "الشكل الداكن؟"
+
+#~ msgid ""
+#~ "Woohoo! We are so happy You have been with us for %s, We are looking "
+#~ "forward to providing an awesome WordPress theme and plugins for you for "
+#~ "many more. Thanks for being an awesome customer!"
+#~ msgstr "s"
+
+#~ msgid "Custom Image Logo"
+#~ msgstr "رفع لوجو خاص"
+
+#~ msgid "Supports: Youtube and Vimeo videos only."
+#~ msgstr "الفيديوهات المدعومة: youtube ‪,‬ Vimeo"
+
+#~ msgid "Basic Settings"
+#~ msgstr "الإعدادات الرئيسية"
+
+#~ msgid "Posts Order"
+#~ msgstr "ترتيب الموضوعات"
+
+#~ msgid "Category"
+#~ msgstr "تصنيف"
+
+#~ msgid "Tag"
+#~ msgstr "وسم"
+
+#~ msgid "Selective Posts"
+#~ msgstr "تدوينات مختارة"
+
+#~ msgid "Selective Pages"
+#~ msgstr "صفحات مختارة"
+
+#~ msgid "Selective Posts IDs"
+#~ msgstr "ID التدوينات المختارة"
+
+#~ msgid "Enter a post ID, or IDs separated by comma."
+#~ msgstr "أدخل ID التدوينات مفصولة بفاصلة."
+
+#~ msgid "Selective Pages IDs"
+#~ msgstr "ID الصفحات المختارة"
+
+#~ msgid "Enter a page ID, or IDs separated by comma."
+#~ msgstr "أدخل ID الصفحات  مفصولة بفاصلة."
+
+#~ msgid "Theme Settings"
+#~ msgstr "إعدادات القالب"
+
+#~ msgid "Single Post page"
+#~ msgstr "صفحة الموضوع"
+
+#~ msgid "Single Post page Settings"
+#~ msgstr "إعدادات صفحة الموضوع"
+
+#~ msgid "Youtube"
+#~ msgstr "YouTube"
+
+#~ msgid ""
+#~ "Enter Your Youtube username or Channel ID, API Key and choose User or "
+#~ "Channel from Type menu, <a href=\"%s\" target=\"_blank\">Click Here</a> "
+#~ "For More Details."
+#~ msgstr ""
+#~ "أدخل إسم مستخدم آو قناه Youtube الخاصه بك و API Key  <a href=\"%s\" target="
+#~ "\"_blank\">إضغط هنا</a> لمزيد من المعلومات ."
+
+#~ msgid "Enable Mega Menu ?"
+#~ msgstr "تفعيل الـMega Menu ؟"
+
+#~ msgid "Vertical Sub categories filter + Posts"
+#~ msgstr "تصنيفات فرعية بشكل عمودي + تدوينات"
+
+#~ msgid "Horizontal Sub categories filter + Posts"
+#~ msgstr "تصنيفات فرعية بشكل أفقي + تدوينات"
+
+#~ msgid "Recent post + Check also"
+#~ msgstr "أحدث تدوينة + شاهد أيضًا"
+
+#~ msgid "Mega Links"
+#~ msgstr "روابط ميجا"
+
+#~ msgid "Mega Links - Columns"
+#~ msgstr "روابط ميجا - عواميد"
+
+#~ msgid "Youtube User ID:"
+#~ msgstr "إسم مستخدم Youtube:"
+
+#~ msgid "hours read"
+#~ msgstr "ساعات"
+
+#~ msgid "minute read"
+#~ msgstr "دقيقة"
+
+#~ msgid "minutes read"
+#~ msgstr "دقائق"
+
+#~ msgid "Sun"
+#~ msgstr "الأحد"
+
+#~ msgid "Mon"
+#~ msgstr "الاثنين"
+
+#~ msgid "Tue"
+#~ msgstr "الثلاثاء"
+
+#~ msgid "Wed"
+#~ msgstr "الأربعاء"
+
+#~ msgid "Thu"
+#~ msgstr "الخميس"
+
+#~ msgid "Fri"
+#~ msgstr "الجمعة"
+
+#~ msgid "Sat"
+#~ msgstr "السبت"
+
+#~ msgid "URL (optional)"
+#~ msgstr "الرابط (اختيارياً)"
+
+#~ msgid "CLose"
+#~ msgstr "إغلاق"
+
+#~ msgid "Error"
+#~ msgstr "خطأ"
+
+#~ msgid "Delete"
+#~ msgstr "حذف"
+
+#~ msgid "Copyright"
+#~ msgstr "حقوق الملكية"
+
+#~ msgid "Save Settings"
+#~ msgstr "حفظ الإعدادات"
+
+#~ msgid "Save"
+#~ msgstr "حفظ"
+
+#~ msgid "Nofollow"
+#~ msgstr "بدون تتبع"
+
+#~ msgid "Check Also Box"
+#~ msgstr "صندوق \"شاهد أيضًا\""
+
+#~ msgid "Font family"
+#~ msgstr "شكل الخط"
+
+#~ msgid "Number of posts to show:"
+#~ msgstr "عدد التدوينات المراد إظهارها :"
+
+#~ msgid "Custom Slider:"
+#~ msgstr "سلايدر خاص:"
+
+#~ msgid "Video URL:"
+#~ msgstr "رابط الفيديو:"
+
+#~ msgid "Background color"
+#~ msgstr "لون الخلفية"
+
+#~ msgid "YouTube Channel"
+#~ msgstr "قناة اليوتيوب"
+
+#~ msgid "Header Background color"
+#~ msgstr "لون خلفية الهيدر"
+
+#~ msgid "Below post Share Buttons"
+#~ msgstr "أزرار نشر التدوينة السفلية"
+
+#~ msgid "Add image"
+#~ msgstr "إضافة صورة"
+
+#~ msgid "Ads Settings"
+#~ msgstr "الإعلانات"
+
+#~ msgid "Search Settings"
+#~ msgstr "اعدادات صفحة البحث"
+
+#~ msgid "Ads"
+#~ msgstr "إعلانات"
+
+#~ msgid "LightBox Settings"
+#~ msgstr "إعدادات Lightbox"
+
+#~ msgid "Below Post share Buttons"
+#~ msgstr "أزرار نشر التدوينة السفلية"
+
+#~ msgid "UserName"
+#~ msgstr "اسم المستخدم"
+
+#~ msgid "Twitter Username:"
+#~ msgstr "اسم مستخدم تويتر:"
+
+#~ msgid "Social Networking"
+#~ msgstr "الشبكات الإجتماعية"
+
+#~ msgid "Social"
+#~ msgstr "الشبكات الإجتماعية"
+
+#~ msgid "URL:"
+#~ msgstr "الرابط :"
+
+#~ msgid "Client ID"
+#~ msgstr "Client ID"
+
+#~ msgid "Client Secret"
+#~ msgstr "Client Secret"
+
+#~ msgid "How to get API key"
+#~ msgstr "طريقة الحصول على API Key"
+
+#~ msgid "Custom text"
+#~ msgstr "نص مخصص"
+
+#~ msgid "Google API Key"
+#~ msgstr "مفتاح Google API"
+
+#~ msgid "Youtube API Key"
+#~ msgstr "‏Youtube API Key"
+
+#~ msgid "Github"
+#~ msgstr "‏Github"
+
+#~ msgid "Delicious"
+#~ msgstr "Delicious"
+
+#~ msgid "API key:"
+#~ msgstr "‏API key:"
+
+#~ msgid "YouTube User ID:"
+#~ msgstr "‏ID حسابك على YouTube"
+
+#~ msgid "Google +"
+#~ msgstr "Google +"
+
+#~ msgid "Consumer key"
+#~ msgstr "Consumer key"
+
+#~ msgid "Consumer secret"
+#~ msgstr "Consumer secret"
+
+#~ msgid "Layout 1"
+#~ msgstr "نمط 1"
+
+#~ msgid "Layout 2"
+#~ msgstr "نمط 2"
+
+#~ msgid "Layout 3"
+#~ msgstr "نمط 3"
+
+#~ msgid "Import Demo Data"
+#~ msgstr "استيراد بيانات الdemo"
+
+#~ msgid ""
+#~ "No existing posts, pages, categories, images, custom post types or any "
+#~ "other data will be deleted or modified."
+#~ msgstr ""
+#~ "لن يتم / تعديل أو حذف أي تدوينات, صفحات، تصنيفات، صور أو أي بيانات أخرى."
+
+#~ msgid "Import"
+#~ msgstr "استيراد"
+
+#~ msgid "Live Demo"
+#~ msgstr "معاينة الديمو"
+
+#~ msgid "The file does not exist, please try again."
+#~ msgstr "الملف غير موجود, حاول من جديد."
+
+#~ msgid "Invalid file type"
+#~ msgstr "نوع الملف غير صحيح"
+
+#~ msgid "Failed to import %s %s"
+#~ msgstr "فشل في إستيراد %s %s"
+
+#~ msgid "Remote file is incorrect size"
+#~ msgstr "حجم خاطئ للملف المراد الإستيراد منه"
+
+#~ msgid "Zero size file downloaded"
+#~ msgstr "حجم الملف المستورد صفر"
+
+#~ msgid "Remote file is too large, limit is %s"
+#~ msgstr "الملف المطلوب الإستيراد منه كبير جداً ، الحد الأقصى المسموح به هو  %s"
+
+#~ msgid "Ajax Loader Icon"
+#~ msgstr "أيقونة الت"
+
+#~ msgid "Display Site Title"
+#~ msgstr "عرض إسم الموقع"
+
+#~ msgid "Thin (100)"
+#~ msgstr "‏Thin (100)"
+
+#~ msgid "Extra Light (200)"
+#~ msgstr "‏Extra Light (200)"
+
+#~ msgid "Light (300)"
+#~ msgstr "‏Light (300)"
+
+#~ msgid "Normal (400)"
+#~ msgstr "‏Normal (400)"
+
+#~ msgid "Medium (500)"
+#~ msgstr "‏Medium (500)"
+
+#~ msgid "Semi Bold (600)"
+#~ msgstr "‏Semi Bold (600)"
+
+#~ msgid "Bold (700)"
+#~ msgstr "‏Bold (700)"
+
+#~ msgid "Bolder (800)"
+#~ msgstr "‏Bolder (800)"
+
+#~ msgid "Extra Bold (900)"
+#~ msgstr "‏Extra Bold (900)"
+
+#~ msgid "[-] Collapse All"
+#~ msgstr "[-] طي الكل"
+
+#~ msgid "[+] Expand All"
+#~ msgstr "[+] فتح الكل"
+
+#~ msgid "All settings will be rest .. Are you sure ?"
+#~ msgstr "جميع الاعدادات سوف تعود للوضع الإفتراضي.. هل أنت متأكد؟"
+
+#~ msgid ""
+#~ "This option works only on Tablets and Phones .. to disable the "
+#~ "responsiveness action on the desktop .. edit style.css file and remove all "
+#~ "Media Queries from the end of the file ."
+#~ msgstr ""
+#~ "هذا الخيار يعمل فقط على الجوالات و الأجهزة اللوحية ... لتعطيل التجاوبية "
+#~ "على أجهزة الكومبيوتر ... قم بتحرير ملف Style.css وقم بحذف Media Queries من "
+#~ "نهاية الملف."
+
+#~ msgid "Trim excerpt text by"
+#~ msgstr "قص النص المقتطف بواسطة"
+
+#~ msgid "Slide"
+#~ msgstr "تبديل"
+
+#~ msgid "The Primary widget area"
+#~ msgstr "المربع الجانبي الرئيسي"
+
+#~ msgid "This widget area uses in the WooCommerce pages ."
+#~ msgstr "هذه القائمة الجانبية تستتخدم في ضفحات ووكوميرس."
+
+#~ msgid "Avatar Image URL"
+#~ msgstr "رابط للصوره الشخصية"
+
+#~ msgid "Documentation"
+#~ msgstr "توثيق القالب"
+
+#~ msgid "Support"
+#~ msgstr "الدعم الفني"
+
+#~ msgid "Search layout"
+#~ msgstr "نمط البحث"
+
+#~ msgid "Custom Theme Color"
+#~ msgstr "لون خاص للقالب"
+
+#~ msgid "Members Number"
+#~ msgstr "عدد الأعضاء"
+
+#~ msgid "Cover Image"
+#~ msgstr "صورة الكوفر"
+
+#~ msgid "Font Size In pixels"
+#~ msgstr "حجم الخط “by pixels”"
+
+#~ msgid "Share settings"
+#~ msgstr "خيارات المشاركة"
+
+#~ msgid "Go To Top Button"
+#~ msgstr "زر الذهاب إلى الأعلى"
+
+#~ msgid ""
+#~ "Will add to the footer before the closing  &lt;/body&gt; tag. Useful if "
+#~ "you need to add Javascript or tracking code."
+#~ msgstr ""
+#~ "الكود التالي سيتم إضافته لمنطقة الفوتر قبل غلق وسم &lt;/body&gt; . يصلح "
+#~ "لإضافة أي كود جافاسكربت أو كود تتبع."
+
+#~ msgid "Mobile Menu Settings"
+#~ msgstr "إعدادات قائمة الجوال"
+
+#~ msgid "Custom Styles"
+#~ msgstr "نمط خاص"
+
+#~ msgid "Main Color"
+#~ msgstr "اللون الرئيسي"
+
+#~ msgid "Tielabs Shortcodes"
+#~ msgstr "الأكواد المختصرة"
+
+#~ msgid "Box"
+#~ msgstr "مربع"
+
+#~ msgid "Style"
+#~ msgstr "المخطط"
+
+#~ msgid "Shadow"
+#~ msgstr "ظل"
+
+#~ msgid "Info"
+#~ msgstr "معلومة"
+
+#~ msgid "Success"
+#~ msgstr "نجاح"
+
+#~ msgid "Warning"
+#~ msgstr "تنبيه"
+
+#~ msgid "Download"
+#~ msgstr "تحميل"
+
+#~ msgid "Note"
+#~ msgstr "ملاحظة"
+
+#~ msgid "Button"
+#~ msgstr "زر"
+
+#~ msgid "Red"
+#~ msgstr "أحمر"
+
+#~ msgid "Orange"
+#~ msgstr "برتقالي"
+
+#~ msgid "Green"
+#~ msgstr "أخضر"
+
+#~ msgid "Gray"
+#~ msgstr "رمادي"
+
+#~ msgid "Pink"
+#~ msgstr "وردي"
+
+#~ msgid "Purple"
+#~ msgstr "بنفسجي"
+
+#~ msgid "Small"
+#~ msgstr "صغير"
+
+#~ msgid "Big"
+#~ msgstr "كبير"
+
+#~ msgid "Icon (use full Font Awesome name)"
+#~ msgstr "الأيقونة ( إستخدم الإسم الكامل font awesome )"
+
+#~ msgid "Tab 1 Title"
+#~ msgstr "تاب 1 | العنوان"
+
+#~ msgid "Tab 2 Title"
+#~ msgstr "تاب 2 | العنوان"
+
+#~ msgid "Tab 3 Title"
+#~ msgstr "تاب 3 | العنوان"
+
+#~ msgid "Tab 1 | Your Content"
+#~ msgstr "تاب 1 | المحتوى"
+
+#~ msgid "Tab 2 | Your Content"
+#~ msgstr "تاب 2 | المحتوى"
+
+#~ msgid "Tab 3 | Your Content"
+#~ msgstr "تاب 3 | المحتوى"
+
+#~ msgid "Slide 1 | Your Content"
+#~ msgstr "سلايد 1 | المحتوى"
+
+#~ msgid "Slide 2 | Your Content"
+#~ msgstr "سلايد 2 | المحتوى"
+
+#~ msgid "Slide 3 | Your Content"
+#~ msgstr "سلايد 3 | المحتوى"
+
+#~ msgid "Toggle Box"
+#~ msgstr "مربع تبديل"
+
+#~ msgid "Opened"
+#~ msgstr "مفتوح"
+
+#~ msgid "Closed"
+#~ msgstr "مغلق"
+
+#~ msgid "Content Slideshow"
+#~ msgstr "سلايدر المحتويات"
+
+#~ msgid "Add photos from Flickr"
+#~ msgstr "عرض صور من فليكر"
+
+#~ msgid "Number of photos"
+#~ msgstr "عدد الصور"
+
+#~ msgid "Display Feeds"
+#~ msgstr "عرض خلاصات"
+
+#~ msgid "Google Maps"
+#~ msgstr "خرائط جوجل"
+
+#~ msgid "OGG file URL"
+#~ msgstr "رابط ملف OGG"
+
+#~ msgid "Lightbox"
+#~ msgstr "Lightbox"
+
+#~ msgid "Full Image or YouTube / Vimeo Video URL"
+#~ msgstr "المسار الكامل لصفحة فيديو YouTube / Vimeo"
+
+#~ msgid "ToolTip"
+#~ msgstr "التلميحات"
+
+#~ msgid "Facebook Like Button"
+#~ msgstr "زر Facebook Like"
+
+#~ msgid "Tweet Button"
+#~ msgstr "زر Tweet"
+
+#~ msgid "Digg Button"
+#~ msgstr "زر Digg"
+
+#~ msgid "Stumble Button"
+#~ msgstr "زر Stumble"
+
+#~ msgid "Google+ Button"
+#~ msgstr "زر +Google"
+
+#~ msgid "Pinterest Button"
+#~ msgstr "زر Pinterest"
+
+#~ msgid "Twitter Follow Button"
+#~ msgstr "زر متابعة تويتر"
+
+#~ msgid "Dropcap"
+#~ msgstr "Dropcap"
+
+#~ msgid "Highlight Text"
+#~ msgstr "إبراز نص"
+
+#~ msgid "Padding"
+#~ msgstr "هامش للمحتوى"
+
+#~ msgid "Padding right"
+#~ msgstr "قيمة الهامش اليمين"
+
+#~ msgid "Padding Left"
+#~ msgstr "قيمة الهامش اليسار"
+
+#~ msgid "Divider Line"
+#~ msgstr "خط فاصل"
+
+#~ msgid "Solid"
+#~ msgstr "خط"
+
+#~ msgid "Dashed"
+#~ msgstr "متقطع"
+
+#~ msgid "Normal"
+#~ msgstr "طبيعي"
+
+#~ msgid "Double"
+#~ msgstr "مزدوج"
+
+#~ msgid "Dotted"
+#~ msgstr "منقط"
+
+#~ msgid "Lists"
+#~ msgstr "قوائم"
+
+#~ msgid "Star"
+#~ msgstr "نجوم"
+
+#~ msgid "Check"
+#~ msgstr "مميزات"
+
+#~ msgid "Thumb Up"
+#~ msgstr "إبهام  لأعلى"
+
+#~ msgid "Thumb Down"
+#~ msgstr "إبهام  لأسفل"
+
+#~ msgid "Plus"
+#~ msgstr "زائد"
+
+#~ msgid "Minus"
+#~ msgstr "ناقص"
+
+#~ msgid "Heart"
+#~ msgstr "قلوب"
+
+#~ msgid "Light Bulb"
+#~ msgstr "مصباح كهربائي"
+
+#~ msgid "Cons"
+#~ msgstr "عيوب"
+
+#~ msgid "Ads Shortcode 1"
+#~ msgstr "كود الإعلانات المختصر 1"
+
+#~ msgid "Ads Shortcode 2"
+#~ msgstr "كود الإعلانات المختصر 2"
+
+#~ msgid "Restrict Content"
+#~ msgstr "محتوى مخصص"
+
+#~ msgid "For Registered Users only"
+#~ msgstr "للأعضاء المسجلين فقط"
+
+#~ msgid "For Guests only"
+#~ msgstr "للزوار فقط"
+
+#~ msgid "Columns"
+#~ msgstr "أعمدة"
+
+#~ msgid "Add content here"
+#~ msgstr "أضف المحتوى هنا"
+
+#~ msgid "Full Width Image"
+#~ msgstr "صورة بالعرض الكامل"
+
+#~ msgid "Did you like"
+#~ msgstr "هل أعجبك"
+
+#~ msgid "If you like the theme, please don\\'t forget to rate it :)"
+#~ msgstr "إذا أعجبك القالب لا تنس تقييمه :)"
+
+#~ msgid "Howdy!"
+#~ msgstr "مرحباً!"
+
+#~ msgid "There was an error when reading this WXR file"
+#~ msgstr "حدث خطأ عند قراءة ملف WXR"
+
+#~ msgid ""
+#~ "Details are shown above. The importer will now try again with a different "
+#~ "parser..."
+#~ msgstr "التفاصيل في الأعلى. المستورد سيحاول من جديد ..."
+
+#~ msgid ""
+#~ "This does not appear to be a WXR file, missing/invalid WXR version number"
+#~ msgstr "لا يبدو أن هذا ملف WXR !"
+
+#~ msgid ""
+#~ "Importing demo data (post, pages, images, theme settings, ...) is the "
+#~ "easiest way to setup your theme. It will allow you to quickly edit "
+#~ "everything instead of creating content from scratch. When you import the "
+#~ "data following things will happen:"
+#~ msgstr ""
+#~ "إستيراد بيانات موقع الديمو ( التدوينات, الصفحات, الصور, إعدادات "
+#~ "القالب, ... ) الطريقة الأسهل لإعداد القالب الخاص بك ... حيث أنها تتيح لك "
+#~ "التعديل السريع للمحتويات بدلاً من إنشائها من البداية . عندما تقوم بإستيراد "
+#~ "البيانات هذا ما سيحدث :"
+
+#~ msgid ""
+#~ "About 10 posts, a few pages, 10+ images, some widgets and two menus will "
+#~ "get imported."
+#~ msgstr ""
+#~ "حوالي 10 تدوينات, بعض الصفحات, 10+ صور, بعض الويدجت و قائمتان سيتم "
+#~ "إستيرادهم."
+
+#~ msgid ""
+#~ "Images will be downloaded from our server, these images are copyrighted "
+#~ "and are for demo use only."
+#~ msgstr ""
+#~ "الصور سيتم تحميلها من السيرفر الخاص بنا, هذه الصور حقوقها محفوظة و "
+#~ "لإستخدام العرض فقط."
+
+#~ msgid ""
+#~ "Please click import only once and wait, it can take a couple of minutes."
+#~ msgstr ""
+#~ "من فضلك قم بالضغط على إستيراد بيانات الdemo مرة واحدة و الإنتظار, العملية "
+#~ "قد تأخذ بضع دقائق."
+
+#~ msgid ""
+#~ "The XML file containing the dummy content is not available or could not be "
+#~ "read .. You might want to try to set the file permission to chmod 755.<br/"
+#~ ">If this doesn't work please use the WordPress importer and import the XML "
+#~ "file (should be located in your download .zip: Sample Content folder) "
+#~ "manually"
+#~ msgstr ""
+#~ "ملف XML المحتوي على بيانات الديمو غير متاح ... حاول تعيين التراخيص 755 "
+#~ "للملف <br/> في حالة فشل الإستيراد من جديد ... برجاء إستخدام WordPress "
+#~ "importer وقم بإستيراد ملف XML المحتوي على بيانات الديمو ."
+
+#~ msgid "Sorry, there has been an error."
+#~ msgstr "المعذرة, حدث خطأ."
+
+#~ msgid "All done."
+#~ msgstr "تم"
+
+#~ msgid "Have fun!"
+#~ msgstr "إستمتع :)"
+
+#~ msgid "Remember to update the passwords and roles of imported users."
+#~ msgstr "لا تنسى أن تقوم بتغيير كلمات المرور و رُتب المستخدمين."
+
+#~ msgid ""
+#~ "The export file could not be found at <code>%s</code>. It is likely that "
+#~ "this was caused by a permissions problem."
+#~ msgstr ""
+#~ "غير قادر على العثور على الملف في المسار <code>%s</code> . ربما تكون مشكلة "
+#~ "تصريحات."
+
+#~ msgid ""
+#~ "This WXR file (version %s) may not be supported by this version of the "
+#~ "importer. Please consider updating."
+#~ msgstr ""
+#~ "إصدار ملف WXR الحالي %s غير مدعومة من الإصدار الحالي للمستورد ... برجاء "
+#~ "التحديث."
+
+#~ msgid ""
+#~ "Failed to import author %s. Their posts will be attributed to the current "
+#~ "user."
+#~ msgstr ""
+#~ "فشل في إستيراد المستخدم  %s . التدوينات الخاصه به سيتم تعيينها للمستخدم "
+#~ "الحالي."
+
+#~ msgid "Assign Authors"
+#~ msgstr "تعيين كُتاب"
+
+#~ msgid ""
+#~ "To make it easier for you to edit and save the imported content, you may "
+#~ "want to reassign the author of the imported item to an existing user of "
+#~ "this site. For example, you may want to import all the entries as "
+#~ "<code>admin</code>s entries."
+#~ msgstr ""
+#~ "حتى يكون أسهل لك تعديل و حفظ المحتوى المستورد ... ربما ترغب في تعيين "
+#~ "المحتوى المستورد لمستخدم حالي لهذا الموقع."
+
+#~ msgid ""
+#~ "If a new user is created by WordPress, a new password will be randomly "
+#~ "generated and the new user&#8217;s role will be set as %s. Manually "
+#~ "changing the new user&#8217;s details will be necessary."
+#~ msgstr ""
+#~ "إذا تم إنشاء مستخدم جديد بواسطة ووردبريس سيتم تعيين كلمة مرور عشوائية له و "
+#~ "رتبته ستكون %s ... تغيير بيانات المستخدم سيكون أمر ضروري."
+
+#~ msgid "Import Attachments"
+#~ msgstr "إستيراد المرفقات"
+
+#~ msgid "Download and import file attachments"
+#~ msgstr "تحميل و إستيراد المرفقات"
+
+#~ msgid "Import author:"
+#~ msgstr "إستيراد مستخدم:"
+
+#~ msgid "or create new user with login name:"
+#~ msgstr "أو قم بإضافة عضو جديد:"
+
+#~ msgid "as a new user:"
+#~ msgstr "كعضو جديد:"
+
+#~ msgid "assign posts to an existing user:"
+#~ msgstr "تعيين التدوينات لمستخدم حالي:"
+
+#~ msgid "or assign posts to an existing user:"
+#~ msgstr "أو تعيين التدوينات لمستخدم حالي:"
+
+#~ msgid "- Select -"
+#~ msgstr "- إختر -"
+
+#~ msgid ""
+#~ "Failed to create new user for %s. Their posts will be attributed to the "
+#~ "current user."
+#~ msgstr ""
+#~ "فشل في إنشاء مستخدم جديد لـ  %s . التدوينات الخاصه به سيتم تعيينها "
+#~ "للمستخدم الحالي."
+
+#~ msgid "Failed to import category %s"
+#~ msgstr "فشل في إستيراد التصنيف  %s"
+
+#~ msgid "Failed to import post tag %s"
+#~ msgstr "فشل في إستيراد الوسم %s"
+
+#~ msgid "Failed to import &#8220;%s&#8221;: Invalid post type %s"
+#~ msgstr "فشل في إستيراد &#8220;%s&#8221;: نوع محتوى خاطئ %s"
+
+#~ msgid "%s &#8220;%s&#8221; already exists."
+#~ msgstr "%s &#8220;%s&#8221; موجود بالفعل."
+
+#~ msgid "Failed to import %s &#8220;%s&#8221;"
+#~ msgstr "فشل في إستيراد %s &#8220;%s&#8221;"
+
+#~ msgid "Menu item skipped due to missing menu slug"
+#~ msgstr "تم تخطي عنصر القائمة بسبب فقدان التسمية"
+
+#~ msgid "Menu item skipped due to invalid menu slug: %s"
+#~ msgstr "تم تخطي عنصر القائمة بسبب خطأ في التسمية: %s"
+
+#~ msgid "Fetching attachments is not enabled"
+#~ msgstr "جلب المرفقات غير متاح"
+
+#~ msgid "Remote server did not respond"
+#~ msgstr "السيرفر لا يستجيب"
+
+#~ msgid "Remote server returned error response %1$d %2$s"
+#~ msgstr "السيرفر يعيد رسالة خطأ %1$d %2$s"
+
+#~ msgid "Import WordPress"
+#~ msgstr "إستيراد ووردبريس"
+
+#~ msgid ""
+#~ "A new version of this importer is available. Please update to version %s "
+#~ "to ensure compatibility with newer export files."
+#~ msgstr "إصدار جديد من المستورد متاح حاليا ... برجاء التحديث للإصدار  %s ."
+
+#~ msgid ""
+#~ "Howdy! Upload your WordPress eXtended RSS (WXR) file and we&#8217;ll "
+#~ "import the posts, pages, comments, custom fields, categories, and tags "
+#~ "into this site."
+#~ msgstr ""
+#~ "مرحبا. قم برفع ملف WXR و سنقوم بإستيراد التدوينات, الصفحات, التعليقات, "
+#~ "التصنيفات و الوسوم لهذا الموقع."
+
+#~ msgid ""
+#~ "Choose a WXR (.xml) file to upload, then click Upload file and import."
+#~ msgstr "إختر ملف WXR ثم إضغط رفع."
+
+#~ msgid "Numaric"
+#~ msgstr "عددي"
+
+#~ msgid "Ajax Next/Prev"
+#~ msgstr "اجاكس التالي‪/‬السابق"
+
+#~ msgid "Show More Button"
+#~ msgstr "زر أظهر المزيد"
+
+#~ msgid "Load More Button"
+#~ msgstr "زر تحميل المزيد"
+
+#~ msgid "Custom color"
+#~ msgstr "لون خاص"
+
+#~ msgid "Enable Background Image ADS"
+#~ msgstr "تفعيل اعلانات صورة الخلفية"
+
+#~ msgid "Background Image ADS Link"
+#~ msgstr "رابط اعلانات صورة الخلفية"
+
+#~ msgid "Footer Bottom Area"
+#~ msgstr "مساحة الفوتر السفلية"
+
+#~ msgid "Logo + Ad (Layout 1)"
+#~ msgstr "لوجو + إعلان (هيدر ١)"
+
+#~ msgid "Logo and menu in the center (Layout 2)"
+#~ msgstr "لوجو + القائمة الرئيسية في الوسط (هيدر ٢)"
+
+#~ msgid "Logo + Menu (Layout 3)"
+#~ msgstr "لوجو + منيو (هيدر ٣)"
+
+#~ msgid "Today's data"
+#~ msgstr "تاريخ اليوم"
+
+#~ msgid "Today's Date Format"
+#~ msgstr "صيغة تاريخ اليوم"
+
+#~ msgid "Enable the Mobile Menu"
+#~ msgstr "تفعيل قائمة الجوال"
+
+#~ msgid "Show the top menu items in the Mobile Menu below the Main Menu items"
+#~ msgstr ""
+#~ "إظهار عناصر القائمة العلوية في قائمة الجوال تحت عناصر القائمة الرئيسية ؟"
+
+#~ msgid "Show menu icons"
+#~ msgstr "تفعيل الأيقونات في قائمة الجوال"
+
+#~ msgid "Author avatar"
+#~ msgstr "صورة شخصية للكاتب"
+
+#~ msgid "Twitter Username <small>(optional)</small>"
+#~ msgstr "اسم مستخدم تويتر <small>(اختياري)</small>"
+
+#~ msgid "LinkedIn Button"
+#~ msgstr "زر LinkedIn"
+
+#~ msgid "StumbleUpon Button"
+#~ msgstr "زر StumbleUpon"
+
+#~ msgid "Tumblr Button"
+#~ msgstr "رابط Tumblr"
+
+#~ msgid "VK Button"
+#~ msgstr "رابط VK"
+
+#~ msgid "Email Button"
+#~ msgstr "زر البريد"
+
+#~ msgid "About the author"
+#~ msgstr "عن الكاتب"
+
+#~ msgid "Embed code for the <head> section"
+#~ msgstr "كود مدمج لجزء الـ ‪<‬head‪>‬"
+
+#~ msgid ""
+#~ "Enter Your Feed URl and the Feedpress Json file URL or Number of "
+#~ "Subscribers manually  <a href=\"%s\" target=\"_blank\">Click Here</a> For "
+#~ "More Details."
+#~ msgstr ""
+#~ "أدخل رابط خلاصات و ملف Json ل Feedpress أو أدخل رقم المتابعون يدوياً <a "
+#~ "href=\"%s\" target=\"_blank\">إضغط هنا</a> لمزيد من المعلومات ."
+
+#~ msgid "No items."
+#~ msgstr "لم يتم العثور على عناصر ."
+
+#~ msgid "Add New Slider"
+#~ msgstr "إضافة سلايدر جديد"
+
+#~ msgid "Slide Title:"
+#~ msgstr "عنوان السلايد:"
+
+#~ msgid "Slide Link:"
+#~ msgstr "رابط السلايد:"
+
+#~ msgid "Slide Caption:"
+#~ msgstr "نص السلايد:"
+
+#~ msgid "Add New Slide"
+#~ msgstr "أضف سلايد جديدة"
+
+#~ msgid "Number of slides"
+#~ msgstr "عدد السلايدز"
+
+#~ msgid "Subscribe to our email newsletter."
+#~ msgstr "إشترك في قائمتنا البريدية ليصلك جديد الموقع ."
+
+#~ msgid "@Follow Me"
+#~ msgstr "@إتبعني"
+
+#~ msgid "N"
+#~ msgstr "ش"
+
+#~ msgid "NNE"
+#~ msgstr "ش.ش.ق‎"
+
+#~ msgid "NE"
+#~ msgstr "ش.ق"
+
+#~ msgid "ENE"
+#~ msgstr "ق.ش.ق‎"
+
+#~ msgid "E"
+#~ msgstr "ق"
+
+#~ msgid "ESE"
+#~ msgstr "ق.ج.ق"
+
+#~ msgid "SE"
+#~ msgstr "ج.ش"
+
+#~ msgid "SSE"
+#~ msgstr "ج.ج.ش"
+
+#~ msgid "S"
+#~ msgstr "ج"
+
+#~ msgid "SSW"
+#~ msgstr "ج.ج.غ"
+
+#~ msgid "SW"
+#~ msgstr "ج.غ"
+
+#~ msgid "WSW"
+#~ msgstr "غ.ج.غ"
+
+#~ msgid "W"
+#~ msgstr "غ"
+
+#~ msgid "WNW"
+#~ msgstr "غ.ش.غ"
+
+#~ msgid "NW"
+#~ msgstr "ش.غ"
+
+#~ msgid "NNW"
+#~ msgstr "ش.ش.غ"
+
+#~ msgid "H"
+#~ msgstr "العظمى"
+
+#~ msgid "L"
+#~ msgstr "الصغرى"
+
+#~ msgid "Don't Show"
+#~ msgstr "اخفاء"
+
+#~ msgid "Login"
+#~ msgstr "دخول"
+
+#~ msgid "Not Found"
+#~ msgstr "غير موجود !"
+
+#~ msgid ""
+#~ "Apologies, but the page you requested could not be found. Perhaps "
+#~ "searching will help."
+#~ msgstr "المعذرة ولكن الصفحة المطلوبة غير موجودة .. حاول إستخدام محرك البحث ."
+
+#~ msgid "Results Found"
+#~ msgstr "نتائج تم العثور عليها"
+
+#~ msgid "No Results"
+#~ msgstr "لا يوجد نتائج"
+
+#~ msgid "View All Results"
+#~ msgstr "عرض كل النتائج"
+
+#~ msgid ""
+#~ "Sorry, but nothing matched your search criteria. Please try again with "
+#~ "some different keywords."
+#~ msgstr ""
+#~ "المعذرة, ولكن لم يتم العثور على نتائج تطابق كلمة البحث ... حاول البحث "
+#~ "بإستخدام كلمات مختلفة ."
+
+#~ msgid "Daily Archives: <span>%s</span>"
+#~ msgstr "أرشيف يوم: <span>%s</span>"
+
+#~ msgid "Monthly Archives: <span>%s</span>"
+#~ msgstr "أرشيف شهر: <span>%s</span>"
+
+#~ msgid "Yearly Archives: <span>%s</span>"
+#~ msgstr "أرشيف سنة: <span>%s</span>"
+
+#~ msgid "Tag Archives: %s"
+#~ msgstr "أرشيف الوسم : %s"
+
+#~ msgid "Blog Archives"
+#~ msgstr "أرشيف الموقع"
+
+#~ msgid "Feed Subscription"
+#~ msgstr "الإشتراك في الخلاصات"
+
+#~ msgid "No comments"
+#~ msgstr "لا تعليقات"
+
+#~ msgid "One comment"
+#~ msgstr "تعليق واحد"
+
+#~ msgid "1 Comment"
+#~ msgstr "تعليق واحد"
+
+#~ msgid "% Comments"
+#~ msgstr "% تعليقات"
+
+#~ msgid "comments"
+#~ msgstr "تعليقات"
+
+#~ msgid "Leave a comment"
+#~ msgstr "اضف تعليق"
+
+#~ msgid "Pingback:"
+#~ msgstr "تعقيبات:"
+
+#~ msgid "<span>&larr;</span> Older Comments"
+#~ msgstr "<span>&larr;</span> تعليقات أقدم"
+
+#~ msgid "Newer Comments <span>&rarr;</span>"
+#~ msgstr "تعليقات أحدث <span>&rarr;</span>"
+
+#~ msgid "Your comment is awaiting moderation."
+#~ msgstr "تعليقك في إنتظار مراجعه المدير."
+
+#~ msgid "Posts"
+#~ msgstr "تدوينات"
+
+#~ msgid "Pages:"
+#~ msgstr "صفحات:"
+
+#~ msgid "Edit"
+#~ msgstr "تحرير"
+
+#~ msgid "Previous"
+#~ msgstr "السابق"
+
+#~ msgid "Prev"
+#~ msgstr "السابق"
+
+#~ msgid "Next"
+#~ msgstr "التالي"
+
+#~ msgid "Authors"
+#~ msgstr "الكُتاب"
+
+#~ msgid "Related Products"
+#~ msgstr "منتجات ذات صلة"
+
+#~ msgid "You must be logged in to view this page."
+#~ msgstr "يجب أن تقوم بتسجيل الدخول لتتمكن من مشاهدة هذه الصفحة."
+
+#~ msgid "Widgets"
+#~ msgstr "ويدجات"
+
+#~ msgid "All Posts"
+#~ msgstr "كل التدوينات"
+
+#~ msgid "Logout"
+#~ msgstr "تسجيل الخروج"
+
+#~ msgid "Remember Me"
+#~ msgstr "تذكرني"
+
+#~ msgid "Lost your password?"
+#~ msgstr "نسيت كلمة المرور ؟"
+
+#~ msgid "Enter your e-mail address"
+#~ msgstr "أدخل بريدك الإلكتروني"
+
+#~ msgid "&laquo; First"
+#~ msgstr "&laquo; الأولى"
+
+#~ msgid "Last &raquo;"
+#~ msgstr "الأخيرة &raquo;"
+
+#~ msgid "Page %s"
+#~ msgstr "صفحة %s"
+
+#~ msgid "%1$s at %2$s"
+#~ msgstr "%1$s في %2$s"
+
+#~ msgid "Page %CURRENT_PAGE% of %TOTAL_PAGES%"
+#~ msgstr "صفحة %CURRENT_PAGE% من %TOTAL_PAGES%"
+
+#~ msgid "Misc"
+#~ msgstr "متفرقات"
+
+#~ msgid "Scroll To Top"
+#~ msgstr "إلى الأعلى"
+
+#~ msgid "No posts Found!"
+#~ msgstr "لا توجد موضوعات!"
+
+#~ msgid "Popup Search"
+#~ msgstr "نافذة البحث"
+
+#~ msgid "Type Your Search Words Then Press Enter"
+#~ msgstr "اكتب كلمة البحث ثم اضغط على زر Enter"
+
+#~ msgid "Header Search"
+#~ msgstr "شريط البحث"
+
+#~ msgid "videos"
+#~ msgstr "فيديوهات"
+
+#~ msgid "Tags "
+#~ msgstr "الوسوم"
+
+#~ msgid "Recommended size (MAX) : 190px x 60px"
+#~ msgstr "الحجم الذي ينصح به (على الأكثر): 190px x 60px"
+
+#~ msgid "Custom Sliders"
+#~ msgstr "سلايدر خاص"
+
+#~ msgid "Insert Images | Hold CTRL to Multi Select ."
+#~ msgstr "إختر صور | إضغط CTRL للإختيار المتعدد."
+
+#~ msgid "Use the button above to add slides."
+#~ msgstr "استخدم الزر بالأعلى لإضافة سلايدز."
+
+#~ msgid "Category:"
+#~ msgstr "تصنيف :"
+
+#~ msgid "Posts Order:"
+#~ msgstr "ترتيب التدوينات"
+
+#~ msgid "Offset - number of posts to pass over:"
+#~ msgstr "التخطي - عدد التدوينات المتخطاة:"
+
+#~ msgid "Hide all small thumbnails"
+#~ msgstr "إخفاء كل المصغرات"
+
+#~ msgid "Exclude These Categories:"
+#~ msgstr "إستثناء تصنيفات:"
+
+#~ msgid "Show Pagination"
+#~ msgstr "عرض نظام الصفحات"
+
+#~ msgid "Show Social Buttons"
+#~ msgstr "إظهار أزرار الشبكات الإجتماعية"
+
+#~ msgid ""
+#~ "WordPress WARNING: Setting the offset option breaks pagination, disable "
+#~ "the pagination option if you want to use the offset option."
+#~ msgstr "تنبيه WordPress : لايمكن تفعيل خيار التخطي مع تفعيل نظام الصفحات."
+
+#~ msgid "Categories Tabs Block"
+#~ msgstr "بلوك تابات للأقسام"
+
+#~ msgid "Category Block:"
+#~ msgstr "بلوك أخبار من تصنيف :"
+
+#~ msgid "Choose Categories:"
+#~ msgstr "إختر التصنيفات:"
+
+#~ msgid "Recent Products"
+#~ msgstr "أخر المنتجات"
+
+#~ msgid "Number of Products to show:"
+#~ msgstr "عدد المنتجات:"
+
+#~ msgid "Offset - number of Products to pass over:"
+#~ msgstr "التخطي - عدد المنتجات المتخطاة:"
+
+#~ msgid "Display Mode:"
+#~ msgstr "نمط العرض:"
+
+#~ msgid "Default Layout"
+#~ msgstr "الإفتراضي"
+
+#~ msgid "Scrolling"
+#~ msgstr "متحرك"
+
+#~ msgid "News in Picture"
+#~ msgstr "أخبار في صور"
+
+#~ msgid "Videos Lightbox"
+#~ msgstr "تفعيل Lightbox للفيديوهات"
+
+#~ msgid "Videos Lightbox option working with YouTube and Vimeo videos only."
+#~ msgstr "خيار Lightbox يعمل مع فيديوهات  YouTube و Vimeo فقط."
+
+#~ msgid "Latest Posts"
+#~ msgstr "أخر التدوينات"
+
+#~ msgid "Alignment:"
+#~ msgstr "التموضع:"
+
+#~ msgid "Custom CSS Class:"
+#~ msgstr "كلاس CSS خاص"
+
+#~ msgid "Width:"
+#~ msgstr "العرض:"
+
+#~ msgid "Content:"
+#~ msgstr "المحتوى:"
+
+#~ msgid "Color:"
+#~ msgstr "اللون:"
+
+#~ msgid "Size:"
+#~ msgstr "الحجم:"
+
+#~ msgid "Link:"
+#~ msgstr "الرابط:"
+
+#~ msgid "Text:"
+#~ msgstr "النص:"
+
+#~ msgid "Icon (use full Font Awesome name):"
+#~ msgstr "الأيقونة ( إستخدم الإسم الكامل font awesome ):"
+
+#~ msgid "State:"
+#~ msgstr "الحالة:"
+
+#~ msgid "Author Image URL:"
+#~ msgstr "صورة الكاتب:"
+
+#~ msgid "Account ID : ( get it from http://idgettr.com )"
+#~ msgstr "ID الحساب : ( يمكنك العثور عليه من خلال http://idgettr.com )"
+
+#~ msgid "Sorting:"
+#~ msgstr "الترتيب:"
+
+#~ msgid "URL of the RSS feed:"
+#~ msgstr "رابط خلاصات RSS:"
+
+#~ msgid "Number of Feeds:"
+#~ msgstr "عدد عناصر الخلاصة:"
+
+#~ msgid "Height:"
+#~ msgstr "الإرتفاع:"
+
+#~ msgid "Direction:"
+#~ msgstr "الإتجاه:"
+
+#~ msgid "Northwest"
+#~ msgstr "شمال غرب"
+
+#~ msgid "North"
+#~ msgstr "شمال"
+
+#~ msgid "Northeast"
+#~ msgstr "شمال شرق"
+
+#~ msgid "West"
+#~ msgstr "غرب"
+
+#~ msgid "East"
+#~ msgstr "شرق"
+
+#~ msgid "Southwest"
+#~ msgstr "جنوب غرب"
+
+#~ msgid "South"
+#~ msgstr "جنوب"
+
+#~ msgid "Southeast"
+#~ msgstr "جنوب شرق"
+
+#~ msgid "Margin Top:"
+#~ msgstr "الهامش العلوي:"
+
+#~ msgid "Margin Bottom:"
+#~ msgstr "الهامش السفلي:"
+
+#~ msgid "Will not appears if the numeric pagination is active."
+#~ msgstr "لن تظهر في حالة تفعيل المتصفح العدد"
+
+#~ msgid "Media Overlay"
+#~ msgstr "تمييز موضوعات الميديا فقط"
+
+#~ msgid "Will not appears if the Block URL is empty."
+#~ msgstr "لن تظهر في حالة ترك رابط البلوك “block URL” فارغاً"
+
+#~ msgid "Full Screen"
+#~ msgstr "خلفية بحجم الشاشة بالكامل"
+
+#~ msgid "Updating Automatically"
+#~ msgstr "الترقية تلقائياً"
+
+#~ msgid ""
+#~ "Envato have developed the <a href=\"https://github.com/envato/envato-"
+#~ "wordpress-toolkit\" target=\"_blank\">Envato Toolkit Plugin</a> for "
+#~ "WordPress.\n"
+#~ "\t\t\t\t\tYou can use this to receive notification of updates to themes "
+#~ "purchased from ThemeForest\n"
+#~ "\t\t\t\t\tand to automatically update (upon clicking) directly from within "
+#~ "your WordPress admin area."
+#~ msgstr ""
+#~ "‏Envato قامت بتوفير إضافة <a href=“https://github.com/envato/envato-"
+#~ "wordpress-toolkit” target=“_blank”>Envato Toolkit</a> لووردبريس و التي "
+#~ "يمكنك إستخدامها لترقية القوالب التي قمت بشرائها من خلال ثيمفورست تلقائيا "
+#~ "عن طريق لوحة تحكم ووردبريس ."
+
+#~ msgid ""
+#~ "Download the <a href=\"https://github.com/envato/envato-wordpress-toolkit/"
+#~ "zipball/master\">plugin zip file</a> to your computer."
+#~ msgstr ""
+#~ "قم بتحميل <a href=\"https://github.com/envato/envato-wordpress-toolkit/"
+#~ "zipball/master\">ملف الإضافة المضغوط</a> ."
+
+#~ msgid ""
+#~ "In your WordPress admin area, go to <i>Plugins &gt; Add New</i> then click "
+#~ "<i>Upload</i>."
+#~ msgstr ""
+#~ "في لوحة تحكم WordPress . إذهب إلى <i>الإضافات &gt; أضف جديد</i> ثم أضغط "
+#~ "على <i>رفع إضافة</i>."
+
+#~ msgid ""
+#~ "Click <i>Choose File</i>, select the plugin zip file you downloaded and "
+#~ "click <i>Install Now</i>."
+#~ msgstr "قم برفع ملف الإضافة المضغوط ثم قم بتنصيب الإضافة ."
+
+#~ msgid "After installation, click <i>Activate</i>."
+#~ msgstr "بعد التنصيب إضغط على <i>تفعيل</i> ."
+
+#~ msgid ""
+#~ "Click the new <i>Envato Toolkit</i> link in the menu and follow the "
+#~ "instructions to configure the plugin."
+#~ msgstr ""
+#~ "إضغط على رابط <i>Envato Toolkit</i> في القائمة ثم إتبع الإرشادات لإعداد "
+#~ "الإضافة ."
+
+#~ msgid "Updating Manually"
+#~ msgstr "الترقية يدوياً"
+
+#~ msgid ""
+#~ "Download the most current version from <a href=\"http://themeforest.net/"
+#~ "downloads?ref=tielabs\" target=\"_blank\">ThemeForest</a> in the "
+#~ "<i>Downloads</i> area of your account."
+#~ msgstr ""
+#~ "قم بتحميل أخر إصدار من القالب من خلال صفحة <i>Downloads</i> على موقع <a "
+#~ "href=\"http://themeforest.net/downloads?ref=tielabs\" target=\"_blank"
+#~ "\">ثيمفورست</a> "
+
+#~ msgid "Unzip the package and locate <i>%s.zip</i> in the theme folder."
+#~ msgstr ""
+#~ "قم بفك الضغط عن الملف المضغوط ثم إبحث عن <i>%s.zip</i>  في مجلد القالب ."
+
+#~ msgid ""
+#~ "Go to <i>Appearance &gt; Themes</i> and activate another theme such as the "
+#~ "default WordPress theme."
+#~ msgstr ""
+#~ "إذهب إلى  <i>المظهر &gt; القوالب</i> ثم قم بتفعيل أي قالب أخر كقالب "
+#~ "ووردبريس الإفتراضي على سبيل المثال ."
+
+#~ msgid "Delete the <i>%s</i> theme which is now inactive."
+#~ msgstr "قم بحذف قالب <i>%s</i> المفعل حاليا ."
+
+#~ msgid ""
+#~ "Go to <i>Install Themes &gt; Upload</i> then install and activate <i>%s."
+#~ "zip</i> from the new package."
+#~ msgstr ""
+#~ "إذهب إلى <i> القوالب &gt; أضف جديد &gt; رفع قالب</i>  . ثم قم برفع و تفعيل "
+#~ "ملف <i>%s.zip</i> ."
+
+#~ msgid "Changelog and Update History"
+#~ msgstr "التحديثات"
+
+#~ msgid "Hide Categories"
+#~ msgstr "اخفاء التصنيفات"
+
+#~ msgid "Hide Tags"
+#~ msgstr "اخفاء الوسوم"
+
+#~ msgid "Hide Post Meta"
+#~ msgstr "إخفاء معلومات التدوينة"
+
+#~ msgid "Hide Post Author box"
+#~ msgstr "اخفاء مربع كابت الموضوع"
+
+#~ msgid "Hide Share Buttons"
+#~ msgstr "إخفاء أزرار النشر على الشبكات الاجتماعية"
+
+#~ msgid "Hide Related Posts"
+#~ msgstr "إخفاء التدوينات المتعلقة"
+
+#~ msgid "Hide Fly Check Also Box"
+#~ msgstr "إخفاء صندوق \"شاهد أيضًا\""
+
+#~ msgid "Review Score"
+#~ msgstr "نقاط التقييم"
+
+#~ msgid "Author Meta"
+#~ msgstr "اسم الكاتب"
+
+#~ msgid "Date Meta"
+#~ msgstr "تاريخ التدوينة"
+
+#~ msgid "Comments Meta"
+#~ msgstr "عدد التعليقات"
+
+#~ msgid "Views Meta"
+#~ msgstr "عدد الزيارات"
+
+#~ msgid "These settings will applies on all pages with blog List template."
+#~ msgstr "هذه الإعدادات سوف تنطبق على كل الصفحات بنظام عرض \"مدونة\""
+
+#~ msgid "RSS Icon"
+#~ msgstr "ايقونة RSS"
+
+#~ msgid "Exclude Pages in results"
+#~ msgstr "استبعاد الصفحات في نتائج البحث"
+
+#~ msgid "Background Type"
+#~ msgstr "نوع الخلفية"
+
+#~ msgid "Solid Color"
+#~ msgstr "لون"
+
+#~ msgid "Predefined Pattern"
+#~ msgstr "نمط"
+
+#~ msgid "Custom Background Image"
+#~ msgstr "صورة مخصصة"
+
+#~ msgid "Solid Background Color"
+#~ msgstr "لون الخلفية"
+
+#~ msgid "Choose Pattern"
+#~ msgstr "اختر نمط"
+
+#~ msgid "Background Pattern Color"
+#~ msgstr "لون خلفية النمط"
+
+#~ msgid "Custom Background"
+#~ msgstr "خلفية خاصة"
+
+#~ msgid "Full Screen Background"
+#~ msgstr "خلفية بحجم الشاشة بالكامل"
+
+#~ msgid ""
+#~ "Go to Styling tab and set Background Type to Custom Background then upload "
+#~ "your custom image and enable Full Screen Background option."
+#~ msgstr ""
+#~ "إذهب إلى إعدادات المظهر و قم بتعيين نوع الخلفية إلى خلفية خاصة وقم برفع "
+#~ "الصورة وقم بتفعيل خيار خلفية بحجم الشاشة بالكامل."
+
+#~ msgid "Top Banner"
+#~ msgstr "بانر علوي"
+
+#~ msgid "Bottom Banner"
+#~ msgstr "البانر السفلي"
+
+#~ msgid "Below the Header Banner"
+#~ msgstr "منطقة البانر أسفل الهيدر"
+
+#~ msgid "Above Article Banner"
+#~ msgstr "بانر أعلى المقال"
+
+#~ msgid "Below Article Banner"
+#~ msgstr "بانر أسفل المقال"
+
+#~ msgid "bbPress Settings"
+#~ msgstr "bbPress إعدادات"
+
+#~ msgid "bbPress Full width"
+#~ msgstr "العرض الكامل لـbbPress"
+
+#~ msgid "OG Meta"
+#~ msgstr "معلومات OpenGraph"
+
+#~ msgid "Use full Font Awesome name"
+#~ msgstr "إستخدم الإسم الكامل font awesome"
+
+#~ msgid "Theme Color and Settings"
+#~ msgstr "لون القالب والاعدادات"
+
+#~ msgid "Modern Colored Scrollbar"
+#~ msgstr "شريط تمرير حديث وملون"
+
+#~ msgid "For Chrome and Safari only."
+#~ msgstr "خاص بمتصفح كروم وسافاري فقط."
+
+#~ msgid "Body Styling"
+#~ msgstr "شكل الBody"
+
+#~ msgid "Links Decoration"
+#~ msgstr "شكل الروابط"
+
+#~ msgid "none"
+#~ msgstr "لا شيء"
+
+#~ msgid "underline"
+#~ msgstr "تحت الخط"
+
+#~ msgid "overline"
+#~ msgstr "فوق الخط"
+
+#~ msgid "line-through"
+#~ msgstr "خلال-الخط"
+
+#~ msgid "Links Decoration on mouse over"
+#~ msgstr "شكل الروابط عند المرور بمؤشر الفأرة"
+
+#~ msgid "Top Navigation Styling"
+#~ msgstr "شكل القائمة العلوية"
+
+#~ msgid "Today's Date text color"
+#~ msgstr "لون نص تاريخ اليوم"
+
+#~ msgid "Main Navigation Background"
+#~ msgstr "خلفية القائمة الرئيسية"
+
+#~ msgid "Main Navigation inner bottom border color"
+#~ msgstr "لون الإطار السفلي الداخلي للقائمة الرئيسية"
+
+#~ msgid "Sub Menu Background"
+#~ msgstr "خلفية القائمة الفرعية"
+
+#~ msgid "Current Item Link Color"
+#~ msgstr "لون رابط العنصر الحالي"
+
+#~ msgid "Separator Line1 color"
+#~ msgstr "لون الخط الفاصل2"
+
+#~ msgid "Separator Line2 color"
+#~ msgstr "لون الخط الفاصل1"
+
+#~ msgid "Breaking News Styling"
+#~ msgstr "شكل نص شريط الأخبار"
+
+#~ msgid "Breaking News Text Background"
+#~ msgstr "خلفية نص شريط الأخبار"
+
+#~ msgid "Content Styling"
+#~ msgstr "شكل المحتوى الرئيسي"
+
+#~ msgid "Main Content Background"
+#~ msgstr "خلفية المحتوى الرئيسي"
+
+#~ msgid "Blocks / Widgets Background"
+#~ msgstr "خلفية المربعات / المربعات الجانبية"
+
+#~ msgid "Post Links Color"
+#~ msgstr "لون الروابط في التدوينة"
+
+#~ msgid "Post Links Decoration"
+#~ msgstr "شكل الروابط في التدوينة"
+
+#~ msgid "Post Links Color on mouse over"
+#~ msgstr "لون الروابط في التدوينة عند المرور بمؤشر الفأرة"
+
+#~ msgid "Post Links Decoration on mouse over"
+#~ msgstr "شكل الروابط في التدوينة عند المرور بمؤشر الفأرة"
+
+#~ msgid "Footer Background"
+#~ msgstr "خلفية الفوتر"
+
+#~ msgid "Global CSS"
+#~ msgstr "اكواد CSS العامة"
+
+#~ msgid "Tablets CSS"
+#~ msgstr "‏CSS للأجهزة اللوحية"
+
+#~ msgid "Wide Phones CSS"
+#~ msgstr "‏CSS للجوالات العريضة"
+
+#~ msgid "Phones CSS"
+#~ msgstr "‏CSS للجوالات"
+
+#~ msgid "Uppercase Titles"
+#~ msgstr "العناوين بحروف كبيرة"
+
+#~ msgid ""
+#~ "Will display some titles like menu, posts titles and the read more button "
+#~ "in Uppercase."
+#~ msgstr ""
+#~ "ستقوم بإظهار عناصر القائمة، عناوين الموضوعات وزر اقرأ المزيد بحروف كبيرة"
+
+#~ msgid "Header Tagline"
+#~ msgstr "الشعار في الهيدر"
+
+#~ msgid "Main Navigation Dropdown"
+#~ msgstr "القوائم المنسدلة في القائمة الرئيسية"
+
+#~ msgid "Grid Slider Post Title"
+#~ msgstr "عناوين التدوينات في السلايدر الشبكي"
+
+#~ msgid "Post Title in Homepage Blocks"
+#~ msgstr "عنوان الموضوعات في بلوكات الصفحة الرئيسية"
+
+#~ msgid "Small Post Title in Homepage Blocks"
+#~ msgstr "عنوان التدوينة الصغير في مربعات الصفحة الرئيسية"
+
+#~ msgid "Post Entry"
+#~ msgstr "محتوى التدوينة"
+
+#~ msgid "Gray Icons"
+#~ msgstr "أيقونات رمادية"
+
+#~ msgid "Colored Icons"
+#~ msgstr "أيقونات ملونة"
+
+#~ msgid "Colored border Icons"
+#~ msgstr "أيقونات إطارها ملون"
+
+#~ msgid "FaceBook App info"
+#~ msgstr "معلومات Facebook App"
+
+#~ msgid "Follow The Team"
+#~ msgstr "قم بمتابعة الفريق."
+
+#~ msgid "Follow @tielabs and @imo3aser on instagram."
+#~ msgstr "قم بمتابعة @tielabs و @imo3aser على instagram."
+
+#~ msgid "Enter Your Delicious Account Username."
+#~ msgstr "ادخل اسم مستخدم Delicious الخاص بك ."
+
+#~ msgid "Show the icon only"
+#~ msgstr "اظهر الأيقونة فقط"
+
+#~ msgid "Skype"
+#~ msgstr "‏ Skype"
+
+#~ msgid "Posted "
+#~ msgstr "نشرت"
+
+#~ msgid "Install Required Plugins"
+#~ msgstr "تنصيب الإضافات المطلوبة"
+
+#~ msgid "Installing Plugin: %s"
+#~ msgstr "تنصيب إضافة: %s"
+
+#~ msgid "Something went wrong with the plugin API."
+#~ msgstr "حدث خطأ ما مع API الإضافة."
+
+#~ msgid "Return to Required Plugins Installer"
+#~ msgstr "العودة إلى صفحة تنصيب الإضافات."
+
+#~ msgid "Plugin activated successfully."
+#~ msgstr "تم تفعيل الإضافة بنجاح."
+
+#~ msgid "All plugins installed and activated successfully. %s"
+#~ msgstr "تم تنصيب و تفعيل كل الإضافات بنجاح. %s"
+
+#~ msgid "Custom Author Bio"
+#~ msgstr "سيرة خاصة للكاتب"
+
+#~ msgid "About Author"
+#~ msgstr "عن الكاتب"
+
+#~ msgid "Ads 125*125"
+#~ msgstr "اعلان 125*125"
+
+#~ msgid " Advertisement"
+#~ msgstr "إعلانات"
+
+#~ msgid "Content Only"
+#~ msgstr "المحتوى فقط"
+
+#~ msgid "Check this box to hide widget title and background."
+#~ msgstr "قم بتفعيل هذا الاختيار لإخفاء عنوان المربع الجانبي والخلفية."
+
+#~ msgid "Open links in a new window"
+#~ msgstr "فتح الروابط في نافذة جديدة"
+
+#~ msgid "One column"
+#~ msgstr "عمود واحد"
+
+#~ msgid "ADS"
+#~ msgstr "الاعلانات"
+
+#~ msgid "Ads %s image path"
+#~ msgstr "مسار صورة %s الاعلان:"
+
+#~ msgid "Ads %s Link:"
+#~ msgstr "رابط %s الاعلانات:"
+
+#~ msgid "Ads %s Adsense code:"
+#~ msgstr "اعلانات %s اعلانات ادسنس:"
+
+#~ msgid "Ads 120*90"
+#~ msgstr "اعلان 120*90"
+
+#~ msgid "Content Only:"
+#~ msgstr "المحتوى فقط:"
+
+#~ msgid "Open links in a new window:"
+#~ msgstr "فتح الروابط في نافذة جديدة"
+
+#~ msgid "Nofollow:"
+#~ msgstr "بدون تتبع:"
+
+#~ msgid "One column:"
+#~ msgstr "عمود واحد:"
+
+#~ msgid "Ads %s image path:"
+#~ msgstr "مسار صورة %s الاعلان:"
+
+#~ msgid "Ads 120*60"
+#~ msgstr "اعلان 120*60"
+
+#~ msgid "Ads 120*600"
+#~ msgstr "اعلان 120*600"
+
+#~ msgid "Ads 120*240"
+#~ msgstr "اعلان 120*240"
+
+#~ msgid "Ads 160*600"
+#~ msgstr "اعلان 160*600"
+
+#~ msgid "ADS:"
+#~ msgstr "الاعلانات:"
+
+#~ msgid "Ads image path:"
+#~ msgstr "مسار صورة الاعلان:"
+
+#~ msgid "Ads Link:"
+#~ msgstr "رابط الاعلانات:"
+
+#~ msgid " Ads Adsense code:"
+#~ msgstr "اعلانات جوجل ادسنس"
+
+#~ msgid "Ads 300*600"
+#~ msgstr "اعلان 300*600"
+
+#~ msgid "Ads 250*250"
+#~ msgstr "اعلان 250*250"
+
+#~ msgid "Ads 300*100"
+#~ msgstr "اعلان 300*100"
+
+#~ msgid "Ads 300*250"
+#~ msgstr "اعلان 300*250"
+
+#~ msgid "This Widget appears in single post only."
+#~ msgstr "هذه القائمة الجانبية تظهر فقط في صفحة التدوينة المنفرده."
+
+#~ msgid "Post Author"
+#~ msgstr "كاتب التدوينة"
+
+#~ msgid "Authors Posts"
+#~ msgstr "أراء و تحليلات"
+
+#~ msgid "Category Posts"
+#~ msgstr "تدوينات من تصنيف"
+
+#~ msgid "Display Thumbnails :"
+#~ msgstr "عرض الصور المصغرة :"
+
+#~ msgid "Avatar Size:"
+#~ msgstr "حجم الصورة الشخصية :"
+
+#~ msgid "Page URL :"
+#~ msgstr "رابط الصفحة :"
+
+#~ msgid "NewsLetter"
+#~ msgstr "القائمة البريدية"
+
+#~ msgid "Your e-mail address"
+#~ msgstr "أدخل بريدك الإلكتروني"
+
+#~ msgid "FeedBurner Widget"
+#~ msgstr "القائمة البريدية"
+
+#~ msgid "Text above Email Input Field:"
+#~ msgstr "النص أعلى حقل إدخال البريد الإلكتروني :"
+
+#~ msgid "( Supports : Html & Shortcodes )"
+#~ msgstr "( تدعم : أكواد HTML والأكواد المختصرة)"
+
+#~ msgid "Feedburner ID:"
+#~ msgstr "الرقم التعريفي لـFeedburner :"
+
+#~ msgid "Follow Us On Flickr"
+#~ msgstr "إتبعنا على فليكر"
+
+#~ msgid "Find Your ID at"
+#~ msgstr "ابحث عن رقمك التعريفي على"
+
+#~ msgid "News in Pictures"
+#~ msgstr "أخبار في صور"
+
+#~ msgid "Posts order"
+#~ msgstr "ترتيب التدوينات"
+
+#~ msgid "Popular / Comments"
+#~ msgstr "شعبي / تعليقات"
+
+#~ msgid "Popular / Views"
+#~ msgstr "شعبي / زيارات"
+
+#~ msgid "Display Thumbnails:"
+#~ msgstr "عرض الصور المصغرة :"
+
+#~ msgid "Add Custom sliders first ."
+#~ msgstr "قم بإضافة سلايدر خاص أولًا ."
+
+#~ msgid "Show the Slider only:"
+#~ msgstr "إظهار السليدر فقط بدون عنوان"
+
+#~ msgid "Open links in a new tab:"
+#~ msgstr "فتح الروابط في تبويب جديد :"
+
+#~ msgid "Gray icons without background"
+#~ msgstr "أيقونات رمادية بدون خلفية"
+
+#~ msgid "Autoplay"
+#~ msgstr "تحريك تلقائي"
+
+#~ msgid "click Save button to be able to change the order of tabs ."
+#~ msgstr "اضغط على زر حفظ لتستطيع تغيير ترتيب التبويبات ."
+
+#~ msgid "Number of items to show"
+#~ msgstr "عدد العناصر المراد إظهارها"
+
+#~ msgid "Content only"
+#~ msgstr "المحتوى فقط"
+
+#~ msgid "Check this box to hide widget title and background ."
+#~ msgstr "قم بتفعيل هذا الاختيار لإخفاء عنوان المربع الجانبي والخلفية"
+
+#~ msgid "Center content"
+#~ msgstr "توسيط المحتوى"
+
+#~ msgid "Category :"
+#~ msgstr "تصنيف:"
+
+#~ msgid "Slider Layout:"
+#~ msgstr "مخطط السليدر:"
+
+#~ msgid "Dark Skin:"
+#~ msgstr "الشكل الداكن"
+
+#~ msgid "Subscribe to our Channel"
+#~ msgstr "إنضم لقناتنا"
+
+#~ msgid "Page Builder"
+#~ msgstr "مُبنى الصفحات"
+
+#~ msgid "Category Block | Layout 1"
+#~ msgstr "بلوك تصنيف | النمط 3"
+
+#~ msgid "Category Block | Layout 2"
+#~ msgstr "بلوك تصنيف | النمط 2"
+
+#~ msgid "Category Block | Layout 3"
+#~ msgstr "بلوك تصنيف | النمط 1"
+
+#~ msgid "News in Picture Block | Default Layout"
+#~ msgstr "أخبار في صورة | النمط الإفتراضي"
+
+#~ msgid "News in Picture Block | Grid Layout"
+#~ msgstr "أخبار في صورة | النمط الشبكي"
+
+#~ msgid "Videos Block"
+#~ msgstr "بلوك فيديوهات"
+
+#~ msgid "Recent Posts | Default Layout"
+#~ msgstr "أخر التدوينات | النمط الإفتراضي"
+
+#~ msgid "Recent Posts | Big Thumbnail Layout"
+#~ msgstr "أخر التدوينات | نمط الصورة الكبيرة"
+
+#~ msgid "Recent Posts | Blog Layout"
+#~ msgstr "أخر التدوينات | نمط التدوينة"
+
+#~ msgid "Recent Posts | Post Content Layout"
+#~ msgstr "أخر التدوينات | نمط محتوى التدوينة"
+
+#~ msgid "Recent Posts | Masonry Layout"
+#~ msgstr "أخر التدوينات | نمط الأعمدة المتداخلة"
+
+#~ msgid "Recent Posts | Timeline Layout"
+#~ msgstr "أخر التدوينات | نمط المخطط الزمني"
+
+#~ msgid "Categories Tabs"
+#~ msgstr "تابات التصنيفات"
+
+#~ msgid "Text or HTML Code"
+#~ msgstr "نصوص أو أكواد HTML"
+
+#~ msgid "Products Categories:"
+#~ msgstr "تصنيفات المنتجات:"
+
+#~ msgid "Scrolling Block:"
+#~ msgstr "بلوك متحرك"
+
+#~ msgid "Blocks Settings"
+#~ msgstr "إعدادات البلوكات"
+
+#~ msgid "First News Excerpt Length"
+#~ msgstr "طول نص أول خبر"
+
+#~ msgid ""
+#~ "This option not applied on Scrolling blocks and Recent posts Default "
+#~ "Style ."
+#~ msgstr ""
+#~ "هذا الخيار لن يتم تطبيقه على البلوك المتحرك أو النمط الإفتراضي لأخر "
+#~ "التدوينات."
+
+#~ msgid "Grid Featured Posts"
+#~ msgstr "السلايدر الشبكي"
+
+#~ msgid "Slideshow Speed"
+#~ msgstr "سرعة السلايدر"
+
+#~ msgid "Animation Speed"
+#~ msgstr "سرعة الحركة"
+
+#~ msgid "Hold CTRL while selecting to select multiple categories."
+#~ msgstr "اضغط على CTRL أثناء الاختيار لتتمكن من اختيار تصنيفات متعدده."
+
+#~ msgid "Choose your custom slider"
+#~ msgstr "إختر السلايدر الخاص"
+
+#~ msgid "Slider Settings"
+#~ msgstr "إعدادات السلايدر"
+
+#~ msgid "Slider Type"
+#~ msgstr "نوع السلايدر"
+
+#~ msgid "FlexSlider"
+#~ msgstr "FlexSlider"
+
+#~ msgid "Elastic Slideshow"
+#~ msgstr "Elastic Slideshow"
+
+#~ msgid "Sides"
+#~ msgstr "جانبي"
+
+#~ msgid "Fade"
+#~ msgstr "تلاشي"
+
+#~ msgid "Slide Vertical"
+#~ msgstr "تبديل رأسي"
+
+#~ msgid "Slide Horizontal"
+#~ msgstr "تبديل أفقي"
+
+#~ msgid "Show Slides Caption"
+#~ msgstr "عرض وصف السلايد"
+
+#~ msgid "Slides Caption Length"
+#~ msgstr "طول وصف السلايد"
+
+#~ msgid "Slider Position"
+#~ msgstr "موضع السلايدر"
+
+#~ msgid "Category Slider"
+#~ msgstr "سلايدر القسم"
+
+#~ msgid "Category Logo"
+#~ msgstr "لوجو التصنيف"
+
+#~ msgid "Logo Setting"
+#~ msgstr "إعدادات اللوجو"
+
+#~ msgid "Display The Category Title"
+#~ msgstr "عرض إسم التصنيف"
+
+#~ msgid "Custom Logo Image"
+#~ msgstr "صورة اللوجو"
+
+#~ msgid "More Options"
+#~ msgstr "مزيد من الخيارات"
+
+#~ msgid "Authors template Options"
+#~ msgstr "خيارات قالب الكتاب"
+
+#~ msgid "Post Head Options"
+#~ msgstr "خيارات مقدمة التدوينة"
+
+#~ msgid "Post Head Cover layout"
+#~ msgstr "نظام عرض Cover لمقدمة التدوينة"
+
+#~ msgid "Display"
+#~ msgstr "عرض"
+
+#~ msgid "Audio - Self Hosted"
+#~ msgstr "صوت - مستضاف على موقعك"
+
+#~ msgid "Audio - SoundCloud"
+#~ msgstr "صوت - على SoundCloud"
+
+#~ msgid "Featured Image"
+#~ msgstr "صورة بارزة"
+
+#~ msgid "Featured Image + Lightbox"
+#~ msgstr "صورة بارزة + Lightbox"
+
+#~ msgid ""
+#~ "Video URL <br /><small>supports : YouTube, Vimeo, Viddler, Qik, Hulu, "
+#~ "FunnyOrDie, DailyMotion, WordPress.tv and blip.tv</small>"
+#~ msgstr ""
+#~ "رابط فيديو <br /><small>يدعم: YouTube, Vimeo, Viddler, Qik, Hulu, "
+#~ "FunnyOrDie, DailyMotion, WordPress.tv and blip.tv</small>"
+
+#~ msgid "Auto Play"
+#~ msgstr "تشغيل تلقائي"
+
+#~ msgid "Visual Style"
+#~ msgstr "النمط المرئي"
+
+#~ msgid "Sidebar Options"
+#~ msgstr "خيارات العمود الجانبي"
+
+#~ msgid "Ads Options"
+#~ msgstr "خيارات الاعلانات"
+
+#~ msgid "Hide Author Information"
+#~ msgstr "إخفاء معلومات الكاتب"
+
+#~ msgid "Default Font"
+#~ msgstr "الخط الإفتراضي"
+
+#~ msgid "Variants"
+#~ msgstr "أشكال"
+
+#~ msgid "Choose from the most used tags"
+#~ msgstr "اختر من الوسوم الأكثر استخدامًا"
+
+#~ msgid "Bold"
+#~ msgstr "واضح"
+
+#~ msgid "Lighter"
+#~ msgstr "أخف"
+
+#~ msgid "Bolder"
+#~ msgstr "أوضح"
+
+#~ msgid "Italic"
+#~ msgstr "مائل"
+
+#~ msgid "Oblique"
+#~ msgstr "منحرف"
+
+#~ msgid "Posts Settings"
+#~ msgstr "إعدادات التدوينات"
+
+#~ msgid "Custom Favicon"
+#~ msgstr "Favicon الموقع"
+
+#~ msgid "Custom Gravatar"
+#~ msgstr "صورة خاصه للمستخدمين ( Gravatar )"
+
+#~ msgid "Apple Icons"
+#~ msgstr "أيقونات Apple"
+
+#~ msgid "Apple iPhone Icon"
+#~ msgstr "أيقونة Apple iPhone"
+
+#~ msgid "Icon for Apple iPhone (57px x 57px)"
+#~ msgstr "أيقونة لApple iPhone (حجم 75px x 75px)"
+
+#~ msgid "Apple iPhone Retina Icon"
+#~ msgstr "أيقونة Apple iPhone ريتنا"
+
+#~ msgid "Icon for Apple iPhone Retina Version (120px x 120px)"
+#~ msgstr "أيقونة لApple iPhone ريتنا (120px x 120px)"
+
+#~ msgid "Apple iPad Icon"
+#~ msgstr "أيقونة Apple iPad"
+
+#~ msgid "Icon for Apple iPhone (72px x 72px)"
+#~ msgstr "أيقونة لApple iPhone (حجم 72px x 72px)"
+
+#~ msgid "Apple iPad Retina Icon"
+#~ msgstr "أيقونة Apple iPad ريتنا"
+
+#~ msgid "Icon for Apple iPad Retina Version (144px x 144px)"
+#~ msgstr "أيقونة Apple iPad ريتنا (144px x 144px)"
+
+#~ msgid "Enable Lightbox for WordPress Galleries"
+#~ msgstr "تفعيل Lightbox لمعارض صور الWordPress"
+
+#~ msgid ""
+#~ "The following code will add to the &lt;head&gt; tag. Useful if you need to "
+#~ "add additional codes such as CSS or JS."
+#~ msgstr ""
+#~ "الكود التالي سيتم إضافته لوسم &lt;head&gt; . يصلح لإضافة أي أكواد CSS او "
+#~ "JS إضافية."
+
+#~ msgid ""
+#~ "The following code will add to the footer before the closing  &lt;/"
+#~ "body&gt; tag. Useful if you need to add Javascript or tracking code."
+#~ msgstr ""
+#~ "الكود التالي سيتم إضافته لمنطقة الفوتر قبل غلق وسم &lt;/body&gt; . يصلح "
+#~ "لإضافة أي كود جافاسكربت أو كود تتبع."
+
+#~ msgid ""
+#~ "Upload a logo image, or enter URL to an image if it is already uploaded. "
+#~ "the theme default logo gets applied if the input field is left blank."
+#~ msgstr ""
+#~ "قم برفع صورة اللوجو، أو ادخل رابط الصورة إذا كان تم رفعها من قبل، سيتم وضع "
+#~ "صورة اللوجو الإفتراضية للقالب إذا لم تستخدم أي صورة."
+
+#~ msgid "Input number to set the top space of the logo."
+#~ msgstr "ادخل قيمة الهامش العلوي للوجو"
+
+#~ msgid "Input number to set the bottom space of the logo."
+#~ msgstr "ادخل قيمة الهامش السفلي للوجو"
+
+#~ msgid "Full Width Logo"
+#~ msgstr "لوجو ذو عرض كامل"
+
+#~ msgid "Recommended logo width : 1045px"
+#~ msgstr "عرض اللوجو المقترح: 1045 بيكسل"
+
+#~ msgid "Center the Logo"
+#~ msgstr "توسيط اللوجو"
+
+#~ msgid "Header Top area Settings"
+#~ msgstr "اعدادات منطقة الهيدر العلوية"
+
+#~ msgid "Top menu"
+#~ msgstr "تفعيل القائمة العلوية"
+
+#~ msgid "Today's Date"
+#~ msgstr "تاريخ اليوم"
+
+#~ msgid "Main Nav"
+#~ msgstr "تفعيل القائمة الرئيسية"
+
+#~ msgid "Stick The Navigation menu"
+#~ msgstr "تثبيت القائمة الرئيسية"
+
+#~ msgid "Logo in the sticky Navigation menu"
+#~ msgstr "اللوجو في القائمة الرئيسية الثابتة"
+
+#~ msgid "Responsive Mobile Menu Settings"
+#~ msgstr "إعدادات قائمة الجوال"
+
+#~ msgid ""
+#~ "Show the Top Menu items in the Mobile Menu below the Main Menu items ?"
+#~ msgstr ""
+#~ "إظهار عناصر القائمة العلوية في قائمة الجوال تحت عناصر القائمة الرئيسية ؟"
+
+#~ msgid "Enable Mobile Menu Items Icons"
+#~ msgstr "تفعيل الأيقونات في قائمة الجوال"
+
+#~ msgid "Show in Homepage Only"
+#~ msgstr "الظهور في الصفحة الرئيسية فقط"
+
+#~ msgid "Ticker"
+#~ msgstr "كتابة"
+
+#~ msgid "Time between the fades"
+#~ msgstr "الوقت بين تلاشي الslides"
+
+#~ msgid "Breaking News Query Type"
+#~ msgstr "نوع استعلام الأخبار العاجلة"
+
+#~ msgid "Breaking News Tags"
+#~ msgstr "وسوم الاخبار السريعة"
+
+#~ msgid "Breaking News Categories"
+#~ msgstr "تصنيفات الأخبار العاجله"
+
+#~ msgid "Breaking News Custom Text"
+#~ msgstr "نص خاص للأخبار العاجلة"
+
+#~ msgid "Custom Feed URL"
+#~ msgstr "رابط خلاصات خاص"
+
+#~ msgid "Facebook URL"
+#~ msgstr "رابط Facebook"
+
+#~ msgid "Twitter URL"
+#~ msgstr "رابط Twitter"
+
+#~ msgid "Google+ URL"
+#~ msgstr "رابط +Google"
+
+#~ msgid "Dribbble URL"
+#~ msgstr "رابط Dribbble"
+
+#~ msgid "LinkedIn URL"
+#~ msgstr "رابط LinkedIn"
+
+#~ msgid "Evernote URL"
+#~ msgstr "رابط Evernote"
+
+#~ msgid "Dropbox URL"
+#~ msgstr "رابط Dropbox"
+
+#~ msgid "Flickr URL"
+#~ msgstr "رابط Flickr"
+
+#~ msgid "Picasa Web URL"
+#~ msgstr "رابط Picasa Web"
+
+#~ msgid "DeviantArt URL"
+#~ msgstr "رابط DeviantArt"
+
+#~ msgid "YouTube URL"
+#~ msgstr "رابط YouTube"
+
+#~ msgid "Grooveshark URL"
+#~ msgstr "رابط Grooveshark"
+
+#~ msgid "Vimeo URL"
+#~ msgstr "رابط Vimeo"
+
+#~ msgid "ShareThis URL"
+#~ msgstr "رابط ShareThis"
+
+#~ msgid "500px URL"
+#~ msgstr "رابط 500px"
+
+#~ msgid "Skype URL"
+#~ msgstr "رابط Skype"
+
+#~ msgid "Digg URL"
+#~ msgstr "رابط Digg"
+
+#~ msgid "Reddit URL"
+#~ msgstr "رابط Reddit"
+
+#~ msgid "Delicious URL"
+#~ msgstr "رابط Delicious"
+
+#~ msgid "StumbleUpon  URL"
+#~ msgstr "رابط StumbleUpon"
+
+#~ msgid "Tumblr URL"
+#~ msgstr "رابط Tumblr"
+
+#~ msgid "Blogger URL"
+#~ msgstr "رابط Blogger"
+
+#~ msgid "WordPress URL"
+#~ msgstr "رابط WordPress"
+
+#~ msgid "Yelp URL"
+#~ msgstr "رابط Yelp"
+
+#~ msgid "Last.fm URL"
+#~ msgstr "رابط Last.fm"
+
+#~ msgid "Apple URL"
+#~ msgstr "رابط Apple"
+
+#~ msgid "FourSquare URL"
+#~ msgstr "رابط FourSquare"
+
+#~ msgid "Github URL"
+#~ msgstr "رابط Github"
+
+#~ msgid "XING URL"
+#~ msgstr "رابط XING"
+
+#~ msgid "Google Play URL"
+#~ msgstr "رابط Google Play"
+
+#~ msgid "Pinterest URL"
+#~ msgstr "رابط Pinterest"
+
+#~ msgid "Instagram URL"
+#~ msgstr "رابط Instagram"
+
+#~ msgid "Spotify URL"
+#~ msgstr "رابط Spotify"
+
+#~ msgid "PayPal URL"
+#~ msgstr "رابط PayPal"
+
+#~ msgid "Forrst URL"
+#~ msgstr "رابط Forrst"
+
+#~ msgid "Behance URL"
+#~ msgstr "رابط Behance"
+
+#~ msgid "Viadeo URL"
+#~ msgstr "رابط Viadeo"
+
+#~ msgid "VK.com URL"
+#~ msgstr "رابط VK.com"
+
+#~ msgid "Show Featured Image By Default"
+#~ msgstr "إظهار الصورة البارزة إفتراضيًا"
+
+#~ msgid "Next/Prev Articles"
+#~ msgstr "تفعيل المقال السابق/التالي"
+
+#~ msgid "Post Meta Settings"
+#~ msgstr "اعدادات معلومات التدوينة"
+
+#~ msgid "Tags Meta"
+#~ msgstr "معلومات الوسوم"
+
+#~ msgid "Share Post Settings"
+#~ msgstr "اعدادات نشر التدوينة"
+
+#~ msgid "Bottom Share Post Buttons"
+#~ msgstr "أزرار نشر التدوينة السفلية"
+
+#~ msgid "Top Share Post Buttons"
+#~ msgstr "أزرار نشر التدوينة العلوية"
+
+#~ msgid "Share Buttons type"
+#~ msgstr "نمط أزرار المشاركة"
+
+#~ msgid "Buttons with counters"
+#~ msgstr "أزرار مع عدد مرات المشاركة"
+
+#~ msgid "Flat Buttons"
+#~ msgstr "أزرار مسطحة"
+
+#~ msgid "Related Posts Settings"
+#~ msgstr "اعدادات التدوينات المرتبطة"
+
+#~ msgid "Related Posts Position"
+#~ msgstr "مكان التدوينات المرتبطة"
+
+#~ msgid "In the post content area"
+#~ msgstr "في منطقة محتوى التدوينة"
+
+#~ msgid "Below the post area"
+#~ msgstr "منطقة أسفل التدوينة"
+
+#~ msgid "jQuery Comments Settings"
+#~ msgstr "اعدادات jQuery للتعليقات"
+
+#~ msgid "Adding Comment Validation"
+#~ msgstr "تفعيل خاصية التحقق من التعليقات"
+
+#~ msgid "Footer Elements"
+#~ msgstr "عناصر الفوتر"
+
+#~ msgid "Footer Widgets"
+#~ msgstr "مربعات جانبية للفوتر"
+
+#~ msgid "Banners Settings"
+#~ msgstr "اعدادات البانرات"
+
+#~ msgid "Background Image ADS"
+#~ msgstr "اعلانات صورة الخلفية"
+
+#~ msgid "Top Banner Area"
+#~ msgstr "منطقة البانر العلوي"
+
+#~ msgid "Image Ad"
+#~ msgstr "اعلان صورة"
+
+#~ msgid "Top Banner Image"
+#~ msgstr "صورة للاعلان العلوي"
+
+#~ msgid "Top Banner Link"
+#~ msgstr "رابط الاعلان العلوي"
+
+#~ msgid "Responsive Google AdSense"
+#~ msgstr "اعلانات جوجل أدسنس التجاوبية"
+
+#~ msgid "Publisher ID"
+#~ msgstr "رقم الناشر التعريفي"
+
+#~ msgid "728x90 (Leaderboard) - ad ID"
+#~ msgstr "الرقم التعريفي لاعلان (ليدربورد) 728x90"
+
+#~ msgid "468x60 (Banner) - ad ID"
+#~ msgstr "الرقم التعريفي لاعلان (بانر) 468x60"
+
+#~ msgid "300x250 (Medium Rectangle) - ad ID"
+#~ msgstr "الرقم التعريفي لاعلان (مستطيل متوسط) 300x250"
+
+#~ msgid "Custom Code"
+#~ msgstr "كود خاص"
+
+#~ msgid "Bottom Banner Area"
+#~ msgstr "منطقة البانر السفلي"
+
+#~ msgid "Bottom Banner Image"
+#~ msgstr "صورة البانر السفلي"
+
+#~ msgid "Bottom Banner Link"
+#~ msgstr "رابط البانر السفلي"
+
+#~ msgid "Below Header Banner Area"
+#~ msgstr "منطقة البانر أسفل الهيدر"
+
+#~ msgid "Below Header Banner"
+#~ msgstr "بانر أسفل الهيدر"
+
+#~ msgid "Above Article Banner Area"
+#~ msgstr "منطقة البانر أعلى المقال"
+
+#~ msgid "Above Article Banner Image"
+#~ msgstr "صورة البانر أعلى المقال"
+
+#~ msgid "Above Article Banner Link"
+#~ msgstr "رابط البانر أعلى المقال"
+
+#~ msgid "Below Article Banner Area"
+#~ msgstr "منطقة البانر أسفل المقال"
+
+#~ msgid "Below Article Banner Image"
+#~ msgstr "صورة للبانر أسفل المقال"
+
+#~ msgid "Below Article Banner Link"
+#~ msgstr "رابط للبانر أسفل المقال"
+
+#~ msgid "Shortcode ADS"
+#~ msgstr "أكواد مختصرة للاعلانات"
+
+#~ msgid "Add Sidebar"
+#~ msgstr "إضافة عمود جانبي"
+
+#~ msgid "Choose the default layout"
+#~ msgstr "إختر نمط العرض الإفتراضي"
+
+#~ msgid "Choose Default Categories page layout"
+#~ msgstr "اختر نظام عرض صفحة التصنيفات الافتراضي"
+
+#~ msgid "Choose Tags page layout"
+#~ msgstr "اختر نظام عرض صفحة الوسوم"
+
+#~ msgid "Choose Author page layout"
+#~ msgstr "اختر نظام عرض صفحة الكاتب"
+
+#~ msgid "Choose Search results page layout"
+#~ msgstr "اختر نظام عرض صفحة نتائج البحث"
+
+#~ msgid "Choose Theme Color"
+#~ msgstr "اختر لون القالب"
+
+#~ msgid "Apply Categories Colors on News blocks"
+#~ msgstr "تفعيل ألوان التصنيفات على مربعات الأخبار"
+
+#~ msgid "Smoth Scroll"
+#~ msgstr "تفعيل التمرير السلس"
+
+#~ msgid "Post Styling"
+#~ msgstr "شكل التدوينة"
+
+#~ msgid "Global CSS :"
+#~ msgstr "اكواد CSS العامة"
+
+#~ msgid "Tablets:"
+#~ msgstr "الأجهزة اللوحية:"
+
+#~ msgid "768 - 985px"
+#~ msgstr "768 - 985px"
+
+#~ msgid "Wide Phones:"
+#~ msgstr "الجوالات العريضة:"
+
+#~ msgid "480 - 767px"
+#~ msgstr "480 - 767px"
+
+#~ msgid "Phones:"
+#~ msgstr "الجوالات:"
+
+#~ msgid "320 - 479px"
+#~ msgstr "320 - 479px"
+
+#~ msgid "Character sets"
+#~ msgstr "مجموعات الأحرف"
+
+#~ msgid ""
+#~ "If you choose only the languages that you need, you'll help prevent "
+#~ "slowness on your webpage."
+#~ msgstr "إذا اخترت فقط اللغة التي تحتاجها، سيساعد ذلك في منع بطء صفحات موقعك."
+
+#~ msgid "Latin Extended"
+#~ msgstr "اللاتينية الموسعة"
+
+#~ msgid "Cyrillic"
+#~ msgstr "السيريلية"
+
+#~ msgid "Cyrillic Extended"
+#~ msgstr "السيريلية الموسعة"
+
+#~ msgid "Greek"
+#~ msgstr "اليونانية"
+
+#~ msgid "Greek Extended"
+#~ msgstr "اليونانية الموسعة"
+
+#~ msgid "Khmer"
+#~ msgstr "الكمبودية"
+
+#~ msgid "Vietnamese"
+#~ msgstr "الفيتنامية"
+
+#~ msgid "Live typography preview"
+#~ msgstr "مثال حي لخصائص الخط"
+
+#~ msgid "Grumpy wizards make toxic brew for the evil Queen and Jack."
+#~ msgstr "لا خير في حسن الجسوم وطولها إن لم يزن حسن الجسوم عقول"
+
+#~ msgid "Main Typography"
+#~ msgstr "خصائص الخطوط الرئيسية"
+
+#~ msgid "General Typography"
+#~ msgstr "خصائص الخطوط العامة"
+
+#~ msgid "Site Title In Header"
+#~ msgstr "اسم الموقع في الهيدر"
+
+#~ msgid "Tagline In Header"
+#~ msgstr "الشعار في الهيدر"
+
+#~ msgid "Top Menu"
+#~ msgstr "القائمة العلوية"
+
+#~ msgid "Slider Post Title"
+#~ msgstr "عنوان تدوينة السلايدر"
+
+#~ msgid "Page Title"
+#~ msgstr "عنوان صفحة"
+
+#~ msgid "Post Title in Homepage Blocks and Post Titles in Blog Layout"
+#~ msgstr ""
+#~ "عنوان التدوينة في مربعات الصفحة الرئيسية وعناوين التدوينات في نظام عرض "
+#~ "مدونة"
+
+#~ msgid "Export"
+#~ msgstr "تصدير"
+
+#~ msgid ""
+#~ "Envato have developed the <a href=\"https://github.com/envato/envato-"
+#~ "wordpress-toolkit\" target=\"_blank\">Envato Toolkit Plugin</a> for "
+#~ "WordPress.\n"
+#~ "\t\t\t\tYou can use this to receive notification of updates to themes "
+#~ "purchased from ThemeForest\n"
+#~ "\t\t\t\tand to automatically update (upon clicking) directly from within "
+#~ "your WordPress admin area."
+#~ msgstr ""
+#~ "Envato قامت بتوفير إضافة <a href=\"https://github.com/envato/envato-"
+#~ "wordpress-toolkit\" target=\"_blank\">Envato Toolkit</a> لووردبريس و التي "
+#~ "يمكنك إستخدامها لترقية القوالب التي قمت بشرائها من خلال ثيمفورست تلقائيا "
+#~ "عن طريق لوحة تحكم ووردبريس ."
+
+#~ msgid "Style :"
+#~ msgstr "النمط :"
+
+#~ msgid ""
+#~ "Purchase the full version of Arqam plugin to get all following features :"
+#~ msgstr "إحصل على النسخة الكاملة من إضافة أرقام لتتمتع بكل هذه المميزات:"
+
+#~ msgid "More Social Networks:"
+#~ msgstr "المزيد من الشبكات الإجتماعية:"
+
+#~ msgid "Sub Categories + Posts"
+#~ msgstr "تصنيفات فرعية + تدوينات"
+
+#~ msgid "Top Menu Navigation"
+#~ msgstr "القائمة أعلى الهيدر"
+
+#~ msgid "Stumbleupon"
+#~ msgstr "Stumbleupon"
+
+#~ msgid "First Footer Widget Area"
+#~ msgstr "المربع الجانبي الأول في الفوتر"
+
+#~ msgid "The first footer widget area"
+#~ msgstr "المربع الجانبي الأول في الفوتر"
+
+#~ msgid "Second Footer Widget Area"
+#~ msgstr "المربع الجانبي الثاني  في الفوتر"
+
+#~ msgid "The Second footer widget area"
+#~ msgstr "المربع الجانبي الثاني  في الفوتر"
+
+#~ msgid "Third Footer Widget Area"
+#~ msgstr "المربع الجانبي الثالث  في الفوتر"
+
+#~ msgid "The Third footer widget area"
+#~ msgstr "المربع الجانبي الثالث  في الفوتر"
+
+#~ msgid "Fourth Footer Widget Area"
+#~ msgstr "المربع الجانبي الرابع  في الفوتر"
+
+#~ msgid "The Fourth footer widget area"
+#~ msgstr "المربع الجانبي الرابع  في الفوتر"
+
+#~ msgid "Author's avatar:"
+#~ msgstr "صورة شخصية للكاتب :"
+
+#~ msgid "Social icons:"
+#~ msgstr "أيقونات الشبكات الإجتماعية :"
+
+#~ msgid "Avatar Image URL:"
+#~ msgstr "رابط للصوره الشخصية :"
+
+#~ msgid "About:"
+#~ msgstr "حول :"
+
+#~ msgid "Feedburner"
+#~ msgstr "Feedburner"
+
+#~ msgid "Number of items to show :"
+#~ msgstr "عدد العناصر المراد إظهارها :"
+
+#~ msgid "Popular order :"
+#~ msgstr "الأشهر على حسب :"
+
+#~ msgid "Text , Shortcodes or HTML code:"
+#~ msgstr "نص، كود مختصر او كود HTML"
+
+#~ msgid "Channel Name:"
+#~ msgstr "اسم القناة:"
+
+#~ msgid "Changelog"
+#~ msgstr "سجل التغييرات"
+
+#~ msgid "Dark Skin ?"
+#~ msgstr "الشكل الداكن ؟"
+
+#~ msgid "FaceBook"
+#~ msgstr "FaceBook"
+
+#~ msgid "Enter Your Dribbble Account Username."
+#~ msgstr "ادخل اسم مستخدم Dribble الخاص بك ."
+
+#~ msgid "Need More ?"
+#~ msgstr "هل تبحث عن المزيد ؟"
+
+#~ msgid "Forrst"
+#~ msgstr "Forrst"
+
+#~ msgid "Enter Your Forrst Account Username."
+#~ msgstr "ادخل اسم مستخدم Forrst الخاص بك ."
+
+#~ msgid "ago"
+#~ msgstr "مضت"
+
+#~ msgid "Autoplay:"
+#~ msgstr "التشغيل التلقائي :"
+
+#~ msgid "Hide Top menu"
+#~ msgstr "إخفاء القائمة العلوية"
+
+#~ msgid "Hide Main Nav"
+#~ msgstr "إخفاء القائمة الرئيسية"
+
+#~ msgid "Hide the Mobile Menu Items Icons"
+#~ msgstr "إخفاء الأيقونات في ثائمة الجوال"
+
+#~ msgid "Hide RSS Icon"
+#~ msgstr "إخفاء أيقونة RSS"
+
+#~ msgid "Enter Your App ID and App Secret ,"
+#~ msgstr "ادخل الApp ID والApp Secret،"
+
+#~ msgid "Click Here"
+#~ msgstr "اضغط هنا"
+
+#~ msgid "For More Details."
+#~ msgstr "لمزيد من التفاصيل."
+
+#~ msgid "Enter Your App Client ID and App Client Secret ,"
+#~ msgstr "ادخل App Client ID و App Client Secret الخاص بك،"
+
+#~ msgid ""
+#~ "Enter Your Facebook Page Name or ID and click on Get Access Token to get "
+#~ "your App Access Token, "
+#~ msgstr ""
+#~ "ادخل اسم صفحة الFaceBook أو الرقم التعريفي واضغط على Get Access Token "
+#~ "للحصول على الApp Access Token الخاص بك،"
+
+#~ msgid ""
+#~ "Enter Your Twitter Account Username , your APP Consumer key and Consumer "
+#~ "secret ,"
+#~ msgstr ""
+#~ "ادخل اسم مستخدم Twitter الخاص بك و الApp Consumer Key و Consumer Secret، "
+
+#~ msgid "Enter Your Google+ page or profile ID and Google API Key ,"
+#~ msgstr ""
+#~ "ادخل عنوان صفحة جوجل+ أو الرقم التعريفي لملفك الشخصي و مفتاح Google API ،"
+
+#~ msgid ""
+#~ "Enter Your YouTube username or Channel ID and choose User or Channel from "
+#~ "Type menu ,"
+#~ msgstr ""
+#~ "ادخل اسم مستخدم الYouTube او الرقم التعريفي للقناة الخاصة بك، ثم اختر "
+#~ "\"مستخدم\" أو \"قناة\" من قائمة النوع ،"
+
+#~ msgid "Enter Your Vimeo Channel Name ,"
+#~ msgstr "ادخل اسم قناة Vimeo ،"
+
+#~ msgid "Enter Your Dribbble Account Username ."
+#~ msgstr "ادخل اسم مستخدم Dribble الخاص بك ."
+
+#~ msgid "Enter Your SoundCloud Account Username and the API Key,"
+#~ msgstr "ادخل اسم مستخدم SoundCloud الخاص بك والAPI ،"
+
+#~ msgid "Enter Your Behance Account Username and the API Key,"
+#~ msgstr "ادخل اسم مستخدم Behance الخاص بك و الAPI ،"
+
+#~ msgid "Enter Your Forrst Account Username ."
+#~ msgstr "ادخل اسم مستخدم Forrst الخاص بك ."
+
+#~ msgid "Enter Your Delicious Account Username ."
+#~ msgstr "ادخل اسم مستخدم Delicious الخاص بك ."
+
+#~ msgid ""
+#~ "Enter Your Instagram Username and click on Get Access Token to get your "
+#~ "App Access Token,"
+#~ msgstr ""
+#~ "ادخل اسم مستخدم Instagram الخاص بك واضغط على \"Get Access Token\" للحصول "
+#~ "على الAccess Token الخاصه بك،"
+
+#~ msgid ""
+#~ "Enter Your Feed URl and the Feedpress Json file URL or Number of "
+#~ "Subscribers manually ,"
+#~ msgstr ""
+#~ "ادخل رابط الFeed الخاص بك و رابط ملف الFeedpress Json او ادخل عدد "
+#~ "المشتركين يدويًا،"
+
+#~ msgid "Menu Icon (use full Font Awesome name)"
+#~ msgstr "الأيقونة ( إستخدم الإسم الكامل font awesome )"
+
+#~ msgid "Disable Responsive"
+#~ msgstr "تعطيل التجاوبية"
+
+#~ msgid "Flexi Slider"
+#~ msgstr "Flexi Slider"
+
+#~ msgid "Plugin Docs"
+#~ msgstr "دليل استخدام الإضافة"
+
+#~ msgid "Rate Arqam"
+#~ msgstr "قيم أرقام"
+
+#~ msgid "Cache Time"
+#~ msgstr "وقت الحفظ المؤقت"
+
+#~ msgid "hours"
+#~ msgstr "ساعات"
+
+#~ msgid "Enable Lightbox automatically for all images in the post content area"
+#~ msgstr "تفعيل Lightbox تلقائيًا لكل الصور في منطقة محتوى التدوينة"
+
+#~ msgid "This Widget appears in single post only ."
+#~ msgstr "هذه القائمة الجانبية تظهر فقط في التدوينة المنفرده."
+
+#~ msgid "Delete the <i>$s</i> theme which is now inactive."
+#~ msgstr "قم بحذف قالب <i>$s</i> المفعل حاليا ."
+
+#~ msgid " Featured Video"
+#~ msgstr "فيديو"
+
+#~ msgid "Flat Share Buttons"
+#~ msgstr "أزرار النشر الـFlat"
+
+#~ msgid "Choose Homepage Blog layout"
+#~ msgstr "اختر نظام عرض مدونة للصفحة الرئيسية"
+
+#~ msgid ""
+#~ "If you like our theme, please don\\'t forget to <a href=\\'http://"
+#~ "themeforest.net/downloads?ref=tielabs\\' target=\\'_blank\\'><strong>rate "
+#~ "it</strong></a> :)"
+#~ msgstr ""
+#~ "إذا أعجبك القالب لا تنسى <a href=\\'http://themeforest.net/downloads?"
+#~ "ref=tielabs\\' target=\\'_blank\\'><strong>تقييمه</strong></a> :)"
+
+#~ msgid "Homepage Blog layout settings"
+#~ msgstr "اعدادات نظام عرض مدونة للصفحة الرئيسية"
+
+#~ msgid "Homepage"
+#~ msgstr "الصفحة الرئيسية"
+
+#~ msgid "Today's Date text colortie"
+#~ msgstr "لون نص تاريخ اليوم"
+
+#~ msgid "Recommended"
+#~ msgstr "برابلا"
+
+#~ msgid "Plugin"
+#~ msgstr "إضافة"
+
+#~ msgid "Status"
+#~ msgstr "الحالة"
+
+#~ msgid "Install package not available."
+#~ msgstr "تحميل حزمة الملفات غير متاحز"
+
+#~ msgid "Show Details"
+#~ msgstr "عرض التفاصيل"
+
+#~ msgid "Hide Details"
+#~ msgstr "إخفاء التفاصيل"
+
+#~ msgid "Icon (use full font awesome name):"
+#~ msgstr "الأيقونة ( إستخدم الإسم الكامل font awesome )"
+
+#~ msgid ""
+#~ "The following code will add to the footer before the closing  &lt;/"
+#~ "body&gt; tag. Useful if you need to Javascript or tracking code."
+#~ msgstr ""
+#~ "الكود التالي سيتم إضافته لمنطقة الفوتر قبل غلق وسم &lt;/body&gt; . يصلح "
+#~ "لإضافة أي كود جافاسكربت أو كود تتبع."
+
+#~ msgid "Icon (use full font awesome name)"
+#~ msgstr "الايقونة (استخدم الاسم الكامل لـfont awesome)"
+
+#~ msgid "Menu Icon (use full font awesome name)"
+#~ msgstr "ايقونة القائمة (استخدم الاسم الكامل لـfont awesome)"
+
+#~ msgid "Google Map URL"
+#~ msgstr "رابط خريطه جوجل"
+
+#~ msgid "Varaints"
+#~ msgstr "المتغيرات"
+
+#~ msgid ""
+#~ "The following code will add to the &lt;head&gt; tag. Useful if you need to "
+#~ "add additional scripts such as CSS or JS."
+#~ msgstr ""
+#~ "الكود التالي سيتم إضافته لوسم &lt;head&gt; . يصلح لإضافة أي أكواد CSS او "
+#~ "JS إضافية."
+
+#~ msgid "Google Map"
+#~ msgstr "خرائط جوجل"
+
+#~ msgid "Featured Image + lightbox"
+#~ msgstr "صورة بارزة + lightbox"

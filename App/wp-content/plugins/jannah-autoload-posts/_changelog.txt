@@ -1,0 +1,12 @@
+*** Changelog ***
+-------------------------------------------------------------------------
+
+Version 1.0.2 - 02 Sep 2020
+- Fix: Number of posts option bug.
+- Fix: Conflict with some caching plugins.
+
+Version 1.0.1 - 31 Aug 2020
+- Improvements and minor bug fixes.
+
+Version 1.0.0
+- First release

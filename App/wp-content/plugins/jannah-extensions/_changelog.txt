@@ -1,0 +1,50 @@
+*** Jannah - Extensions Plugin Changelog ***
+-------------------------------------------------------------------------
+
+Version 1.0.12 - 18 July 2019
+- UPDATED: WordPress 5.5.0 Compatibility.
+- Improvements and minor bug fixes.
+
+Version 1.0.11 - 25 Sep 2019
+- Fix: Horizontal Tabs shortcode bug.
+- Fix: PHP notices in the Feed shortcode.
+- Fix: Extra empty space in the Button shortcode.
+- Removed: Google+ button.
+- Improvements and minor bug fixes.
+
+Version 1.0.10
+- Improvements and minor bug fixes.
+
+Version 1.0.9
+- Fixed: Shortcodes issue with Gutenberg.
+
+Version 1.0.8
+- Improvements and minor bug fixes.
+
+Version 1.0.7
+- Improvements and minor bug fixes.
+
+Version 1.0.6
+- Improvements and minor bug fixes.
+
+Version 1.0.5
+- Fixed: Box Shortcode width bug.
+
+Version 1.0.4
+- Fixed: Index Shortcode bug with the non-latin languages.
+- Fixed: Conflict with the LiveBlog plugin.
+
+Version 1.0.3
+- Fixed: Loading Styles bug.
+
+
+Version 1.0.2
+- Changed slider-nav class name to tie-slider-nav to avoid conflicts with 3d party plugins.
+
+
+Version 1.0.1
+- Moved the slideshow JS code to the Javascript file.
+
+
+Version 1.0.0
+- First release

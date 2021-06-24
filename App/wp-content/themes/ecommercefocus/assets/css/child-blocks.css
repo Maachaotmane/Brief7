@@ -1,0 +1,43 @@
+/*
+Theme Name: BusinessFocus
+Description: Used to style Gutenberg Blocks.
+*/
+
+/*--------------------------------------------------------------
+>>> TABLE OF CONTENTS:
+----------------------------------------------------------------
+1.0 Blocks - General Styles
+2.0 Blocks - Common Blocks
+3.0 Blocks - Formatting
+4.0 Blocks - Layout Elements
+5.0 Blocks - Widgets
+6.0 Blocks - Colors
+--------------------------------------------------------------*/
+
+/*--------------------------------------------------------------
+1.0 Blocks - General Styles
+--------------------------------------------------------------*/
+
+/*--------------------------------------------------------------
+6.0 Blocks - Colors
+--------------------------------------------------------------*/
+
+.wp-block-file .wp-block-file__button,
+.wp-block-button .wp-block-button__link {
+	background-color: #ffb700;
+	color: #fff;
+}
+
+.wp-block-button.is-style-outline .wp-block-button__link:hover,
+.wp-block-button.is-style-outline .wp-block-button__link:focus,
+.wp-block-button__link.is-style-outline:hover,
+.wp-block-button__link.is-style-outline:focus {
+    color: #fff;
+    background-color: #ffb700;
+    border: 2px solid #ffb700;
+}
+
+.wp-block-pullquote,
+.wp-block-quote:not(.is-large):not(.is-style-large) {
+	border-color: #ffb700;
+}

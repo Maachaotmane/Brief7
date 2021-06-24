@@ -1,0 +1,29 @@
+*** Changelog ***
+-------------------------------------------------------------------------
+
+Version 1.0.4 - 02-09-2020
+- Improved: Avoid preloading the retina logo if it is the same image of the normal logo.
+
+Version 1.0.3 - 29-08-2020
+- This version requires Jannah 5.0
+- New: Native Images LazyLoad support.
+- New: Option to disable Font Awesome.
+
+Version 1.0.2 - 05-04-2020
+- Fix: Typography settings bug when the plugin is active.
+
+Version 1.0.1 - 22-01-2020
+- New Test Mode option to disable all custom codes added in the General Tab > Custom Codes section, and all custom Coded Ads added in the theme options page, theme Ad widgets and page builder blocks. 
+
+Version 1.0.0
+- First release
+
+Version 0.3
+- Beta release 3
+
+Version 0.2
+- Beta release 2
+
+Version 0.1
+- Beta release 1
+

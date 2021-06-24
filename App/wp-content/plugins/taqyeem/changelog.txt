@@ -1,0 +1,322 @@
+*** Taqyeem Changelog ***
+-------------------------------------------------------------------------
+
+Version 2.6.2 - 14-01-2020
+- Improvements and minor bug fixes.
+
+Files updated
+- Please replace whole folder. We changed too many files in this version.
+
+
+-------------------------------------------------------------------------
+
+Version 2.6.1 - 10-12-2019
+- Improvements and minor bug fixes.
+
+Files updated
+- style.css
+- taqyeem.php
+- taqyeem-posts.php
+- taqyeem-panel.php
+
+
+-------------------------------------------------------------------------
+
+Version 2.5.0 - 22-10-2019
+- New: Event Structure data.
+
+Files updated
+- style.css
+- taqyeem.php
+- taqyeem-posts.php
+- taqyeem-panel.php
+
+
+-------------------------------------------------------------------------
+
+Version 2.4.2 - 21-10-2019
+- Improved: Products Structure Data.
+
+Files updated
+- style.css
+- taqyeem.php
+
+
+-------------------------------------------------------------------------
+
+Version 2.4.1 - 20-10-2019
+- Improvements and minor bug fixes.
+
+Files updated
+- style.css
+- taqyeem.php
+- taqyeem-posts.php
+- taqyeem-panel.php
+
+
+-------------------------------------------------------------------------
+
+Version 2.4.0 - 20-10-2019
+- New: Added new fields for the new required and recommended data of the products structure data such as Product Description, Product URL, Brand, SKU, MPN Number, GTIN Number, Product Availability, Product Price, Product Price Currency, Product Valid Until 
+
+
+Files updated
+- style.css
+- taqyeem.php
+- taqyeem-posts.php
+- taqyeem-panel.php
+
+
+-------------------------------------------------------------------------
+
+Version 2.3.1 - 21-09-2019
+- Fixed: The author profile URL in the Structure Data.
+
+Files updated
+- style.css
+- taqyeem.php
+
+
+-------------------------------------------------------------------------
+
+Version 2.3.0 - 19-09-2019
+- New: Options to set the Structure Data type.
+- New: Option to globally disable the Structure Data.
+- Fix: PHP notices.
+- And other improvements and minor bug fixes.
+
+Files updated
+- style.css
+- taqyeem.php
+- taqyeem-posts.php
+- taqyeem-panel.php
+- admin/js/tie.js
+- admin/style.css
+
+-------------------------------------------------------------------------
+
+Version 2.2.6 - 19-05-2019
+- Improvements and minor bug fixes.
+
+Files updated
+- style.css
+- taqyeem.php
+- taqyeem-panel.php
+
+-------------------------------------------------------------------------
+
+Version 2.2.5 - 24-09-2018
+- Improvements and minor bug fixes.
+
+Files updated
+- style.css
+- taqyeem.php
+- taqyeem-panel.php
+
+-------------------------------------------------------------------------
+
+Version 2.2.4 - 06-03-2018
+- Improvements and minor bug fixes.
+
+Files updated
+- style.css
+- taqyeem.php
+- taqyeem-panel.php
+
+-------------------------------------------------------------------------
+
+Version 2.2.3 - 02-04-2017
+- Fixed: Posts Excerpt bug.
+- Improvements and minor bug fixes.
+
+Files updated
+- style.css
+- taqyeem.php
+- taqyeem-panel.php
+
+-------------------------------------------------------------------------
+
+Version 2.2.2 - 16-10-2016
+- Fixed: Posts Excerpt bug.
+- Improvements and minor bug fixes.
+
+Files updated
+- style.css
+- taqyeem.php
+
+-------------------------------------------------------------------------
+
+Version 2.2.1 - 23-07-2016
+- Improvements and minor bug fixes.
+
+Files updated
+- style.css
+- taqyeem.php
+
+-------------------------------------------------------------------------
+
+Version 2.2.0 - 20-07-2016
+- Added: New filters for the theme developers.
+- Improved: Saving review functions.
+- Fixed: Some PHP notices.
+- And other improvements and minor bug fixes.
+
+
+Files updated
+- Please replace whole folder. We changed too many files in this version.
+
+-------------------------------------------------------------------------
+
+Version 2.1.5 - 16-09-2015
+- Fixed: Posts Excerpt bug.
+- Fixed: Conflict with Yoast SEO plugin.
+
+Files updated
+- style.css
+- taqyeem.php
+
+-------------------------------------------------------------------------
+
+Version 2.1.4 - 23-08-2015
+- Updated: The plugin is now WordPress 4.3 ready.
+- Fixed: Appearance of the review box code in the excerpt.
+
+Files updated
+- style.css
+- taqyeem.php
+- taqyeem-widgets.php
+
+-------------------------------------------------------------------------
+
+Version 2.1.3 - 15-05-2015
+- Improvements and minor bug fixes.
+
+Files updated
+- style.css
+- taqyeem.php
+
+-------------------------------------------------------------------------
+
+Version 2.1.2 - 15-04-2015
+- Fixed: ratingValue error bug.
+- Fixed: Rate 5 stars bug.
+- Fixed: Stars bug when the review don’t contain any criteria.
+- Fixed: PHP warnings messages.
+- And other improvements and minor bug fixes.
+
+Files updated
+- style.css
+- js/tie.js
+- taqyeem.php
+
+-------------------------------------------------------------------------
+
+Version 2.1.1 - 16-12-2014
+- Improvements and minor bug fixes.
+
+Files updated
+- Please replace whole folder. We changed too many files in this version.
+
+-------------------------------------------------------------------------
+
+Version 2.1.0 - 05-09-2014
+- Improvements and minor bug fixes.
+
+Files updated
+- Please replace whole folder. We changed too many files in this version.
+
+-------------------------------------------------------------------------
+
+Version 2.0.0 - 02-09-2014
+- Added : New Dashboard theme matching with WordPress Dashboard theme.
+- Added : New actions and filters to allow developing add-ons for the plugin easily.
+- Fixed : Bug in the random reviews widget.
+- Fixed : Minor RTL styling Issues.
+- Updated : Languages files.
+- Updated : Documentations.
+- And other improvements and minor bug fixes.
+
+Files updated
+- Please replace whole folder. We changed too many files in this version.
+
+
+-------------------------------------------------------------------------
+
+Version 1.1.4 - 26-01-2014
+- Improvements and minor bug fixes.
+
+Files updated
+- style.css
+- js/tie.js
+- taqyeem.php
+- taqyeem-panel.php
+
+
+-------------------------------------------------------------------------
+
+Version 1.1.3 - 24-06-2013
+- Improvements and minor bug fixes.
+
+Files updated
+- style.css
+- taqyeem.php
+- taqyeem-posts.php
+- taqyeem-widgets.php
+
+
+-------------------------------------------------------------------------
+
+Version 1.1.2 - 16-05-2013
+- Improvements and minor bug fixes.
+
+Files updated
+- style.css
+- taqyeem.php
+- taqyeem-posts.php
+- taqyeem-panel.php
+- js/tie.js
+- admin/js/tie.js
+- admin/style.css
+
+
+-------------------------------------------------------------------------
+
+Version 1.1.1 - 29-04-2013
+- Fixed : Minor responsive bug .
+
+Files updated
+- style.css
+- js/tie.js
+- taqyeem.php
+
+
+-------------------------------------------------------------------------
+
+Version 1.1.0 - 24-04-2013
+- Added : Supports pages .
+- Added : Supports custom post types .
+- Added : Widget for Post Types reviews .
+- Added : Ajax loading image when user click to rate .
+- Added : Animation effects .
+- Improvements and minor bug fixes.
+
+Files updated
+- style.css
+- js/tie.js
+- taqyeem.php
+- taqyeem-posts.php
+- taqyeem-widgets.php
+
+Files Added
+- images/ajax-loader.gif
+
+-------------------------------------------------------------------------
+
+Version 1.0.1 - 22-04-2013
+- Fixed : minor bug .
+
+
+-------------------------------------------------------------------------
+
+Version 1.0.0
+- First release

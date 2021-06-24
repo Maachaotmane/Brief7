@@ -1,0 +1,31 @@
+== Changelog ==
+
+= 1.0.4 =
+Release Date: September 09, 2019
+
+* Improvements and minor bug fixes.
+
+
+= 1.0.3 =
+Release Date: April 11, 2018
+
+* Improvements and minor bug fixes.
+
+
+= 1.0.2 =
+Release Date: March 11, 2018
+
+* Fixed: GoodLife Theme reviews issue.
+
+
+= 1.0.1 =
+Release Date: March 10, 2018
+
+* Improved: GoodLife Theme post layouts settings.
+* Improved: GoodLife Theme Post rating.
+
+
+= 1.0.0 =
+Release Date: June 19, 2017
+
+* Initial release

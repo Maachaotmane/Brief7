@@ -1,0 +1,73 @@
+/*
+Theme Name: BusinessFocus
+Description: Used to style Gutenberg Blocks in the editor.
+*/
+
+.block-editor .editor-styles-wrapper,
+.block-editor .editor-styles-wrapper button,
+.block-editor .editor-styles-wrapper input,
+.block-editor .editor-styles-wrapper select,
+.block-editor .editor-styles-wrapper textarea,
+.block-editor .editor-styles-wrapper h1,
+.block-editor .editor-styles-wrapper h2,
+.block-editor .editor-styles-wrapper h3,
+.block-editor .editor-styles-wrapper h4,
+.block-editor .editor-styles-wrapper h5,
+.block-editor .editor-styles-wrapper h6,
+.block-editor .editor-styles-wrapper .button,
+.block-editor .editor-styles-wrapper input[type="button"],
+.block-editor .editor-styles-wrapper input[type="reset"],
+.block-editor .editor-styles-wrapper input[type="submit"] {
+	font-family: "Poppins", sans-serif;
+}
+
+
+.wp-block-quote:not(.is-large):not(.is-style-large) {
+	border-color: #ffb700;
+}
+
+.wp-block-file__textlink {
+	color: #ffb700;
+}
+
+.wp-block-file .wp-block-file__button {
+	background: #ffb700;
+}
+
+.wp-block-freeform.block-library-rich-text__tinymce blockquote {
+	border-left: 4px solid #ffb700;
+}
+
+.editor-block-list__block-edit .wp-block-pullquote blockquote {
+	border: 4px solid #ffb700;
+}
+
+.wp-block-button .wp-block-button__link {
+	background-color: #ffb700;
+	color: #fff;
+}
+
+.wp-block-button.is-style-outline .wp-block-button__link,
+.wp-block-button.wp-block-button__link.is-style-outline {
+    color: #fff;
+}
+
+.wp-block-button .wp-block-button__link:hover,
+.wp-block-button .wp-block-button__link:focus {
+	background-color: transparent;
+	color: #fff;
+}
+
+.wp-block-button.is-style-outline .wp-block-button__link:hover,
+.wp-block-button.is-style-outline .wp-block-button__link:focus,
+.wp-block-button__link.is-style-outline:hover,
+.wp-block-button__link.is-style-outline:focus {
+    color: #fff;
+    background-color: #ffb700;
+    border: 2px solid #ffb700;
+}
+
+.block-editor .editor-styles-wrapper blockquote::before {
+	color: #ffb700;
+}
+

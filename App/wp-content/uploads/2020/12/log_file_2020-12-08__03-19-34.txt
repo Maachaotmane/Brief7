@@ -1,0 +1,65 @@
+
+---Downloaded files---
+The import files for: Main Demo were successfully downloaded!
+MAX EXECUTION TIME = 3000
+Files info:
+Site URL = https://chabab.net
+Data file = /home/chabnted/public_html/wp-content/uploads/2020/12/demo-content-import-file_2020-12-08__03-19-34.xml
+Widget file = not defined!
+Customizer file = not defined!
+
+---Debugging---
+Begin to import the media files from the XML
+
+---Importing content---
+[ERROR] Failed to import "logopng" (Fichier média)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/demo/logo.png
+[ERROR] Failed to import "1jpg" (Fichier média)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/demo/1.jpg
+[ERROR] Failed to import "2jpg" (Fichier média)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/demo/2.jpg
+[ERROR] Failed to import "3jpg" (Fichier média)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/demo/3.jpg
+[ERROR] Failed to import "4jpg" (Fichier média)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/demo/4.jpg
+[ERROR] Failed to import "5jpg" (Fichier média)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/demo/5.jpg
+[ERROR] Failed to import "6jpg" (Fichier média)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/demo/6.jpg
+[ERROR] Failed to import "7jpg" (Fichier média)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/demo/7.jpg
+[ERROR] Failed to import "8jpg" (Fichier média)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/demo/8.jpg
+[ERROR] Failed to import "9jpg" (Fichier média)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/demo/9.jpg
+[ERROR] Failed to import "10jpg" (Fichier média)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/demo/10.jpg
+[ERROR] Failed to import "11jpg" (Fichier média)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/demo/11.jpg
+[ERROR] Failed to import "12jpg" (Fichier média)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/demo/12.jpg
+[ERROR] Failed to import "13jpg" (Fichier média)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/demo/13.jpg
+[ERROR] Failed to import "14jpg" (Fichier média)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/demo/14.jpg
+[ERROR] Failed to import "15jpg" (Fichier média)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/demo/15.jpg
+[ERROR] Failed to import "16jpg" (Fichier média)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/demo/16.jpg
+[ERROR] Failed to import "17jpg" (Fichier média)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/demo/17.jpg
+[ERROR] Failed to import "18jpg" (Fichier média)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/demo/18.jpg
+[ERROR] Failed to import "19jpg" (Fichier média)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/demo/19.jpg
+[ERROR] Failed to import "20jpg" (Fichier média)
+[ERROR] Remote server returned 403 Forbidden for https://s3-us-west-2.amazonaws.com/tielabs/jannah/demo-content/demo/20.jpg
+
+MAX EXECUTION TIME = 300
+MEMORY LIMIT = 350M
+
+---Debugging---
+After importing the media files from the XML
+
+---Completed---
+The Demo has been imported in 4.2286298274994econds.

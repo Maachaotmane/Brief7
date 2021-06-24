@@ -1,0 +1,151 @@
+#posts-switcher-notes{
+  max-width: 700px;
+  margin: 10px 0 20px !important;
+  display: block;
+  font-size: 13px;
+}
+
+#posts-switcher-notes ol{
+	margin-top: 0;
+	margin-bottom: 0;
+}
+
+#posts-switcher-notes li{
+	margin-bottom: 1px;
+}
+
+.switcher-green{
+	color: green;
+}
+
+.switcher-red{
+	color: red;
+}
+
+#jannah-switcher{
+	display: block;
+	padding: 0 60px;
+	margin-top: 20px;
+}
+
+#post-switcher-item{
+	padding: 0;
+  position: relative;
+  background: transparent;
+  border-bottom: none;
+}
+
+#tie_post-switcher{
+  padding: 8px 0 0;
+}
+
+#post-switcher-item .tie-options li:first-child,
+#post-switcher-item .tie-options li:after{
+	display: none;
+}
+
+#post-switcher-item .tie-options li{
+	width: 160px !important;
+	clear: none  !important;
+	border: 1px solid #e5e5e5;
+
+  -webkit-transition: all 0.2s;
+          transition: all 0.2s;
+
+  -webkit-box-shadow: 0 1px 1px rgba(0,0,0,.04);
+          box-shadow: 0 1px 1px rgba(0,0,0,.04);
+}
+
+#post-switcher-item .tie-options li:hover,
+#post-switcher-item .tie-options li.selected{
+	  -webkit-transform: scale(1.1);
+    transform: scale(1.1);
+}
+
+#post-switcher-item .tie-options li a,
+#post-switcher-item .tie-options li img,
+#post-switcher-item .tie-options li a span{
+	-webkit-transition: all 0.2s;
+          transition: all 0.2s;
+}
+
+#post-switcher-item .tie-options li:not(.selected) a,
+#post-switcher-item .tie-options li:not(.selected) img,
+#post-switcher-item .tie-options li:not(.selected) a span{
+	background: #ffffff;
+}
+
+#post-switcher-item .tie-options li:not(.selected):hover a,
+#post-switcher-item .tie-options li:not(.selected):hover img,
+#post-switcher-item .tie-options li:not(.selected):hover a span{
+	background: #fdffeb;
+}
+
+
+#post-switcher-item .tie-options li a{
+	text-align: center;
+	padding: 20px 20px 15px;
+}
+
+#post-switcher-item .tie-options li img{
+	width: 80px;
+	max-width: 80px;
+	background: transparent;
+}
+
+#post-switcher-item .tie-options li a span{
+	margin: 5px -15px 0;
+}
+
+#post-switcher-item .tie-options li a span strong{
+	font-size: 14px;
+}
+
+#post-switcher-item .tie-options li a span small{
+	display: block;
+	padding: 5px 0 0;
+}
+
+#posts-switcher-debuglist {
+  overflow: auto;
+  height: 600px;
+  margin-left: 0;
+  padding: 1em 1.2em;
+  background: #e8e8e8;
+  list-style-position: inside;
+}
+
+#posts-switcher-debuglist div.updated{
+	display: block !important;
+}
+
+.switcher-message{
+	background: #fff;
+	padding: 10px 15px;
+	overflow: hidden;
+  -webkit-box-shadow: 0 1px 1px 0 rgba(0,0,0,.1);
+          box-shadow: 0 1px 1px 0 rgba(0,0,0,.1);
+}
+
+.switcher-message.finished{
+	margin: 15px 0 55px;
+}
+
+.switcher-message.finished #tie-saving-settings{
+	position: relative;
+  top: auto;
+  bottom: auto;
+  left: auto;
+  right: auto;
+  -webkit-transform: none;
+  -ms-transform: none;
+  transform: none;
+  float: left;
+  margin-right: 20px;
+}
+
+.rtl .switcher-message.finished #tie-saving-settings{
+	margin-right: 0;
+	margin-left: 20px;
+	float: right;
+}

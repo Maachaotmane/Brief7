@@ -1,0 +1,629 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Instagramy\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-08-14 14:27+0200\n"
+"PO-Revision-Date: 2017-08-14 14:27+0200\n"
+"Last-Translator: Fouad Badawy <support@tielabs.com>\n"
+"Language-Team: Tielabs <info@tielabs.com>\n"
+"Language: en_EG\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: gettext;gettext_noop;_e;__;esc_html__;esc_html_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Poedit 2.0.3\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+
+#: ../custom-sliders/custom-sliders.php:19
+msgid "Custom Sliders"
+msgstr ""
+
+#: ../custom-sliders/custom-sliders.php:20
+msgid "Slider"
+msgstr ""
+
+#: ../custom-sliders/custom-sliders.php:21
+msgid "Add New Slider"
+msgstr ""
+
+#: ../custom-sliders/custom-sliders.php:81
+msgid "Insert Images"
+msgstr ""
+
+#: ../custom-sliders/custom-sliders.php:86
+msgid "Select"
+msgstr ""
+
+#: ../custom-sliders/custom-sliders.php:104
+#: ../custom-sliders/custom-sliders.php:155
+msgid "Slide Title:"
+msgstr ""
+
+#: ../custom-sliders/custom-sliders.php:110
+#: ../custom-sliders/custom-sliders.php:162
+msgid "Slide Link:"
+msgstr ""
+
+#: ../custom-sliders/custom-sliders.php:116
+#: ../custom-sliders/custom-sliders.php:169
+msgid "Slide Caption:"
+msgstr ""
+
+#: ../custom-sliders/custom-sliders.php:185
+msgid "Add New Slide"
+msgstr ""
+
+#: ../custom-sliders/custom-sliders.php:222 ../shortcodes/shortcodes.php:86
+msgid "Title"
+msgstr ""
+
+#: ../custom-sliders/custom-sliders.php:223
+msgid "Number of slides"
+msgstr ""
+
+#: ../custom-sliders/custom-sliders.php:224
+msgid "ID"
+msgstr ""
+
+#: ../custom-sliders/custom-sliders.php:225
+msgid "Date"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:28
+msgid "Jannah Shortcodes"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:29
+msgid "Need help?"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:31
+msgid "Quote"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:32
+msgid "Author"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:33
+msgid "Box"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:34
+msgid "Alignment"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:35
+msgid "Custom Class"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:36
+msgid "Style"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:37
+msgid "Dark"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:38
+msgid "Light"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:39
+msgid "Simple"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:40
+msgid "Shadow"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:41
+msgid "Info"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:42
+msgid "Success"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:43
+msgid "Warning"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:44
+msgid "Error"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:45
+msgid "Download"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:46
+msgid "Note"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:47 ../shortcodes/shortcodes.php:118
+msgid "Right"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:48 ../shortcodes/shortcodes.php:117
+msgid "Left"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:49
+msgid "Center"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:50
+msgid "Width"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:51
+msgid "Content"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:52
+msgid "Button"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:53
+msgid "Nofollow?"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:54
+msgid "Color"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:55
+msgid "Red"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:56
+msgid "Orange"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:57
+msgid "Blue"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:58
+msgid "Green"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:59
+msgid "Black"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:60
+msgid "Gray"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:61
+msgid "White"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:62
+msgid "Pink"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:63
+msgid "Purple"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:64
+msgid "Yellow"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:65
+msgid "Size"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:66
+msgid "Small"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:67
+msgid "Medium"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:68
+msgid "Big"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:69
+msgid "Link"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:70
+msgid "Text"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:71
+msgid "Icon (use full Font Awesome name)"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:72
+msgid "Open link in a new window/tab"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:73
+msgid "Tabs"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:74
+msgid "Tab 1 Title"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:75
+msgid "Tab 2 Title"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:76
+msgid "Tab 3 Title"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:77
+msgid "Tab 1 | Your Content"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:78
+msgid "Tab 2 | Your Content"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:79
+msgid "Tab 3 | Your Content"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:80
+msgid "Slide 1 | Your Content"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:81
+msgid "Slide 2 | Your Content"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:82
+msgid "Slide 3 | Your Content"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:83
+msgid "Vertical"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:84
+msgid "Horizontal"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:85
+msgid "Toggle Box"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:87
+msgid "State"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:88
+msgid "Opened"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:89
+msgid "Closed"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:90
+msgid "Content Slideshow"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:91
+msgid "Author Bio"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:92
+msgid "Author Image URL"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:93
+msgid "Flickr"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:94
+msgid "Add photos from Flickr"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:95
+msgid "Account ID  ( get it from http//idgettr.com )"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:96
+msgid "Number of photos"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:97
+msgid "Sorting"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:98
+msgid "Recent"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:99
+msgid "Random"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:100
+msgid "Display Feeds"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:101
+msgid "URL of the RSS feed"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:102
+msgid "Number of Feeds"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:103
+msgid "Google Maps"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:104
+msgid "Google Maps URL"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:105
+msgid "Height"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:106
+msgid "Video"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:107
+msgid "Video URL"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:108
+msgid "Audio"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:109
+msgid "MP3 file URL"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:110
+msgid "M4A file URL"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:111
+msgid "OGG file URL"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:112
+msgid "Lightbox"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:113
+msgid "Full Image or YouTube / Vimeo Video URL"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:114
+msgid "Tooltip"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:115
+msgid "Direction"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:116
+msgid "Top"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:119
+msgid "Bottom"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:120
+msgid "Share Buttons"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:121
+msgid "Facebook Like Button"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:122
+msgid "Tweet Button"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:123
+msgid "Stumble Button"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:124
+msgid "Google+ Button"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:125
+msgid "Pinterest Button"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:126
+msgid "Twitter Follow Button"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:127
+msgid "Twitter Username"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:128
+msgid "Login Form"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:129
+msgid "Tags Cloud"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:130
+msgid "Dropcap"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:131
+msgid "Highlight Text"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:132
+msgid "Padding"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:133
+msgid "Padding Top"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:134
+msgid "Padding Bottom"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:135
+msgid "Padding right"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:136
+msgid "Padding Left"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:137
+msgid "Divider Line"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:138
+msgid "Solid"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:139
+msgid "Dashed"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:140
+msgid "Normal"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:141
+msgid "Double"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:142
+msgid "Dotted"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:143
+msgid "Margin Top"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:144
+msgid "Margin Bottom"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:145
+msgid "Lists"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:146
+msgid "Star"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:147
+msgid "Check"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:148
+msgid "Thumb Up"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:149
+msgid "Thumb Down"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:150
+msgid "Plus"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:151
+msgid "Minus"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:152
+msgid "Heart"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:153
+msgid "Light Bulb"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:154
+msgid "Cons"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:155
+msgid "Ads"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:156
+msgid "Ads Shortcode 1"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:157
+msgid "Ads Shortcode 2"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:158
+msgid "Ads Shortcode 3"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:159
+msgid "Ads Shortcode 4"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:160
+msgid "Ads Shortcode 5"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:161
+msgid "Columns"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:162
+msgid "Add content here"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:163
+msgid "Full Width Image"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:164
+msgid "Content Index"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:165
+msgid "Restrict Content"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:166
+msgid "For Registered Users only"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:167
+msgid "For Guests only"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:466
+msgid "About the author"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:565
+msgid "No items."
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:570
+msgid "Posted"
+msgstr ""

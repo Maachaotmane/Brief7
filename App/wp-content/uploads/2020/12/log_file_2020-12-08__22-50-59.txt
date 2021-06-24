@@ -1,0 +1,40 @@
+
+---Downloaded files---
+The import files for: Main Demo were successfully downloaded!
+MAX EXECUTION TIME = 3000
+Files info:
+Site URL = https://chabab.net
+Data file = /home/chabnted/public_html/wp-content/uploads/2020/12/demo-content-import-file_2020-12-08__22-50-59.xml
+Widget file = not defined!
+Customizer file = not defined!
+
+---Debugging---
+Begin to import the media files from the XML
+
+------
+Completed AJAX call number: 1
+
+
+---Debugging---
+Begin to import the media files from the XML
+
+------
+Completed AJAX call number: 2
+
+
+---Debugging---
+Begin to import the media files from the XML
+
+---Importing content---
+
+MAX EXECUTION TIME = 300
+MEMORY LIMIT = 350M
+
+---Debugging---
+After importing the media files from the XML
+
+---pt-ocdi/before_widgets_import---
+
+
+---Completed---
+The Demo has been imported in 13.869750022888econds.

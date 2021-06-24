@@ -1,0 +1,525 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Taqyeem\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-09-19 15:07+0300\n"
+"PO-Revision-Date: 2019-09-19 15:10+0300\n"
+"Last-Translator: Fouad Badawy <support@tielabs.com>\n"
+"Language-Team: Tielabs <info@tielabs.com>\n"
+"Language: ar\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: gettext;gettext_noop;_e;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Poedit 2.2.1\n"
+"Plural-Forms: nplurals=6; plural=(n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 "
+"&& n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5);\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+
+#: ../taqyeem-panel.php:36 ../taqyeem-posts.php:240
+msgid "Review Criteria"
+msgstr "العنوان"
+
+#: ../taqyeem-panel.php:36 ../taqyeem-posts.php:243
+msgid "Criteria Score"
+msgstr "التقييم"
+
+#: ../taqyeem-panel.php:36 ../taqyeem-posts.php:246
+msgid "Delete"
+msgstr "حذف"
+
+#: ../taqyeem-panel.php:139 ../taqyeem-panel.php:140
+msgid "Settings"
+msgstr "إعدادات"
+
+#: ../taqyeem-panel.php:141
+msgid "Documentation"
+msgstr "التوثيق"
+
+#: ../taqyeem-panel.php:366
+msgid "Save Settings"
+msgstr "حفظ التغييرات"
+
+#: ../taqyeem-panel.php:382
+msgid "Start"
+msgstr "البداية"
+
+#: ../taqyeem-panel.php:383 ../taqyeem-panel.php:445
+msgid "General Settings"
+msgstr "إعددات عامة"
+
+#: ../taqyeem-panel.php:386 ../taqyeem-panel.php:524 ../taqyeem-panel.php:527
+msgid "Styling"
+msgstr "المظهر"
+
+#: ../taqyeem-panel.php:387 ../taqyeem-panel.php:606 ../taqyeem-panel.php:640
+msgid "Typography"
+msgstr "الخطوط"
+
+#: ../taqyeem-panel.php:392 ../taqyeem-panel.php:682
+msgid "Advanced Settings"
+msgstr "خيارات متقدمة"
+
+#: ../taqyeem-panel.php:402
+msgid "Welcome to TAQYEEM!"
+msgstr "أهلا بك :)"
+
+#: ../taqyeem-panel.php:404
+msgid ""
+"Thank you for purchasing the TAQYEEM plugin, a WordPress plugin by <a href="
+"\"http://tielabs.com/\" target=\"_blank\">TieLabs</a>."
+msgstr ""
+"شكراً على شرائك إضافة تقييم ... إضافة ووردبريس من <a href=\"http://tielabs."
+"com/\" target=\"_blank\">TieLabs</a>."
+
+#: ../taqyeem-panel.php:407
+msgid "Need Help?"
+msgstr "هل تحتاج للمساعدة ؟"
+
+#: ../taqyeem-panel.php:409
+msgid "Plugin Docs"
+msgstr "توثيق الإضافة"
+
+#: ../taqyeem-panel.php:410
+msgid "Support"
+msgstr "الدعم الفني"
+
+#: ../taqyeem-panel.php:415
+msgid "Rate Taqyeem"
+msgstr "تقييم الإضافة"
+
+#: ../taqyeem-panel.php:416
+msgid ""
+"If you like Taqyeem, please don’t forget to <a target=\"_blank\" href="
+"\"http://themeforest.net/downloads?ref=tielabs\">rate it</a>"
+msgstr ""
+"إذا أعجبتك الإضافة .. لا تنسى <a target=\"_blank\" href=\"http://themeforest."
+"net/downloads?ref=tielabs\">تقييمها</a>"
+
+#: ../taqyeem-panel.php:423
+msgid "Taqyeem Add-ons"
+msgstr "إضافات لتقييم"
+
+#: ../taqyeem-panel.php:432
+msgid "GET IT NOW"
+msgstr "إحصل عليها الآن"
+
+#: ../taqyeem-panel.php:448
+msgid "Show Review Boxes in the singular pages only ?"
+msgstr "إظهار مربع المراجعه في صفحة التدوينة فقط ؟"
+
+#: ../taqyeem-panel.php:451
+msgid "Enable in Single page only ?"
+msgstr "تفعيل مربع المراجعه في صفحة التدوينة فقط ؟"
+
+#: ../taqyeem-panel.php:455
+msgid ""
+"Enable it if your theme uses ' the_content() ' in homepage and archives "
+"pages and you want to show post review box in the single post page only !"
+msgstr ""
+
+#: ../taqyeem-panel.php:459 ../taqyeem-panel.php:462
+msgid "Who Is Allowed To Rate ?"
+msgstr "من لهم صلاحية التقييم ؟"
+
+#: ../taqyeem-panel.php:465
+msgid "No One !"
+msgstr "لا أحد !"
+
+#: ../taqyeem-panel.php:466
+msgid "Registered Users And Guests"
+msgstr "الأعضاء و الزوار"
+
+#: ../taqyeem-panel.php:467
+msgid "Guests Only"
+msgstr "الزوار فقط"
+
+#: ../taqyeem-panel.php:468
+msgid "Registered Users Only"
+msgstr "الأعضاء المسجلون فقط"
+
+#: ../taqyeem-panel.php:472 ../taqyeem-panel.php:475
+msgid "Ratings Image"
+msgstr "الصورة المستخدمة"
+
+#: ../taqyeem-panel.php:486
+msgid "Structured Data"
+msgstr ""
+
+#: ../taqyeem-panel.php:490
+msgid "Enable Structured Data"
+msgstr ""
+
+#: ../taqyeem-panel.php:497
+msgid "Default Structured Data"
+msgstr ""
+
+#: ../taqyeem-panel.php:501 ../taqyeem-posts.php:110
+msgid "Product"
+msgstr ""
+
+#: ../taqyeem-panel.php:502 ../taqyeem-posts.php:111
+msgid "Book"
+msgstr ""
+
+#: ../taqyeem-panel.php:503 ../taqyeem-posts.php:112
+msgid "Movie"
+msgstr ""
+
+#: ../taqyeem-panel.php:504 ../taqyeem-posts.php:113
+msgid "Game"
+msgstr ""
+
+#: ../taqyeem-panel.php:505 ../taqyeem-posts.php:114
+msgid "Course"
+msgstr ""
+
+#: ../taqyeem-panel.php:506 ../taqyeem-posts.php:115
+msgid "Organization"
+msgstr ""
+
+#: ../taqyeem-panel.php:507 ../taqyeem-posts.php:116
+msgid "MusicRecording"
+msgstr ""
+
+#: ../taqyeem-panel.php:508 ../taqyeem-posts.php:117
+msgid "MusicPlaylist"
+msgstr ""
+
+#: ../taqyeem-panel.php:509 ../taqyeem-posts.php:118
+msgid "Episode"
+msgstr ""
+
+#: ../taqyeem-panel.php:510 ../taqyeem-posts.php:119
+msgid "Restaurant"
+msgstr ""
+
+#: ../taqyeem-panel.php:530
+msgid "Review Box Outer Border"
+msgstr "الإطار الخارجي لمربع المراجعة"
+
+#: ../taqyeem-panel.php:535
+msgid "Review Box Header & Footer Background"
+msgstr "رأس و ذيل مربع المراجعة"
+
+#: ../taqyeem-panel.php:540
+msgid "Review items Background"
+msgstr "خلفية عناصر المراجعة"
+
+#: ../taqyeem-panel.php:545
+msgid "Final Score and percentage bar Background"
+msgstr "خلفية التقييم النهائي و شريط النسبة المئوية"
+
+#: ../taqyeem-panel.php:550
+msgid "Links Color"
+msgstr "لون الروابط"
+
+#: ../taqyeem-panel.php:555
+msgid "Links Decoration"
+msgstr "زخرفة الروابط"
+
+#: ../taqyeem-panel.php:565
+msgid "Links Color on mouse over"
+msgstr "لون الروابط مع تمرير الماوس"
+
+#: ../taqyeem-panel.php:570
+msgid "Links Decoration on mouse over"
+msgstr "زخرفة الروابط مع تمرير الماوس"
+
+#: ../taqyeem-panel.php:584
+msgid "Custom CSS"
+msgstr ""
+
+#: ../taqyeem-panel.php:586
+msgid "Global CSS :"
+msgstr ""
+
+#: ../taqyeem-panel.php:590
+msgid "Tablets CSS :"
+msgstr ""
+
+#: ../taqyeem-panel.php:590
+msgid "Width from 768px to 985px"
+msgstr ""
+
+#: ../taqyeem-panel.php:594
+msgid "Wide Phones CSS :"
+msgstr ""
+
+#: ../taqyeem-panel.php:594
+msgid "Width from 480px to 767px"
+msgstr ""
+
+#: ../taqyeem-panel.php:598
+msgid "Phones CSS :"
+msgstr ""
+
+#: ../taqyeem-panel.php:598
+msgid "Width from 320px to 479px"
+msgstr ""
+
+#: ../taqyeem-panel.php:609
+msgid "Character sets"
+msgstr ""
+
+#: ../taqyeem-panel.php:610
+msgid ""
+"<strong>Tip:</strong> If you choose only the languages that you need, you'll "
+"help prevent slowness on your webpage."
+msgstr ""
+
+#: ../taqyeem-panel.php:613
+msgid "Latin Extended"
+msgstr ""
+
+#: ../taqyeem-panel.php:618
+msgid "Cyrillic"
+msgstr "‫Cyrillic"
+
+#: ../taqyeem-panel.php:623
+msgid "Cyrillic Extended"
+msgstr "‫Cyrillic Extended"
+
+#: ../taqyeem-panel.php:628
+msgid "Greek"
+msgstr "‫Greek"
+
+#: ../taqyeem-panel.php:633
+msgid "Greek Extended"
+msgstr "‫Greek Extended"
+
+#: ../taqyeem-panel.php:643 ../taqyeem-posts.php:82
+msgid "Review Box Title"
+msgstr "عنوان مربع المراجعة"
+
+#: ../taqyeem-panel.php:648
+msgid "Review Items"
+msgstr "عناصر المراجعة"
+
+#: ../taqyeem-panel.php:653 ../taqyeem-posts.php:98
+msgid "Review Summary"
+msgstr "ملخص المراجعة"
+
+#: ../taqyeem-panel.php:658
+msgid "Total Score"
+msgstr "التقييم النهائي"
+
+#: ../taqyeem-panel.php:663
+msgid "Final opinion Text"
+msgstr "الرأي العام"
+
+#: ../taqyeem-panel.php:668
+msgid "User Rating"
+msgstr "تقييم المستخدمون"
+
+#: ../taqyeem-panel.php:689
+msgid "Export"
+msgstr "تصدير الإعدادات"
+
+#: ../taqyeem-panel.php:695
+msgid "Import"
+msgstr "إستيراد الإعدادات"
+
+#: ../taqyeem-panel.php:711
+msgid "All settings will be reset .. Are you sure ?"
+msgstr "سيتم إعادة تعيين كافة الإعدادات .. هل تريد الإستمرار ؟"
+
+#: ../taqyeem-panel.php:711
+msgid "Reset Settings"
+msgstr "إعادة تعيين"
+
+#: ../taqyeem-posts.php:14
+msgid "Review Options"
+msgstr "خيارات المراجعة"
+
+#: ../taqyeem-posts.php:47
+msgid "Review Box Position"
+msgstr "موضع مربع المراجعة"
+
+#: ../taqyeem-posts.php:51
+msgid "Disable"
+msgstr "تعطيل"
+
+#: ../taqyeem-posts.php:52
+msgid "Top of the post"
+msgstr "بداية التدوينة"
+
+#: ../taqyeem-posts.php:53
+msgid "Bottom of the post"
+msgstr "نهاية التدوينة"
+
+#: ../taqyeem-posts.php:54
+msgid "Custom position"
+msgstr "مكان مخصص"
+
+#: ../taqyeem-posts.php:60
+#, php-format
+msgid ""
+"Use <strong>[taq_review]</strong> shortcode to place the review box in any "
+"place within post content or use <strong> %s </strong> Widget ."
+msgstr ""
+"إستخدم الكود المختصر <strong>[taq_review]</strong> لعرض مربع المراجعه في أي "
+"موضع داخل محتوى التدوينة أو إستخدم المربع الجانبي <strong> %s </strong> ."
+
+#: ../taqyeem-posts.php:71
+msgid "Review Style"
+msgstr "النمط المستخدم"
+
+#: ../taqyeem-posts.php:75
+msgid "Image"
+msgstr "صورة"
+
+#: ../taqyeem-posts.php:76
+msgid "Percentage"
+msgstr "النسبة المئوية"
+
+#: ../taqyeem-posts.php:77
+msgid "Points"
+msgstr "رقمي"
+
+#: ../taqyeem-posts.php:89
+msgid "Text appears under the total score"
+msgstr "النص أسفل التقييم النهائي"
+
+#: ../taqyeem-posts.php:105
+msgid "Structured Data Type"
+msgstr "نوع Structured Data"
+
+#: ../taqyeem-posts.php:109
+msgid "Default"
+msgstr "الإفتراضي"
+
+#: ../taqyeem-posts.php:125
+msgid "Author"
+msgstr "الكاتب"
+
+#: ../taqyeem-posts.php:133
+msgid "Author URL"
+msgstr "رابط الكاتب"
+
+#: ../taqyeem-posts.php:141
+msgid "ISBN"
+msgstr "‫ISBN"
+
+#: ../taqyeem-posts.php:150
+msgid "Movie URL"
+msgstr "رابط الفيلم"
+
+#: ../taqyeem-posts.php:158
+msgid "Movie Date"
+msgstr "تاريخ عرض الفيلم"
+
+#: ../taqyeem-posts.php:166
+msgid "Director"
+msgstr "المٌخرج"
+
+#: ../taqyeem-posts.php:175
+msgid "Description"
+msgstr "الوصف"
+
+#: ../taqyeem-posts.php:183
+msgid "Provider"
+msgstr "المُنظم"
+
+#: ../taqyeem-posts.php:192
+msgid "Address"
+msgstr "العنوان"
+
+#: ../taqyeem-posts.php:200
+msgid "Price"
+msgstr "السعر"
+
+#: ../taqyeem-posts.php:208
+msgid "Cuisine"
+msgstr ""
+
+#: ../taqyeem-posts.php:216
+msgid "Telephone"
+msgstr "الهاتف"
+
+#: ../taqyeem-posts.php:226
+msgid "Add New Review Criteria"
+msgstr "أضف عنصر جديد للمراجعة"
+
+#: ../taqyeem-widgets.php:66
+msgid "Review Overview"
+msgstr "المراجعة"
+
+#: ../taqyeem-widgets.php:70
+msgid "This Widget appears in single post only ."
+msgstr "هذا المربع سيظهر في صفحة التدوينات والصفحات فقط ."
+
+#: ../taqyeem-widgets.php:73 ../taqyeem-widgets.php:184
+#: ../taqyeem-widgets.php:324
+msgid "Title : "
+msgstr "عنوان : "
+
+#: ../taqyeem-widgets.php:155 ../taqyeem-widgets.php:206
+#: ../taqyeem-widgets.php:300 ../taqyeem-widgets.php:347
+msgid "Best Reviews"
+msgstr "أفضل المراجعات"
+
+#: ../taqyeem-widgets.php:189 ../taqyeem-widgets.php:329
+msgid "Number of posts to show :"
+msgstr "عدد التدوينات المعروضة:"
+
+#: ../taqyeem-widgets.php:194
+msgid "Categories :"
+msgstr "التصنيفات:"
+
+#: ../taqyeem-widgets.php:202 ../taqyeem-widgets.php:343
+msgid "Posts Order :"
+msgstr "طريقة العرض:"
+
+#: ../taqyeem-widgets.php:204 ../taqyeem-widgets.php:345
+msgid "Recent Reviews"
+msgstr "الأخيره"
+
+#: ../taqyeem-widgets.php:205 ../taqyeem-widgets.php:346
+msgid "Random Reviews"
+msgstr "عشوائي"
+
+#: ../taqyeem-widgets.php:211 ../taqyeem-widgets.php:352
+msgid "Display Thumbinals"
+msgstr "عرض مصغرات التدوينات"
+
+#: ../taqyeem-widgets.php:218 ../taqyeem-widgets.php:359
+msgid "Thumbinals Size :"
+msgstr "حجم الصورة :"
+
+#: ../taqyeem-widgets.php:334
+msgid "Post Types :"
+msgstr ""
+
+#: ../taqyeem.php:503
+msgid "No Ratings Yet !"
+msgstr "لم يتم التصويت بعد !"
+
+#: ../taqyeem.php:507
+msgid "Be the first one !"
+msgstr "كن أول المصوتون !"
+
+#: ../taqyeem.php:545 ../taqyeem.php:565 ../taqyeem.php:902
+msgid "Your Rating:"
+msgstr "تقييمك:"
+
+#: ../taqyeem.php:547 ../taqyeem.php:567 ../taqyeem.php:606
+msgid "votes"
+msgstr "أصوات"
+
+#: ../taqyeem.php:584 ../taqyeem.php:604
+msgid "User Rating:"
+msgstr "تقييم المستخدمون:"
+
+#: ../taqyeem.php:719 ../taqyeem.php:784
+msgid "No Posts"
+msgstr "لا يوجد مقالات"
+
+#~ msgid "Add-ons"
+#~ msgstr "إضافات"
+
+#~ msgid "Advanced"
+#~ msgstr "خيارات متقدمه"

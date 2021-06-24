@@ -1,0 +1,3 @@
+Jun 23 2021 15:11:13
+{"type":8192,"message":"Methods with the same name as their class will not be constructors in a future version of PHP; Blogger_Importer has a deprecated constructor","file":"C:\\wamp64\\www\\aoo\\wp-content\\plugins\\blogger-importer\\blogger-importer.php","line":44}
+

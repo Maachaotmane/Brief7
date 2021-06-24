@@ -1,0 +1,45 @@
+.arq-lite-content .links-table{
+	border-right:1px solid #CCC;
+	padding-right: 15px;
+	margin-right:15px;
+	width: 65%;
+	float:left;
+}
+
+.arq-lite-content .links-table th{
+	vertical-align: top;
+	padding-top:7px;
+}
+
+.js.toplevel_page_arqam_lite .postbox .hndle{
+	cursor: auto;
+}
+
+.links-table td input[type=text],
+.links-table td input[type=password],
+.links-table td textarea {
+	width: 100%;
+}
+
+.arq-lite-content .links-table th {
+	min-width: 150px;
+}
+
+body.rtl .arq-lite-content .links-table{
+	border-left:1px solid #CCC;
+	border-right:0 none;
+	padding-right: 0;
+	padding-left: 15px;
+	margin-left:15px;
+	margin-right:0;
+	float:right;
+}
+
+#tie_rss_feedpress,
+#tie_rss_manual{
+	display:none;
+}
+
+.tie-get-api-key{
+	margin: 5px 0 10px !important;
+}
