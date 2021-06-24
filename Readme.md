@@ -23,10 +23,15 @@ Pour installer cette apllication vous aurez besoin de :
 6- Vous allez créer une page de configuration .. Cliquez sur « C’est parti ! »
 
 7- Remplissez les champs demandés et indiquez les informations demandées :
-    a Nom de la base de données : le nom de votre base de données que vous avez  créé dans phpmyadmin, pour moi « wordpress ».
+    
+    a) Nom de la base de données : le nom de votre base de données que vous avez  créé dans phpmyadmin, pour moi « wordpress ».
+    
     b) Identifiant : l’identifiant en local c’est root.
+    
     c) Mot de passe: (vide).
+    
     d)Adresse de la base de données : localhost.
+    
     e)Préfixe des tables : de base c’est wp_ mais vous pouvez le changer à votre convenance. Comme c’est un site en local, il n’y a pas grand risque à laisser « wp_ » (wordpress). Certains recommandent de le changer pour des raisons de sécurité. Si par la suite, vous basculez le site en ligne, la précaution voudrait que vous changiez le préfixe des tables.
 
 8- Il ne vous reste plus qu’à cliquer sur « lancer l’installation » .
